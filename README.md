@@ -1,4 +1,4 @@
-#My Ideal
+**My Shell Ideal**
 
 When you start writing your first scripts, it is important to get into a good habit of clearly labelling each section of the script with comments and any details that are relevant. 
 
@@ -7,7 +7,9 @@ B. Add the authors name to the script
 C. Include a version number of a script. 
 D. Add a brief description as to the main function of the script. 
 
-#Sample template here;
+
+
+_Sample template here;_
 !/bin/bash
 
  Script Name: mytest.sh

@@ -21,5 +21,8 @@ echo "Today's date is $test"
 echo "I'll create a new file and then edit"
 touch Newfile.sh
 
-cat ./Newfile.sh
-#failed I haven't figured it yet
+#cat ./Newfile.sh
+##failed I haven't figured it yet
+
+nano ./Newfile.sh
+#oh yes! I have!!

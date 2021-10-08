@@ -22,7 +22,4 @@ Sample template
 # Description: The following script reads in a text file called /path/to/file 
 #              and creates a new file called /path/to/newfile
 #
-# Run Information: This script is run automatically every Monday of every week at 20:00hrs from
-#                  a crontab entry. 
-#
-# Error Log:
+# Run Information: 

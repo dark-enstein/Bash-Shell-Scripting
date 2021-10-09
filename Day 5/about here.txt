@@ -1,0 +1,19 @@
+I havent been yet able to figure out how to ensure that this script executes as appropriate for the three differenct cases of case manipulation
+I will check back.
+
+If you checked out the scripts and you do have a solution, please implement it, and kindly create a pull request
+
+...
+STDERR:
+User@DESKTOP-I9F42I2 MINGW64 ~/OneDrive - STEM Institute of Learning LTD GTE/Documents/Cloud Computing/DevOps/Bash Shell Scripting/Day 5 (master)
+$ ./data.sh
+What country won the FIFA World Cup in 2018?
+FRANCE
+You haven't got this question correct
+What country won the FIFA World Cup in 2018?
+france
+You haven't got this question correct
+What country won the FIFA World Cup in 2018?
+France
+You are correct!
+What country won the FIFA World Cup in 2018?

@@ -1,3 +1,11 @@
+#! /bin/bash
+
+Author: Ayobami Bamigboye
+Name of script: Gitpush.sh
+Description: A shell script that automates commits to git on command
+Version Number: 4.0
+Run Information: Always run on intended commit
+
 
 git status
 
@@ -18,3 +26,5 @@ git status
 git push #origin $branch
 
 read
+
+exit 0

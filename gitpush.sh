@@ -16,7 +16,7 @@ git status
 echo 'Enter the commit message:'
 read commitMessage
 
-git commit -m "$commitMessage"
+git commit -a -m "$commitMessage"
 
 git status
 

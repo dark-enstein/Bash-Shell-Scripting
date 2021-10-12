@@ -1,15 +1,17 @@
 #! /bin/bash
 
-Author: Ayobami Bamigboye
-Name of script: Gitpush.sh
-Description: A shell script that automates commits to git on command
-Version Number: 4.0
-Run Information: Always run on intended commit
+#Author: Ayobami Bamigboye
+#Name of script: Gitpush.sh
+#Description: A shell script that automates commits to git on command
+#Version Number: 4.2
+#Run Information: Always run on intended commit
 
 
 git status
 
-git add .
+#git add .
+
+git add * :/
 
 git status
 

@@ -1,0 +1,187 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /images</title>
+ </head>
+ <body>
+<h1>Index of /images</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="2D_Gel.jpg">2D_Gel.jpg</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 38K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="3D_Chromosome.zip">3D_Chromosome.zip</a></td><td align="right">2016-03-24 22:19  </td><td align="right">323K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="4D-Stack(256x256x20x10).zip">4D-Stack(256x256x20x10).zip</a></td><td align="right">2016-03-24 22:20  </td><td align="right"> 68K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="5d.zip">5d.zip</a></td><td align="right">2016-03-24 22:15  </td><td align="right"> 11M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="8-connected-pixel.gif">8-connected-pixel.gif</a></td><td align="right">2016-03-24 22:20  </td><td align="right"> 58K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="AuPbSn40-2.jpg">AuPbSn40-2.jpg</a></td><td align="right">2016-03-24 22:20  </td><td align="right"> 56K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="AuPbSn40.jpg">AuPbSn40.jpg</a></td><td align="right">2016-03-24 22:20  </td><td align="right">141K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="BinaryBlobs.zip">BinaryBlobs.zip</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 25K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="CT%20Scan.dcm">CT Scan.dcm</a></td><td align="right">2016-03-24 22:18  </td><td align="right">862K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Cartwheel_Galaxy.jpg">Cartwheel_Galaxy.jpg</a></td><td align="right">2016-03-24 22:19  </td><td align="right">231K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Cell_Colony.jpg">Cell_Colony.jpg</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 34K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Cell_Colony2.jpg">Cell_Colony2.jpg</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 31K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Cntrl1.lsm">Cntrl1.lsm</a></td><td align="right">2016-03-24 22:17  </td><td align="right">2.1M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="Color48%20Image.IPL">Color48 Image.IPL</a></td><td align="right">2016-03-24 22:19  </td><td align="right">172K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Composite.tif">Composite.tif</a></td><td align="right">2016-03-24 22:20  </td><td align="right">141K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="DaveBright.gif">DaveBright.gif</a></td><td align="right">2016-03-24 22:22  </td><td align="right">4.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="DentalRadiograph.png">DentalRadiograph.png</a></td><td align="right">2016-03-24 22:17  </td><td align="right">1.9M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Diatoms.jpg">Diatoms.jpg</a></td><td align="right">2016-03-24 22:20  </td><td align="right"> 60K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Dot_Blot.jpg">Dot_Blot.jpg</a></td><td align="right">2016-03-24 22:22  </td><td align="right">6.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Dot_Blots.jpg">Dot_Blots.jpg</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 30K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Fibroblast_Cell_Nucleus.jpg">Fibroblast_Cell_Nucleus.jpg</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 17K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="FluorescentCells.jpg">FluorescentCells.jpg</a></td><td align="right">2016-03-24 22:20  </td><td align="right"> 56K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="FluorescentCells.txt">FluorescentCells.txt</a></td><td align="right">2016-03-24 22:22  </td><td align="right">1.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="FluorescentCells.zip">FluorescentCells.zip</a></td><td align="right">2016-03-24 22:18  </td><td align="right">426K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="GFAP-FVII.txt">GFAP-FVII.txt</a></td><td align="right">2016-03-24 22:22  </td><td align="right">397 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="GFAP-FVII.zip">GFAP-FVII.zip</a></td><td align="right">2016-03-24 22:16  </td><td align="right">5.2M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="HorseHead.fits">HorseHead.fits</a></td><td align="right">2019-05-06 10:27  </td><td align="right">1.6M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="ImageJ.ico">ImageJ.ico</a></td><td align="right">2016-03-24 22:20  </td><td align="right"> 88K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="ImageJ.png">ImageJ.png</a></td><td align="right">2016-03-24 22:22  </td><td align="right"> 13K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="ImageWithOverlay.zip">ImageWithOverlay.zip</a></td><td align="right">2016-03-24 22:19  </td><td align="right">352K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="Introduction_to_ImageJ.zip">Introduction_to_ImageJ.zip</a></td><td align="right">2016-03-24 22:16  </td><td align="right">9.8M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="LineGraph.jpg">LineGraph.jpg</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 46K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="LineGraph2.jpg">LineGraph2.jpg</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 21K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="LineToArea.png">LineToArea.png</a></td><td align="right">2014-08-23 11:54  </td><td align="right"> 40K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="MinValueAlongLine.png">MinValueAlongLine.png</a></td><td align="right">2014-08-29 12:30  </td><td align="right"> 48K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="NileBend.jpg">NileBend.jpg</a></td><td align="right">2016-03-24 22:17  </td><td align="right">1.9M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="OutOfMemSamples.zip">OutOfMemSamples.zip</a></td><td align="right">2016-03-24 22:17  </td><td align="right">2.2M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="PET_Scan.gif">PET_Scan.gif</a></td><td align="right">2016-03-24 22:22  </td><td align="right"> 10K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="Pseudotsuga_menziesii.zip">Pseudotsuga_menziesii.zip</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 26K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="RatBrain.zip">RatBrain.zip</a></td><td align="right">2016-03-24 22:19  </td><td align="right">373K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="Rat_Hippocampal_Neuron.zip">Rat_Hippocampal_Neuron.zip</a></td><td align="right">2016-03-24 22:17  </td><td align="right">1.6M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="Rat_Hippocampal_Neuron2.zip">Rat_Hippocampal_Neuron2.zip</a></td><td align="right">2016-03-24 22:17  </td><td align="right">1.7M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="RoiSet.zip">RoiSet.zip</a></td><td align="right">2016-03-24 22:19  </td><td align="right">211K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="SmartSEMSample.tif">SmartSEMSample.tif</a></td><td align="right">2016-03-24 22:18  </td><td align="right">780K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="Spindly-GFP.zip">Spindly-GFP.zip</a></td><td align="right">2016-03-24 22:15  </td><td align="right"> 26M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Sum_of_Gaussians.gif">Sum_of_Gaussians.gif</a></td><td align="right">2018-01-24 07:18  </td><td align="right">1.3M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="TEM_filter_sample.jpg">TEM_filter_sample.jpg</a></td><td align="right">2016-03-24 22:20  </td><td align="right">111K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="TI-1766.jpg">TI-1766.jpg</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 17K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Tree_Rings.jpg">Tree_Rings.jpg</a></td><td align="right">2016-03-24 22:20  </td><td align="right">102K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Tree_Rings2.jpg">Tree_Rings2.jpg</a></td><td align="right">2016-03-24 22:20  </td><td align="right"> 48K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="Untitled.tif">Untitled.tif</a></td><td align="right">2014-11-15 14:59  </td><td align="right">4.8M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="X.png">X.png</a></td><td align="right">2016-03-24 22:19  </td><td align="right">420K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="abe.tif">abe.tif</a></td><td align="right">2016-03-24 22:20  </td><td align="right"> 65K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="apple.tif">apple.tif</a></td><td align="right">2016-03-24 22:20  </td><td align="right">141K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="at.gif">at.gif</a></td><td align="right">2016-03-24 22:22  </td><td align="right">934 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="baboon.gif">baboon.gif</a></td><td align="right">2016-03-24 22:19  </td><td align="right">211K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="baboon.jpg">baboon.jpg</a></td><td align="right">2016-03-24 22:20  </td><td align="right"> 56K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="bad.gif">bad.gif</a></td><td align="right">2016-03-24 22:22  </td><td align="right">2.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="bat-cochlea-renderings.zip">bat-cochlea-renderings.zip</a></td><td align="right">2016-03-24 22:18  </td><td align="right">449K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="bat-cochlea-volume.txt">bat-cochlea-volume.txt</a></td><td align="right">2016-03-24 22:22  </td><td align="right">643 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="bat-cochlea-volume.zip">bat-cochlea-volume.zip</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 19K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="blobs.gif">blobs.gif</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 25K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="blood-brain-barrier.zip">blood-brain-barrier.zip</a></td><td align="right">2016-03-24 22:16  </td><td align="right">4.3M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="boats.gif">boats.gif</a></td><td align="right">2016-03-24 22:19  </td><td align="right">356K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="bridge.gif">bridge.gif</a></td><td align="right">2016-03-24 22:19  </td><td align="right">174K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="bug-UBE2%20WGA-composite.tif">bug-UBE2 WGA-composite.tif</a></td><td align="right">2016-03-24 22:17  </td><td align="right">2.4M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="camera.gif">camera.gif</a></td><td align="right">2016-03-24 22:20  </td><td align="right"> 54K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="camera16.gif">camera16.gif</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 18K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="cardio.dcm">cardio.dcm</a></td><td align="right">2016-03-24 22:16  </td><td align="right">2.9M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="cardio.dcm.zip">cardio.dcm.zip</a></td><td align="right">2016-03-24 22:18  </td><td align="right">579K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="cat.jpg">cat.jpg</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 29K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="cer-sag.gif">cer-sag.gif</a></td><td align="right">2016-03-24 22:22  </td><td align="right"> 11K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="cheetah_256_8.tif.zip">cheetah_256_8.tif.zip</a></td><td align="right">2016-03-24 22:19  </td><td align="right">410K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="clown.gif">clown.gif</a></td><td align="right">2016-03-24 22:20  </td><td align="right"> 50K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="clown.jpg">clown.jpg</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 14K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="clown.png">clown.png</a></td><td align="right">2016-03-24 22:20  </td><td align="right">108K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="colors.gif">colors.gif</a></td><td align="right">2016-03-24 22:22  </td><td align="right">2.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="columbia.gif">columbia.gif</a></td><td align="right">2016-03-24 22:19  </td><td align="right">186K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="confocal-series.zip">confocal-series.zip</a></td><td align="right">2016-11-10 10:50  </td><td align="right">2.3M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="confocal-stack.zip">confocal-stack.zip</a></td><td align="right">2016-03-24 22:16  </td><td align="right">5.2M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="couple.jpg">couple.jpg</a></td><td align="right">2016-03-24 22:22  </td><td align="right">6.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="crosshair-cursor-64x64.gif">crosshair-cursor-64x64.gif</a></td><td align="right">2016-03-24 22:22  </td><td align="right">488 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="crosshair-cursor-color.gif">crosshair-cursor-color.gif</a></td><td align="right">2016-03-24 22:22  </td><td align="right">207 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="crosshair-cursor-redone.gif">crosshair-cursor-redone.gif</a></td><td align="right">2016-03-24 22:22  </td><td align="right">488 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="crosshair-cursor.gif">crosshair-cursor.gif</a></td><td align="right">2016-03-24 22:23  </td><td align="right">169 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="ct-scan.zip">ct-scan.zip</a></td><td align="right">2016-03-24 22:15  </td><td align="right"> 14M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="ct.dcm">ct.dcm</a></td><td align="right">2016-03-24 22:18  </td><td align="right">862K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="ct.dcm.zip">ct.dcm.zip</a></td><td align="right">2016-03-24 22:19  </td><td align="right">411K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="ct2.dcm">ct2.dcm</a></td><td align="right">2016-03-24 22:18  </td><td align="right">514K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="curve-fits.gif">curve-fits.gif</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 44K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="dialog-bug.jpg">dialog-bug.jpg</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 33K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="dots.gif">dots.gif</a></td><td align="right">2016-03-24 22:22  </td><td align="right">929 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="egg.jpg">egg.jpg</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 14K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="embryos.jpg">embryos.jpg</a></td><td align="right">2016-03-24 22:20  </td><td align="right">129K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="enhance-me.gif">enhance-me.gif</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 18K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="face.gif">face.gif</a></td><td align="right">2016-03-24 22:20  </td><td align="right"> 55K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="fat-cells.zip">fat-cells.zip</a></td><td align="right">2016-03-24 22:17  </td><td align="right">2.5M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="fire.lut">fire.lut</a></td><td align="right">2016-03-24 22:22  </td><td align="right">800 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="floatProblm.tif">floatProblm.tif</a></td><td align="right">2016-03-24 22:19  </td><td align="right">320K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="fluoview-multi.tif">fluoview-multi.tif</a></td><td align="right">2016-03-24 22:19  </td><td align="right">376K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="flybrain.txt">flybrain.txt</a></td><td align="right">2016-03-24 22:22  </td><td align="right">379 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="flybrain.zip">flybrain.zip</a></td><td align="right">2016-03-24 22:18  </td><td align="right">1.0M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="g16.png">g16.png</a></td><td align="right">2016-03-24 22:23  </td><td align="right">167 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="gel-electrophoresis.zip">gel-electrophoresis.zip</a></td><td align="right">2016-03-24 22:18  </td><td align="right">716K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="gel.gif">gel.gif</a></td><td align="right">2016-03-24 22:20  </td><td align="right"> 88K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="gel2.gif">gel2.gif</a></td><td align="right">2016-03-24 22:20  </td><td align="right">105K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="goldhill.gif">goldhill.gif</a></td><td align="right">2016-03-24 22:19  </td><td align="right">389K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="goldhill.jpg">goldhill.jpg</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 31K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="grays.lut">grays.lut</a></td><td align="right">2016-03-24 22:22  </td><td align="right">800 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="hela-cells-zoom.jpg">hela-cells-zoom.jpg</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 13K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="hela-cells.txt">hela-cells.txt</a></td><td align="right">2016-03-24 22:22  </td><td align="right">1.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="hela-cells.zip">hela-cells.zip</a></td><td align="right">2016-03-24 22:18  </td><td align="right">1.3M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="ij-icon.gif">ij-icon.gif</a></td><td align="right">2016-03-24 22:23  </td><td align="right">163 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="im2.dcm">im2.dcm</a></td><td align="right">2016-03-24 22:18  </td><td align="right">798K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="imagej-logo.gif">imagej-logo.gif</a></td><td align="right">2016-03-24 22:22  </td><td align="right">3.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="immunohistochemical-slide.jpg">immunohistochemical-slide.jpg</a></td><td align="right">2016-03-24 22:19  </td><td align="right">368K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="jpeg.avi">jpeg.avi</a></td><td align="right">2016-03-24 22:19  </td><td align="right">237K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="lake.tif">lake.tif</a></td><td align="right">2014-08-27 17:35  </td><td align="right">513K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="leaf.jpeg">leaf.jpeg</a></td><td align="right">2021-02-14 13:32  </td><td align="right"> 36K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="leaf.jpg">leaf.jpg</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 36K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="lena-std.tif">lena-std.tif</a></td><td align="right">2016-03-24 22:18  </td><td align="right">768K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="lena.jpg">lena.jpg</a></td><td align="right">2016-03-24 22:20  </td><td align="right"> 68K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="line.gif">line.gif</a></td><td align="right">2016-03-24 22:22  </td><td align="right">1.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="little-girl.gif">little-girl.gif</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 34K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="logo.gif">logo.gif</a></td><td align="right">2016-03-24 22:22  </td><td align="right">2.9K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="logo.jpeg">logo.jpeg</a></td><td align="right">2016-03-24 22:22  </td><td align="right">6.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="luts-mbf/">luts-mbf/</a></td><td align="right">2016-03-24 22:23  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="lymp.tif">lymp.tif</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 17K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="m51.fits">m51.fits</a></td><td align="right">2016-03-24 22:19  </td><td align="right">323K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="m51.jpg">m51.jpg</a></td><td align="right">2016-03-24 22:20  </td><td align="right">115K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="m51.tif">m51.tif</a></td><td align="right">2016-03-24 22:19  </td><td align="right">320K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="m51.zip">m51.zip</a></td><td align="right">2016-03-24 22:19  </td><td align="right">177K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="microm.jpg">microm.jpg</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 32K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="microscope.gif">microscope.gif</a></td><td align="right">2016-03-24 22:23  </td><td align="right">148 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="mitosis.tif">mitosis.tif</a></td><td align="right">2016-03-24 22:15  </td><td align="right"> 33M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="mri-stack.zip">mri-stack.zip</a></td><td align="right">2016-03-24 22:18  </td><td align="right">527K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="mri.gif">mri.gif</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 47K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="new.gif">new.gif</a></td><td align="right">2016-03-24 22:23  </td><td align="right"> 82 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="organ-of-corti.zip">organ-of-corti.zip</a></td><td align="right">2016-03-24 22:16  </td><td align="right">2.9M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="overlayProblem2.zip">overlayProblem2.zip</a></td><td align="right">2014-06-11 23:21  </td><td align="right">7.0M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="owl.png">owl.png</a></td><td align="right">2016-03-24 22:19  </td><td align="right">194K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="parisbynight.jpg">parisbynight.jpg</a></td><td align="right">2016-03-24 22:17  </td><td align="right">1.8M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="particles.gif">particles.gif</a></td><td align="right">2016-03-24 22:20  </td><td align="right"> 74K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="peppers.gif">peppers.gif</a></td><td align="right">2016-03-24 22:20  </td><td align="right">159K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="pet-series.txt">pet-series.txt</a></td><td align="right">2016-03-24 22:22  </td><td align="right">4.8K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="pet-series/">pet-series/</a></td><td align="right">2016-03-24 22:25  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="petri_dish2.jpg">petri_dish2.jpg</a></td><td align="right">2015-11-10 11:27  </td><td align="right">103K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/movie.gif" alt="[VID]"></td><td><a href="png.avi">png.avi</a></td><td align="right">2016-03-24 22:18  </td><td align="right">1.1M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="point-tool.gif">point-tool.gif</a></td><td align="right">2016-03-24 22:23  </td><td align="right">166 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="psf.gif">psf.gif</a></td><td align="right">2016-03-24 22:22  </td><td align="right">1.2K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="qt-player.jpg">qt-player.jpg</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 19K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="scala-media.zip">scala-media.zip</a></td><td align="right">2016-03-24 22:20  </td><td align="right"> 47K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="se3.zip">se3.zip</a></td><td align="right">2016-03-24 22:16  </td><td align="right">3.3M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="sea-grass.jpg">sea-grass.jpg</a></td><td align="right">2016-03-24 22:18  </td><td align="right">1.1M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="skeletonize-bug.png">skeletonize-bug.png</a></td><td align="right">2016-03-24 22:22  </td><td align="right">1.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="skeletonize-table.gif">skeletonize-table.gif</a></td><td align="right">2016-03-24 22:22  </td><td align="right">5.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="snowflake.gif">snowflake.gif</a></td><td align="right">2016-03-24 22:22  </td><td align="right">1.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="stack-projections.zip">stack-projections.zip</a></td><td align="right">2016-03-24 22:17  </td><td align="right">2.2M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="sunset.gif">sunset.gif</a></td><td align="right">2018-01-24 07:12  </td><td align="right">7.9M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="t1-head-raw.zip">t1-head-raw.zip</a></td><td align="right">2016-03-24 22:16  </td><td align="right">5.3M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="t1-head.gif">t1-head.gif</a></td><td align="right">2016-03-24 22:16  </td><td align="right">3.4M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="t1-head.txt">t1-head.txt</a></td><td align="right">2016-03-24 22:22  </td><td align="right">413 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="t1-head.zip">t1-head.zip</a></td><td align="right">2016-03-24 22:17  </td><td align="right">2.4M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="t1-rendering.zip">t1-rendering.zip</a></td><td align="right">2016-03-24 22:18  </td><td align="right">734K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="t1-renderings.txt">t1-renderings.txt</a></td><td align="right">2016-03-24 22:23  </td><td align="right">186 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="test.bmp.zip">test.bmp.zip</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 25K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="updated.gif">updated.gif</a></td><td align="right">2016-03-24 22:23  </td><td align="right">128 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="watershed-animation.gif">watershed-animation.gif</a></td><td align="right">2016-03-24 22:20  </td><td align="right">165K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="watershed-animation.zip">watershed-animation.zip</a></td><td align="right">2016-03-24 22:20  </td><td align="right"> 63K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="watershed-problem.gif">watershed-problem.gif</a></td><td align="right">2016-03-24 22:22  </td><td align="right">5.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="xor-bug.jpg">xor-bug.jpg</a></td><td align="right">2016-03-24 22:21  </td><td align="right"> 26K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="xrays.zip">xrays.zip</a></td><td align="right">2016-03-24 22:20  </td><td align="right"> 70K</td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.41 (Ubuntu) Server at wsr.imagej.net Port 443</address>
+</body></html>

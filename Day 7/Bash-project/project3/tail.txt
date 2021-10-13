@@ -1,0 +1,10 @@
+  25. file:///Bash-project/project3/oscar_age_female.csv
+  26. file:///Bash-project/project3/oscar_age_male.csv
+  27. file:///Bash-project/project3/snakes_count_10.csv
+  28. file:///Bash-project/project3/snakes_count_100.csv
+  29. file:///Bash-project/project3/snakes_count_1000.csv
+  30. file:///Bash-project/project3/snakes_count_10000.csv
+  31. file:///Bash-project/project3/tally_cab.csv
+  32. file:///Bash-project/project3/taxables.csv
+  33. file:///Bash-project/project3/trees.csv
+  34. file:///Bash-project/project3/zillow.csv

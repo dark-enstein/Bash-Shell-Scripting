@@ -11,7 +11,7 @@ echo "Copying from ./Bash-project folder to '/c/Users/User/OneDrive - STEM Insti
 
 echo 'Starting'
 
-docker cp 61c31a32504a:/Bash-project '/c/Users/User/OneDrive - STEM Institute of Learning LTD GTE/Documents/Cloud Computing/DevOps/Bash Shell Scripting'
+docker cp 61c31a32504a:/Bash-project '/c/Users/User/OneDrive - STEM Institute of Learning LTD GTE/Documents/Cloud Computing/DevOps/Bash Shell Scripting/Day 7'
 
 echo 'Ended'
 

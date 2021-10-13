@@ -1,0 +1,8 @@
+Heyy! 
+We did 
+this! 
+The 
+default 
+STDIN 
+cat 
+editor

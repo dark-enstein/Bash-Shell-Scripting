@@ -1,0 +1,66 @@
+     * [2]addresses.csv, an example file with 6 records. There are 6
+     * [3]airtravel.csv, Monthly transatlantic airtravel, in thousands of
+     * [4]biostats.csv, biometric statistics for a group of office
+     * [5]cities.csv, an example file with 128 records. There are 10
+     * [6]crash_catalonia.csv, number of car crashes in Catalonia from
+     * [7]deniro.csv, Rotten Tomato ratings of movies with Robert De Niro.
+     * [8]example.csv, an example file with 1 record. There are 78 values
+     * [9]ford_escort.csv, used Ford Escorts for sale. There are 23
+     * [10]faithful.csv, Old Faithful geyser: index, time between
+     * [11]freshman_kgs.csv, Sex, September weight (kgs), April weight
+     * [12]freshman_lbs.csv, Sex, September weight (lbs), April weight
+     * [13]grades.csv, an example file with 16 records and 9 fields: First
+     * [14]homes.csv, Home sale statistics. Fifty home sales, with selling
+     * [15]hooke.csv, Hooke's Law demo. A spring experiment is carried out
+     * [16]hurricanes.csv, hurricane and tropical storm counts for
+     * [17]hw_200.csv, height and weight for 200 individuals Each record
+     * [18]hw_25000.csv, height and weight for 25000 individuals Each
+     * [19]lead_shot.csv, For each grade of lead shot, a record lists the
+     * [20]letter_frequency.csv, In a large text, the frequency and
+     * [21]mlb_players.csv, Major League Baseball Players: Name, Team,
+     * [22]mlb_teams_2012.csv, Major League Baseball 2012 Season: Team,
+     * [23]news_decline.csv, average nightly viewship for 6 TV news
+     * [24]nile.csv, Nile flood data; 570 records, each with 2 values:
+     * [25]oscar_age_female.csv, age of female Oscar winners; 89 records:
+     * [26]oscar_age_male.csv, age of male Oscar winners; 89 records:
+     * [27]snakes_count_10.csv, game length for one-player version of
+     * [28]snakes_count_100.csv, game length for one-player version of
+     * [29]snakes_count_1000.csv, game length for one-player version of
+     * [30]snakes_count_10000.csv, game length for one-player version of
+     * [31]tally_cab.csv, Tallahassee Cab Fares, 8 records, each with 2
+     * [32]taxables.csv, Taxable items, 10 records: index, item name,
+     * [33]trees.csv, Tree measurements, 31 records: index, circumference
+     * [34]zillow.csv, Tallahassee Housing Prices as reported by Zillow,
+   2. file:///Bash-project/project3/addresses.csv
+   3. file:///Bash-project/project3/airtravel.csv
+   4. file:///Bash-project/project3/biostats.csv
+   5. file:///Bash-project/project3/cities.csv
+   6. file:///Bash-project/project3/crash_catalonia.csv
+   7. file:///Bash-project/project3/deniro.csv
+   8. file:///Bash-project/project3/example.csv
+   9. file:///Bash-project/project3/ford_escort.csv
+  10. file:///Bash-project/project3/faithful.csv
+  11. file:///Bash-project/project3/freshman_kgs.csv
+  12. file:///Bash-project/project3/freshman_lbs.csv
+  13. file:///Bash-project/project3/grades.csv
+  14. file:///Bash-project/project3/homes.csv
+  15. file:///Bash-project/project3/hooke.csv
+  16. file:///Bash-project/project3/hurricanes.csv
+  17. file:///Bash-project/project3/hw_200.csv
+  18. file:///Bash-project/project3/hw_25000.csv
+  19. file:///Bash-project/project3/lead_shot.csv
+  20. file:///Bash-project/project3/letter_frequency.csv
+  21. file:///Bash-project/project3/mlb_players.csv
+  22. file:///Bash-project/project3/mlb_teams_2012.csv
+  23. file:///Bash-project/project3/news_decline.csv
+  24. file:///Bash-project/project3/nile.csv
+  25. file:///Bash-project/project3/oscar_age_female.csv
+  26. file:///Bash-project/project3/oscar_age_male.csv
+  27. file:///Bash-project/project3/snakes_count_10.csv
+  28. file:///Bash-project/project3/snakes_count_100.csv
+  29. file:///Bash-project/project3/snakes_count_1000.csv
+  30. file:///Bash-project/project3/snakes_count_10000.csv
+  31. file:///Bash-project/project3/tally_cab.csv
+  32. file:///Bash-project/project3/taxables.csv
+  33. file:///Bash-project/project3/trees.csv
+  34. file:///Bash-project/project3/zillow.csv

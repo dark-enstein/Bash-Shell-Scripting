@@ -1,0 +1,4 @@
+A. A basic bash script that pushes reliably (forcing)
+B. A basic bash script that pulls
+C. Initialize a Git repository and create a remote repository
+D. (etc.)

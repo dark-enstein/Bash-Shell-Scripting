@@ -1,0 +1,2578 @@
+   [ ] [11]21st Century Capitalism 14-01-2010 (Supplementary Graphs).pdf
+   [ ] [855]DuncanMurnane2011WhitherOpportunityRusselSageChapter1.pdf
+   [856]DuncanMurnane2011WhitherOpportunityRusselSageExecutiveSummary.pdf
+   [857]DuncanMurnane2011WhitherOpportunityRusselSageTableofContents.pdf
+   [ ] [858]DuncanMurnane2011WhitherOpportunityRusselSageTablesFigures.pdf
+   [ ] [1233]Historical evolution of income tax (Arthur Jatteau).pdf
+   [ ] [2599]Poterba2001(BrookingsRethinkingGift&EstateTaxation ).pdf
+   [ ] [2612]Presentation Saez, Slemrod and Giertz 2009 - REM.pdf
+   [ ] [2615]Presentation of Saez 2001 - by N.McSpedden-Brown.pdf
+   [ ] [2960]WalmsleyWorld_prison_population_list_11th_edition_0.pdf
+   6. file:///Bash-project/project1/0-19-928688-4_chap00.pdf
+   7. file:///Bash-project/project1/0-19-928688-4_chap01.pdf
+   8. file:///Bash-project/project1/0-19-928688-4_chap11.pdf
+   9. file:///Bash-project/project1/0-19-928688-4_chap13.pdf
+  11. file:///Bash-project/project1/21st%20Century%20Capitalism%2014-01-2010%20(Supplementary%20Graphs).pdf
+  13. file:///Bash-project/project1/21st%20Century%20Capitalism%2014-01-2010.pdf
+  15. file:///Bash-project/project1/23-recherche_enseignement_superieur.pdf
+  16. file:///Bash-project/project1/978-2-7288-0413-9.pdf
+  17. file:///Bash-project/project1/2002-07-12@LES_INROCKUPTIBLES.pdf
+  18. file:///Bash-project/project1/2004_09_05_lemonde.pdf
+  19. file:///Bash-project/project1/2005_09_29_aef.pdf
+  20. file:///Bash-project/project1/2005_10_01_lacroix.pdf
+  21. file:///Bash-project/project1/2005_10_01_lemonde.pdf
+  22. file:///Bash-project/project1/2005_10_10_liberation.pdf
+  23. file:///Bash-project/project1/2005_10_20_nouvelobs.pdf
+  24. file:///Bash-project/project1/2005_11_07_lesechos.pdf
+  25. file:///Bash-project/project1/2005_11_15_lemonde.pdf
+  27. file:///Bash-project/project1/2006_01_00_lexpansion.pdf
+  28. file:///Bash-project/project1/2006_06_01_lenouveleco.pdf
+  29. file:///Bash-project/project1/2007-03-05~1100@LE_POINT.pdf
+  30. file:///Bash-project/project1/2007-03-22~1889@CHARLIE_HEBDO.pdf
+  31. file:///Bash-project/project1/2007-03-29~1301@SEMAINE_DE_L_ILE_DE_FRANCE.pdf
+  32. file:///Bash-project/project1/2007-04-04~1913@ALTERNATIVES_ECONOMIQUES.pdf
+  33. file:///Bash-project/project1/2007-04-06~1324@L_ENTREPRISE.pdf
+  34. file:///Bash-project/project1/2007-04-07~1317@ENJEUX_LES_ECHOS.pdf
+  35. file:///Bash-project/project1/2007-04-12~1247@LES_ECHOS.pdf
+  36. file:///Bash-project/project1/2007-04-16~1778@MARIANNE.pdf
+  37. file:///Bash-project/project1/2007-04-23~1020@L_HUMANITE.pdf
+  38. file:///Bash-project/project1/2007-04-25~1131@ILE_DE_FRANCE.pdf
+  39. file:///Bash-project/project1/2007-04-25~1299@L_EXPANSION.pdf
+  40. file:///Bash-project/project1/2007-04-27~1122@LES_ECHOS.pdf
+  41. file:///Bash-project/project1/2007-05-02~1950@LA_CROIX.pdf
+  42. file:///Bash-project/project1/2007-06-19~1898@LES_INROCKUPTIBLES.pdf
+  43. file:///Bash-project/project1/2007-11-27@LES_INROCKUPTIBLES.pdf
+  44. file:///Bash-project/project1/2007_01_15_aef.pdf
+  46. file:///Bash-project/project1/2007_02_22_20minutes.pdf
+  47. file:///Bash-project/project1/2007_02_22_aef.pdf
+  48. file:///Bash-project/project1/2007_02_22_lemonde.pdf
+  49. file:///Bash-project/project1/2007_02_22_lesechos.pdf
+  51. file:///Bash-project/project1/2007_02_23_premierministre.pdf
+  52. file:///Bash-project/project1/2007_03_01_challenges.pdf
+  53. file:///Bash-project/project1/2007_03_01_lenouvelobs.pdf
+  54. file:///Bash-project/project1/2007_03_04_elmundo.pdf
+  55. file:///Bash-project/project1/2007_03_08_challenges.pdf
+  56. file:///Bash-project/project1/2007_03_08a_challenges.pdf
+  58. file:///Bash-project/project1/2007_03_22_aef.pdf
+  59. file:///Bash-project/project1/2007_03_29_lenouvelobs.pdf
+  60. file:///Bash-project/project1/2007_04_10_lesechos.pdf
+  61. file:///Bash-project/project1/2007_07_15_nytimes.pdf
+  62. file:///Bash-project/project1/2041.pdf
+  63. file:///Bash-project/project1/2041not.pdf
+  64. file:///Bash-project/project1/2042.pdf
+  65. file:///Bash-project/project1/2042NR.pdf
+  66. file:///Bash-project/project1/2042c.pdf
+  67. file:///Bash-project/project1/2042c%20notice.pdf
+  68. file:///Bash-project/project1/2042%20notice.pdf
+  69. file:///Bash-project/project1/2042p.pdf
+  70. file:///Bash-project/project1/A1.pdf
+  71. file:///Bash-project/project1/A2.pdf
+  72. file:///Bash-project/project1/A3.pdf
+  73. file:///Bash-project/project1/A4.pdf
+  74. file:///Bash-project/project1/A5.pdf
+  75. file:///Bash-project/project1/A6.pdf
+  76. file:///Bash-project/project1/A7.pdf
+  77. file:///Bash-project/project1/A8.pdf
+  78. file:///Bash-project/project1/A9.pdf
+  79. file:///Bash-project/project1/AAP2019RIW.pdf
+  81. file:///Bash-project/project1/ACPSZ2017AER.pdf
+  82. file:///Bash-project/project1/ACPSZ2017AER_Slides.pdf
+  83. file:///Bash-project/project1/ACPSZ2017NBERWP.pdf
+  84. file:///Bash-project/project1/ACPSZ2018.pdf
+  85. file:///Bash-project/project1/ACPSZ2020.pdf
+  86. file:///Bash-project/project1/AEH_syllabus_2017.pdf
+  87. file:///Bash-project/project1/AES%20Paris%2008-09-2011.pdf
+  93. file:///Bash-project/project1/Aabergeetal2000.pdf
+  94. file:///Bash-project/project1/Aabergeetal2013.pdf
+  95. file:///Bash-project/project1/Abadetal2012EEH.pdf
+  96. file:///Bash-project/project1/AbbasEtal2011.pdf
+  97. file:///Bash-project/project1/AbbasEtal2011Slides.pdf
+  98. file:///Bash-project/project1/AbeletalRES1989.pdf
+  99. file:///Bash-project/project1/Abowdetal1999.pdf
+ 100. file:///Bash-project/project1/Abowdetal2001.pdf
+ 101. file:///Bash-project/project1/Absract&References.pdf
+ 102. file:///Bash-project/project1/Acemoglu03.pdf
+ 103. file:///Bash-project/project1/Acemoglu12.pdf
+ 104. file:///Bash-project/project1/Acemoglu98.pdf
+ 105. file:///Bash-project/project1/Acemoglu2000.pdf
+ 106. file:///Bash-project/project1/Acemoglu2002.pdf
+ 107. file:///Bash-project/project1/Acemoglu2002b.pdf
+ 108. file:///Bash-project/project1/Acemoglu2006.pdf
+ 109. file:///Bash-project/project1/AcemogluAngrist2001.pdf
+ 110. file:///Bash-project/project1/AcemogluGarciaRobinson2012.pdf
+ 111. file:///Bash-project/project1/AcemogluGuerrieri08.pdf
+ 112. file:///Bash-project/project1/AcemogluGuerrieriJPE2008.pdf
+ 113. file:///Bash-project/project1/AcemogluJPE2010.pdf
+ 114. file:///Bash-project/project1/AcemogluJohnson2003.pdf
+ 115. file:///Bash-project/project1/AcemogluJohnsonRobinson2005AER.pdf
+ 116. file:///Bash-project/project1/AcemogluRobinson2011.pdf
+ 117. file:///Bash-project/project1/Acemogluelal2008.pdf
+ 118. file:///Bash-project/project1/Acemogluetal2001.pdf
+ 119. file:///Bash-project/project1/Acemogluetal2002.pdf
+ 120. file:///Bash-project/project1/Acemogluetal2011AER.pdf
+ 121. file:///Bash-project/project1/Ademaetal2011OECD.pdf
+ 123. file:///Bash-project/project1/Aggarwal2019.pdf
+ 124. file:///Bash-project/project1/AghionBanerjeePiketty1999.pdf
+ 125. file:///Bash-project/project1/Ahmed2021.pdf
+ 126. file:///Bash-project/project1/Aidtetal2006.pdf
+ 127. file:///Bash-project/project1/AizJin_WP.pdf
+ 128. file:///Bash-project/project1/Aizerelal2015.pdf
+ 129. file:///Bash-project/project1/Aizerelal2015l.pdf
+ 130. file:///Bash-project/project1/Akerlof1978.pdf
+ 131. file:///Bash-project/project1/Akritidis2007.pdf
+ 132. file:///Bash-project/project1/Albanesi2002.pdf
+ 133. file:///Bash-project/project1/Albornoz2003.pdf
+ 134. file:///Bash-project/project1/Albrechtetal2001.pdf
+ 135. file:///Bash-project/project1/Aldashev2004.pdf
+ 136. file:///Bash-project/project1/AlesinaAngeletos2005.pdf
+ 137. file:///Bash-project/project1/AlesinaGiuliano2010.pdf
+ 138. file:///Bash-project/project1/AlesinaGiuliano2011.pdf
+ 139. file:///Bash-project/project1/AlesinaGlaeserSacerdote2001.pdf
+ 140. file:///Bash-project/project1/AlesinaLaFerrara2005.pdf
+ 141. file:///Bash-project/project1/AlesinaStantchevaTeso2017.pdf
+ 142. file:///Bash-project/project1/Alesinaetal2004.pdf
+ 143. file:///Bash-project/project1/Alesinaetal2005NBER.pdf
+ 144. file:///Bash-project/project1/Alesinaetal2013.pdf
+ 145. file:///Bash-project/project1/Alesinaetal2015JEL.pdf
+ 146. file:///Bash-project/project1/Alesinaetal2016.pdf
+ 147. file:///Bash-project/project1/Alfani2015.pdf
+ 148. file:///Bash-project/project1/Alfani2016.pdf
+ 149. file:///Bash-project/project1/Alfani2016Slides.pdf
+ 150. file:///Bash-project/project1/AlfaniAmmannati2017EHR.pdf
+ 151. file:///Bash-project/project1/AlfaniRyckbosch2016.pdf
+ 152. file:///Bash-project/project1/AlfaniTadei2017.pdf
+ 153. file:///Bash-project/project1/Allais1947.pdf
+ 154. file:///Bash-project/project1/Allais1962.pdf
+ 155. file:///Bash-project/project1/Allais1982.pdf
+ 156. file:///Bash-project/project1/AllaisNalpas1999.pdf
+ 157. file:///Bash-project/project1/Allen05.pdf
+ 158. file:///Bash-project/project1/Allen09.pdf
+ 159. file:///Bash-project/project1/Allen2001.pdf
+ 161. file:///Bash-project/project1/Allen2005.pdf
+ 162. file:///Bash-project/project1/Allen2006.pdf
+ 163. file:///Bash-project/project1/Allen2007a.pdf
+ 164. file:///Bash-project/project1/Allen2007b.pdf
+ 165. file:///Bash-project/project1/Allen2009.pdf
+ 166. file:///Bash-project/project1/Allen2014.pdf
+ 167. file:///Bash-project/project1/Allen%20Bio%2011.05.pdf
+ 168. file:///Bash-project/project1/AllenJEL2008(ReviewClark).pdf
+ 169. file:///Bash-project/project1/Allenetal2011EHR.pdf
+ 170. file:///Bash-project/project1/AlstonFerrieAER1993.pdf
+ 171. file:///Bash-project/project1/AlterEco2006.pdf
+ 172. file:///Bash-project/project1/AlternativesEconomiques09janvier.pdf
+ 173. file:///Bash-project/project1/AlternativesEconomiques2010_04.pdf
+ 174. file:///Bash-project/project1/Altonjietal2002.pdf
+ 175. file:///Bash-project/project1/Alvaredo2010.pdf
+ 176. file:///Bash-project/project1/AlvaredoAtkinson2010.pdf
+ 177. file:///Bash-project/project1/AlvaredoBergeronCassan2016.pdf
+ 178. file:///Bash-project/project1/AlvaredoBergeronCassan2017.pdf
+ 179. file:///Bash-project/project1/AlvaredoBergeronCassan2017Appendix.pdf
+ 180. file:///Bash-project/project1/AlvaredoCogneauPiketty2018.pdf
+ 181. file:///Bash-project/project1/AlvaredoCogneauPiketty2021.pdf
+ 182. file:///Bash-project/project1/AlvaredoEL2011.pdf
+ 183. file:///Bash-project/project1/AlvaredoGarbintiPiketty2015.pdf
+ 185. file:///Bash-project/project1/AlvaredoGarbintiPiketty2017.pdf
+ 187. file:///Bash-project/project1/AlvaredoPiketty2014ERF.pdf
+ 188. file:///Bash-project/project1/AlvaredoPiketty2014MiddleEast.pdf
+ 190. file:///Bash-project/project1/AlvaredoPiketty2015MiddleEast.pdf
+ 191. file:///Bash-project/project1/AlvaredoPiketty2015MiddleEastAppendix.pdf
+ 193. file:///Bash-project/project1/AlvaredoSaez2009.pdf
+ 194. file:///Bash-project/project1/Alvaredoetal2016WIDworld.pdf
+ 195. file:///Bash-project/project1/Alvaredoetal2020.pdf
+ 196. file:///Bash-project/project1/Alvaredoetal2020FR.pdf
+ 197. file:///Bash-project/project1/AlvaredoetalJEP2013.pdf
+ 199. file:///Bash-project/project1/Ambedkar1916.pdf
+ 200. file:///Bash-project/project1/Amoureux2014.pdf
+ 201. file:///Bash-project/project1/AndersonQJE1961.pdf
+ 202. file:///Bash-project/project1/AndewegVanDenBerg2003.pdf
+ 203. file:///Bash-project/project1/AndoModiglianiAER1964.pdf
+ 204. file:///Bash-project/project1/Angrist2001.pdf
+ 205. file:///Bash-project/project1/Angrist2001b.pdf
+ 206. file:///Bash-project/project1/AngristEvans1998.pdf
+ 207. file:///Bash-project/project1/AngristKrueger1991.pdf
+ 208. file:///Bash-project/project1/AngristLang2002.pdf
+ 209. file:///Bash-project/project1/AngristLavy1999.pdf
+ 210. file:///Bash-project/project1/AngristLavy2002.pdf
+ 211. file:///Bash-project/project1/Angristetal2001.pdf
+ 212. file:///Bash-project/project1/Angristetal2005.pdf
+ 238. file:///Bash-project/project1/AnnexeKIdeologie.pdf
+ 239. file:///Bash-project/project1/Annexes.pdf
+ 240. file:///Bash-project/project1/AnnuaireNoblesse1843.pdf
+ 241. file:///Bash-project/project1/AnnuaireNoblesse1872.pdf
+ 242. file:///Bash-project/project1/AnnuaireNoblesse19371938.pdf
+ 243. file:///Bash-project/project1/AnnualEnergyOutlook2012.pdf
+ 244. file:///Bash-project/project1/AntrasVoth03.pdf
+ 245. file:///Bash-project/project1/AntrasVoth2003.pdf
+ 246. file:///Bash-project/project1/AppendixFigues.pdf
+ 247. file:///Bash-project/project1/AppendixKIdeology.pdf
+ 248. file:///Bash-project/project1/AppendixTables.pdf
+ 250. file:///Bash-project/project1/Arcidiacono2003.pdf
+ 251. file:///Bash-project/project1/Aronssonetal2015.pdf
+ 252. file:///Bash-project/project1/ArrondelLaferrere1992.pdf
+ 253. file:///Bash-project/project1/ArrondelLaferrere2001.pdf
+ 254. file:///Bash-project/project1/ArrondelMasson2002.pdf
+ 255. file:///Bash-project/project1/ArrondelMasson2013.pdf
+ 256. file:///Bash-project/project1/ArrowBowlesDurlauf2000(PUPChap7).pdf
+ 257. file:///Bash-project/project1/ArrowBowlesDurlauf2000(PUPSenChap1).pdf
+ 259. file:///Bash-project/project1/Ashenfelter2012.pdf
+ 260. file:///Bash-project/project1/AshenfelterKrueger1994.pdf
+ 261. file:///Bash-project/project1/AshenfelterRouse1998.pdf
+ 262. file:///Bash-project/project1/AshrafGalor2013AER.pdf
+ 263. file:///Bash-project/project1/Asselain2006.pdf
+ 264. file:///Bash-project/project1/Asselain2012.pdf
+ 266. file:///Bash-project/project1/Assouad2015.pdf
+ 267. file:///Bash-project/project1/AssousDutt2010.pdf
+ 268. file:///Bash-project/project1/AssousDutt2013.pdf
+ 269. file:///Bash-project/project1/Atkinson09.pdf
+ 270. file:///Bash-project/project1/Atkinson1980.pdf
+ 271. file:///Bash-project/project1/Atkinson2002.pdf
+ 272. file:///Bash-project/project1/Atkinson2006.pdf
+ 273. file:///Bash-project/project1/Atkinson2009OREP.pdf
+ 274. file:///Bash-project/project1/Atkinson2012.pdf
+ 277. file:///Bash-project/project1/Atkinson2012b.pdf
+ 278. file:///Bash-project/project1/Atkinson2013.pdf
+ 279. file:///Bash-project/project1/Atkinson2013b.pdf
+ 280. file:///Bash-project/project1/Atkinson2016.pdf
+ 281. file:///Bash-project/project1/AtkinsonBrandolini2001.pdf
+ 282. file:///Bash-project/project1/AtkinsonOREP2009.pdf
+ 283. file:///Bash-project/project1/AtkinsonPiketty2007.pdf
+ 284. file:///Bash-project/project1/AtkinsonPiketty2010.pdf
+ 285. file:///Bash-project/project1/AtkinsonPiketty2010TableofContents.pdf
+ 286. file:///Bash-project/project1/AtkinsonPikettySaez2009%20HC.pdf
+ 287. file:///Bash-project/project1/AtkinsonPikettySaez2009a.pdf
+ 288. file:///Bash-project/project1/AtkinsonPikettySaez2010.pdf
+ 289. file:///Bash-project/project1/AtkinsonPikettySaez2011.pdf
+ 291. file:///Bash-project/project1/AtkinsonPikettySaez2011_20110913.pdf
+ 292. file:///Bash-project/project1/AtkinsonPikettySaezOUP09summary.pdf
+ 293. file:///Bash-project/project1/AtkinsonSalverda2003.pdf
+ 294. file:///Bash-project/project1/AtkinsonSandmo1980.pdf
+ 295. file:///Bash-project/project1/Atkinsonetal1989.pdf
+ 296. file:///Bash-project/project1/Atkinsonetal2012.pdf
+ 297. file:///Bash-project/project1/Attanasioetal2003.pdf
+ 298. file:///Bash-project/project1/Attanasioetal2012.pdf
+ 299. file:///Bash-project/project1/AttanazioHoynesJHR2000.pdf
+ 300. file:///Bash-project/project1/Attanazioetal2003.pdf
+ 301. file:///Bash-project/project1/Aubryetal2015.pdf
+ 302. file:///Bash-project/project1/Auerbach2006.pdf
+ 303. file:///Bash-project/project1/Auerbach2006b.pdf
+ 304. file:///Bash-project/project1/Auerbachetal1992.pdf
+ 305. file:///Bash-project/project1/Auerbachetal1994.pdf
+ 306. file:///Bash-project/project1/Auerbachetal1995.pdf
+ 307. file:///Bash-project/project1/Aura2001.pdf
+ 308. file:///Bash-project/project1/Autor2014.pdf
+ 309. file:///Bash-project/project1/AutorDuggan2002.pdf
+ 310. file:///Bash-project/project1/Autoretal2003.pdf
+ 311. file:///Bash-project/project1/AveryHoxby2003.pdf
+ 312. file:///Bash-project/project1/AviatCoeurdacier2004.pdf
+ 313. file:///Bash-project/project1/B1.pdf
+ 314. file:///Bash-project/project1/B2.pdf
+ 315. file:///Bash-project/project1/B3.pdf
+ 316. file:///Bash-project/project1/B4.pdf
+ 317. file:///Bash-project/project1/B5.pdf
+ 318. file:///Bash-project/project1/B6.pdf
+ 319. file:///Bash-project/project1/B7.pdf
+ 320. file:///Bash-project/project1/B8.pdf
+ 321. file:///Bash-project/project1/B9.pdf
+ 322. file:///Bash-project/project1/B10.pdf
+ 323. file:///Bash-project/project1/B11.pdf
+ 324. file:///Bash-project/project1/B12.pdf
+ 325. file:///Bash-project/project1/B13.pdf
+ 326. file:///Bash-project/project1/B14.pdf
+ 327. file:///Bash-project/project1/B15.pdf
+ 328. file:///Bash-project/project1/B16.pdf
+ 329. file:///Bash-project/project1/B17.pdf
+ 330. file:///Bash-project/project1/B18.pdf
+ 331. file:///Bash-project/project1/B19.pdf
+ 332. file:///Bash-project/project1/B20.pdf
+ 333. file:///Bash-project/project1/BCG2006.pdf
+ 334. file:///Bash-project/project1/BCG2011.pdf
+ 335. file:///Bash-project/project1/BCG2012.pdf
+ 337. file:///Bash-project/project1/BSLCmars1923.pdf
+ 338. file:///Bash-project/project1/Babeau83.pdf
+ 339. file:///Bash-project/project1/BabeauRE1983.pdf
+ 340. file:///Bash-project/project1/BabeauSbano2002.pdf
+ 341. file:///Bash-project/project1/Bach2007.pdf
+ 342. file:///Bash-project/project1/Bach2008.pdf
+ 343. file:///Bash-project/project1/BachCorneoSteiner2011.pdf
+ 344. file:///Bash-project/project1/Bachetal2011.pdf
+ 345. file:///Bash-project/project1/Bachetal2015.pdf
+ 346. file:///Bash-project/project1/BackusEtal08.pdf
+ 347. file:///Bash-project/project1/Bagdeetal2016AEJ.pdf
+ 348. file:///Bash-project/project1/Bagnall1992.pdf
+ 349. file:///Bash-project/project1/BaiEtal06.pdf
+ 350. file:///Bash-project/project1/BaiQian10.pdf
+ 351. file:///Bash-project/project1/Bajikaetal2003.pdf
+ 352. file:///Bash-project/project1/BakerDeLongKrugman2005.pdf
+ 353. file:///Bash-project/project1/Bakeretal2003.pdf
+ 354. file:///Bash-project/project1/Bakijaetal2010.pdf
+ 355. file:///Bash-project/project1/BalandRobinson2006.pdf
+ 356. file:///Bash-project/project1/BalandRobinson2008.pdf
+ 357. file:///Bash-project/project1/Balding13.pdf
+ 358. file:///Bash-project/project1/BalkeGordon1989.pdf
+ 359. file:///Bash-project/project1/BanerjeeDuflo2000.pdf
+ 360. file:///Bash-project/project1/BanerjeeDuflo2002.pdf
+ 362. file:///Bash-project/project1/BanerjeeGethinPiketty2019EPW.pdf
+ 363. file:///Bash-project/project1/BanerjeeIyer2002.pdf
+ 364. file:///Bash-project/project1/BanerjeeNewman1993.pdf
+ 365. file:///Bash-project/project1/BanerjeeNewman2003.pdf
+ 366. file:///Bash-project/project1/BanerjeePiketty2003.pdf
+ 367. file:///Bash-project/project1/BanerjeePiketty2004.pdf
+ 369. file:///Bash-project/project1/BanerjeePiketty2004b.pdf
+ 370. file:///Bash-project/project1/BanerjeePiketty2005.pdf
+ 371. file:///Bash-project/project1/Banksetal2002.pdf
+ 372. file:///Bash-project/project1/Barbaro2002.pdf
+ 373. file:///Bash-project/project1/Barbe2016.pdf
+ 374. file:///Bash-project/project1/Barbier2014.pdf
+ 375. file:///Bash-project/project1/Barbier2014Nature.pdf
+ 376. file:///Bash-project/project1/Bardhan1965.pdf
+ 379. file:///Bash-project/project1/Bargain2004.pdf
+ 380. file:///Bash-project/project1/Bargainetal2002.pdf
+ 381. file:///Bash-project/project1/BaroneMocetti2016.pdf
+ 382. file:///Bash-project/project1/Barro09.pdf
+ 383. file:///Bash-project/project1/Barro87.pdf
+ 384. file:///Bash-project/project1/Barro91.pdf
+ 385. file:///Bash-project/project1/Barro1974.pdf
+ 386. file:///Bash-project/project1/Barro1987.pdf
+ 387. file:///Bash-project/project1/Barro2009.pdf
+ 388. file:///Bash-project/project1/Barro2010.pdf
+ 389. file:///Bash-project/project1/BarroSalaIMartin2004.pdf
+ 390. file:///Bash-project/project1/BarroSalaIMartin2004Chap1-2.pdf
+ 391. file:///Bash-project/project1/BarroUrsua08(DiscussionBlanchard).pdf
+ 392. file:///Bash-project/project1/BarroUrsua08.pdf
+ 393. file:///Bash-project/project1/Bartels2015.pdf
+ 394. file:///Bash-project/project1/BasuEtal12.pdf
+ 395. file:///Bash-project/project1/Battacharyaetal2002.pdf
+ 396. file:///Bash-project/project1/Battaglini2011Slides.pdf
+ 397. file:///Bash-project/project1/Bauluz2018.pdf
+ 398. file:///Bash-project/project1/Baumol1967.pdf
+ 399. file:///Bash-project/project1/Baumol1986.pdf
+ 400. file:///Bash-project/project1/BdF%20Wealth%2029-11-2010.pdf
+ 402. file:///Bash-project/project1/Bebchuketal2001.pdf
+ 403. file:///Bash-project/project1/Becarud1973.pdf
+ 404. file:///Bash-project/project1/Behagheletal2004.pdf
+ 405. file:///Bash-project/project1/BehringerVanTreeck2013.pdf
+ 406. file:///Bash-project/project1/BemsCarvalho11.pdf
+ 407. file:///Bash-project/project1/Benabou1993.pdf
+ 408. file:///Bash-project/project1/Benabou2000.pdf
+ 409. file:///Bash-project/project1/Benabou2008.pdf
+ 410. file:///Bash-project/project1/BenabouOk2001.pdf
+ 411. file:///Bash-project/project1/BenabouTirole2006.pdf
+ 412. file:///Bash-project/project1/Benabouetal2002.pdf
+ 413. file:///Bash-project/project1/Benabouetal2015.pdf
+ 414. file:///Bash-project/project1/BenahbibBisin2008.pdf
+ 415. file:///Bash-project/project1/Bengtsson2019.pdf
+ 416. file:///Bash-project/project1/Bengtssonetal2017.pdf
+ 417. file:///Bash-project/project1/Bengtssonetal2017Sweden.pdf
+ 418. file:///Bash-project/project1/BenhabibBisin2009.pdf
+ 419. file:///Bash-project/project1/BenhabibBisinZhu2011.pdf
+ 420. file:///Bash-project/project1/BenhabibBisinZhu2013.pdf
+ 421. file:///Bash-project/project1/BenhabibZhu2008.pdf
+ 422. file:///Bash-project/project1/BenhabibZhu2009.pdf
+ 423. file:///Bash-project/project1/Benhenda2019.pdf
+ 424. file:///Bash-project/project1/Benhenda2020.pdf
+ 425. file:///Bash-project/project1/Bennedsenetal2006.pdf
+ 426. file:///Bash-project/project1/Bennedsenetal2006HC.pdf
+ 427. file:///Bash-project/project1/BentolilaSaintPaul03.pdf
+ 428. file:///Bash-project/project1/BergerWolff2017.pdf
+ 429. file:///Bash-project/project1/Bergeron2014.pdf
+ 430. file:///Bash-project/project1/Bermanetal2015.pdf
+ 431. file:///Bash-project/project1/Bernanke2013JEP.pdf
+ 432. file:///Bash-project/project1/Bernheim1999.pdf
+ 433. file:///Bash-project/project1/BertolaChecchi2002.pdf
+ 434. file:///Bash-project/project1/Bertolaetal2006.pdf
+ 435. file:///Bash-project/project1/BertrandKramarz2001.pdf
+ 436. file:///Bash-project/project1/BertrandMullainhatan2003.pdf
+ 437. file:///Bash-project/project1/Bertrandetal2001.pdf
+ 438. file:///Bash-project/project1/Bertrandetal2001HC.pdf
+ 439. file:///Bash-project/project1/Bertrandetal2003.pdf
+ 440. file:///Bash-project/project1/BesleyPersson2009.pdf
+ 441. file:///Bash-project/project1/BesleyPersson2014JEP.pdf
+ 442. file:///Bash-project/project1/BesleyRosen1998.pdf
+ 443. file:///Bash-project/project1/Bezy2021.pdf
+ 444. file:///Bash-project/project1/Bharti2018.pdf
+ 445. file:///Bash-project/project1/Bhering2021.pdf
+ 446. file:///Bash-project/project1/Bisinetal2004.pdf
+ 447. file:///Bash-project/project1/Bivas2016.pdf
+ 449. file:///Bash-project/project1/Bjorklundetal2002.pdf
+ 450. file:///Bash-project/project1/Bjorklundetal2003.pdf
+ 451. file:///Bash-project/project1/Bjorklundetal2008b.pdf
+ 452. file:///Bash-project/project1/Black1999.pdf
+ 453. file:///Bash-project/project1/BlackDevereuxSalvanes2005.pdf
+ 454. file:///Bash-project/project1/BlackGilmore90.pdf
+ 455. file:///Bash-project/project1/Blacketal2003.pdf
+ 456. file:///Bash-project/project1/BlakeOrszag1999.pdf
+ 457. file:///Bash-project/project1/Blanchard1985.pdf
+ 458. file:///Bash-project/project1/Blanchet2016.pdf
+ 459. file:///Bash-project/project1/Blanchet2020.pdf
+ 460. file:///Bash-project/project1/BlanchetFournierPiketty2017WIDworld.pdf
+ 461. file:///Bash-project/project1/BlanchetFournierPiketty2021.pdf
+ 463. file:///Bash-project/project1/Blattmanetal2003.pdf
+ 464. file:///Bash-project/project1/Blau2009.pdf
+ 465. file:///Bash-project/project1/BlauKahn2001a.pdf
+ 466. file:///Bash-project/project1/BlauKahn2001b.pdf
+ 467. file:///Bash-project/project1/Blesseetal2020.pdf
+ 468. file:///Bash-project/project1/Bohn98.pdf
+ 469. file:///Bash-project/project1/Boisguillebert1695(inDaire1843).pdf
+ 470. file:///Bash-project/project1/Boisguillebert1695.pdf
+ 471. file:///Bash-project/project1/BoiteuxDupuisGuesnerie2008.pdf
+ 472. file:///Bash-project/project1/Boix2003.pdf
+ 473. file:///Bash-project/project1/Boix2011.pdf
+ 474. file:///Bash-project/project1/BoixMillerRosato2013.pdf
+ 475. file:///Bash-project/project1/BoixRosenbluth2013.pdf
+ 476. file:///Bash-project/project1/BoixRosenbluth2014.pdf
+ 477. file:///Bash-project/project1/Bomare2019.pdf
+ 478. file:///Bash-project/project1/BonicaRosenthal2015.pdf
+ 479. file:///Bash-project/project1/Bonicaetal2013.pdf
+ 480. file:///Bash-project/project1/Bonneau2019.pdf
+ 481. file:///Bash-project/project1/Bonneuil2015.pdf
+ 482. file:///Bash-project/project1/BoothKee2009.pdf
+ 483. file:///Bash-project/project1/BorgerhoffBowles2009.pdf
+ 484. file:///Bash-project/project1/Bornshier2010.pdf
+ 485. file:///Bash-project/project1/Bornshier2016.pdf
+ 486. file:///Bash-project/project1/Boskin09.pdf
+ 487. file:///Bash-project/project1/Bossiere2013.pdf
+ 488. file:///Bash-project/project1/BossmannKleiberWaelde2007JPubEWithAppendix.pdf
+ 489. file:///Bash-project/project1/Bourdieuetal2003.pdf
+ 490. file:///Bash-project/project1/Bourdieuetal2016.pdf
+ 491. file:///Bash-project/project1/Bourguignon1981.pdf
+ 492. file:///Bash-project/project1/BourguignonMorrisson2002.pdf
+ 493. file:///Bash-project/project1/Boutchenik2013.pdf
+ 494. file:///Bash-project/project1/BowlesFochesato2017.pdf
+ 495. file:///Bash-project/project1/BowlesGintisJEP2002.pdf
+ 496. file:///Bash-project/project1/Bowley1898.pdf
+ 497. file:///Bash-project/project1/Bowley1920.pdf
+ 498. file:///Bash-project/project1/Bowley1933.pdf
+ 499. file:///Bash-project/project1/Bowley1937(KuznetsJASA1938Review).pdf
+ 500. file:///Bash-project/project1/Bowley1940.pdf
+ 501. file:///Bash-project/project1/Bowley1942.pdf
+ 502. file:///Bash-project/project1/BowleyKeynesEJ1940.pdf
+ 503. file:///Bash-project/project1/BowleyKuczynskiControversy(BrownEHR1939).pdf
+ 504. file:///Bash-project/project1/Boyle2003.pdf
+ 505. file:///Bash-project/project1/Bozio2004.pdf
+ 506. file:///Bash-project/project1/BozioBredaGrenet2016.pdf
+ 507. file:///Bash-project/project1/BozioBredaGuillot2016.pdf
+ 508. file:///Bash-project/project1/BozioGrenetPikettyEcoPub2016Syllabus.pdf
+ 510. file:///Bash-project/project1/BozioPiketty2008.pdf
+ 511. file:///Bash-project/project1/Bradford1978.pdf
+ 512. file:///Bash-project/project1/Bransbourg2016.pdf
+ 513. file:///Bash-project/project1/Brennan2016.pdf
+ 514. file:///Bash-project/project1/Brenner1976.pdf
+ 515. file:///Bash-project/project1/Brezis95.pdf
+ 516. file:///Bash-project/project1/Brezis97.pdf
+ 517. file:///Bash-project/project1/BroadberryGupta2006.pdf
+ 518. file:///Bash-project/project1/BroadberryHowlett03.pdf
+ 519. file:///Bash-project/project1/Broer2011.pdf
+ 520. file:///Bash-project/project1/BrousseauDIE-20_01_06.pdf
+ 521. file:///Bash-project/project1/Brown1999.pdf
+ 522. file:///Bash-project/project1/Brown2002.pdf
+ 523. file:///Bash-project/project1/Brownetal2006.pdf
+ 524. file:///Bash-project/project1/Brulhartetal2016.pdf
+ 525. file:///Bash-project/project1/Buchmueller2002.pdf
+ 526. file:///Bash-project/project1/Buchmulleretal2003.pdf
+ 529. file:///Bash-project/project1/BuffeteauEchevin2003.pdf
+ 530. file:///Bash-project/project1/BulmerThomas2003CUP.pdf
+ 531. file:///Bash-project/project1/BulmerThomas2012CUP.pdf
+ 532. file:///Bash-project/project1/BunelJugnot2002.pdf
+ 533. file:///Bash-project/project1/BurbankCooper2008.pdf
+ 535. file:///Bash-project/project1/Burkartetal2002.pdf
+ 536. file:///Bash-project/project1/Burke1838PeerageBaronetage.pdf
+ 537. file:///Bash-project/project1/Burke1845GentryVol1.pdf
+ 538. file:///Bash-project/project1/Burke1845GentryVol2.pdf
+ 539. file:///Bash-project/project1/Burke1914PeerageBaronetage.pdf
+ 540. file:///Bash-project/project1/Burkhauseretal2009.pdf
+ 541. file:///Bash-project/project1/Burkhauseretal2010.pdf
+ 542. file:///Bash-project/project1/C1.pdf
+ 543. file:///Bash-project/project1/C2.pdf
+ 544. file:///Bash-project/project1/C3.pdf
+ 545. file:///Bash-project/project1/C4.pdf
+ 546. file:///Bash-project/project1/C5.pdf
+ 547. file:///Bash-project/project1/C6.pdf
+ 548. file:///Bash-project/project1/C7.pdf
+ 549. file:///Bash-project/project1/C8.pdf
+ 550. file:///Bash-project/project1/C9.pdf
+ 551. file:///Bash-project/project1/CEPN%20PK%2011-06-2011.pdf
+ 554. file:///Bash-project/project1/CSGlobalWealthDatabookOctober2014.pdf
+ 555. file:///Bash-project/project1/CSGlobalWealthReportOctober2014.pdf
+ 556. file:///Bash-project/project1/CSZ2020.pdf
+ 557. file:///Bash-project/project1/CaballeroFarhiGourinchas2015.pdf
+ 558. file:///Bash-project/project1/CageGadenne2012.pdf
+ 559. file:///Bash-project/project1/CageGadenne2012Fig1.pdf
+ 560. file:///Bash-project/project1/CageGadenne2014.pdf
+ 561. file:///Bash-project/project1/CageGadenne2018.pdf
+ 562. file:///Bash-project/project1/CagettiDeNardi2006.pdf
+ 563. file:///Bash-project/project1/Calvetetal2009.pdf
+ 564. file:///Bash-project/project1/Calvo2004.pdf
+ 565. file:///Bash-project/project1/CanadaRecensement2016.pdf
+ 567. file:///Bash-project/project1/Capgemini2011.pdf
+ 568. file:///Bash-project/project1/Capital%2021c%2002-03-2011.pdf
+ 570. file:///Bash-project/project1/CapitalAccumulationFrance18202010.pdf
+ 571. file:///Bash-project/project1/CappieEHR1987(ReviewGodsmith1985).pdf
+ 572. file:///Bash-project/project1/Carbonnier2004.pdf
+ 573. file:///Bash-project/project1/Carbonnier2007.pdf
+ 574. file:///Bash-project/project1/Carbonnier2007Graphs.pdf
+ 575. file:///Bash-project/project1/Card2007.pdf
+ 576. file:///Bash-project/project1/CardDiNardo2002.pdf
+ 577. file:///Bash-project/project1/CardFreeman2002.pdf
+ 578. file:///Bash-project/project1/CardKrueger2000AER.pdf
+ 579. file:///Bash-project/project1/CardLemieux2001.pdf
+ 580. file:///Bash-project/project1/CardRobbins1996.pdf
+ 581. file:///Bash-project/project1/Carney2016.pdf
+ 582. file:///Bash-project/project1/Caroll2000.pdf
+ 583. file:///Bash-project/project1/CarollAtlas2000.pdf
+ 584. file:///Bash-project/project1/CarpenterEtal13.pdf
+ 585. file:///Bash-project/project1/Carpentier2012.pdf
+ 586. file:///Bash-project/project1/Carre2011.pdf
+ 587. file:///Bash-project/project1/Carroll2000.pdf
+ 588. file:///Bash-project/project1/CarrollEtal00.pdf
+ 589. file:///Bash-project/project1/Cascio2006.pdf
+ 590. file:///Bash-project/project1/CascioWashington2014QJE.pdf
+ 591. file:///Bash-project/project1/Cascioetal2010.pdf
+ 592. file:///Bash-project/project1/CaselliFeyrer07.pdf
+ 593. file:///Bash-project/project1/CaselliFeyrer2007.pdf
+ 594. file:///Bash-project/project1/Casellietal2003.pdf
+ 595. file:///Bash-project/project1/Cass1965.pdf
+ 596. file:///Bash-project/project1/Cass1972.pdf
+ 597. file:///Bash-project/project1/Cassan2014.pdf
+ 598. file:///Bash-project/project1/Cassan2015ProjetFNRS.pdf
+ 599. file:///Bash-project/project1/Cassan2016.pdf
+ 600. file:///Bash-project/project1/Castanedaetal2003.pdf
+ 601. file:///Bash-project/project1/Cerutti2015.pdf
+ 602. file:///Bash-project/project1/CetteEtal09.pdf
+ 603. file:///Bash-project/project1/Cetteatal2009.pdf
+ 605. file:///Bash-project/project1/Chalmers1804.pdf
+ 606. file:///Bash-project/project1/Chamley2001.pdf
+ 607. file:///Bash-project/project1/Champalaune2020.pdf
+ 608. file:///Bash-project/project1/Champernowne1953.pdf
+ 609. file:///Bash-project/project1/Chancel2018.pdf
+ 610. file:///Bash-project/project1/Chancel2019ICRICT.pdf
+ 611. file:///Bash-project/project1/Chancel2021.pdf
+ 612. file:///Bash-project/project1/ChancelPiketty2015.pdf
+ 614. file:///Bash-project/project1/ChancelPiketty2015ResumeFR.pdf
+ 615. file:///Bash-project/project1/ChancelPiketty2015SummaryEN.pdf
+ 617. file:///Bash-project/project1/ChancelPiketty2019RIW.pdf
+ 618. file:///Bash-project/project1/ChancelPiketty2021BudgetEnsSuperieur.pdf
+ 620. file:///Bash-project/project1/ChaneyHornbeck2015.pdf
+ 634. file:///Bash-project/project1/Chaputetal2011.pdf
+ 635. file:///Bash-project/project1/Charalampidis2013.pdf
+ 636. file:///Bash-project/project1/Charalampidis2014.pdf
+ 637. file:///Bash-project/project1/Charles2002.pdf
+ 638. file:///Bash-project/project1/Chazal2014.pdf
+ 639. file:///Bash-project/project1/ChecchiDardanoni2002.pdf
+ 640. file:///Bash-project/project1/Checchietal1999.pdf
+ 641. file:///Bash-project/project1/ChenetalAER2004.pdf
+ 642. file:///Bash-project/project1/ChernozukovHansen2004.pdf
+ 643. file:///Bash-project/project1/Chetty2009.pdf
+ 644. file:///Bash-project/project1/ChettyEtal05.pdf
+ 645. file:///Bash-project/project1/ChettyFriedmanKlineSaez2014QJE.pdf
+ 646. file:///Bash-project/project1/ChettyFriedmanKlineSaezTurner2014AERPP.pdf
+ 647. file:///Bash-project/project1/ChettyHarvardSyllabu2009-2010.pdf
+ 648. file:///Bash-project/project1/ChettySaez05b.pdf
+ 649. file:///Bash-project/project1/ChettySaez06.pdf
+ 650. file:///Bash-project/project1/ChettySaezEqualOpportunity.pdf
+ 651. file:///Bash-project/project1/Chettyetal2013.pdf
+ 652. file:///Bash-project/project1/Chettyetal2017.pdf
+ 653. file:///Bash-project/project1/Chevalieretal2003.pdf
+ 654. file:///Bash-project/project1/ChiapporiWeiss2000.pdf
+ 655. file:///Bash-project/project1/Chiapporietal2001.pdf
+ 656. file:///Bash-project/project1/Chiocchetti2020.pdf
+ 657. file:///Bash-project/project1/ChiplunkarWeaver2017.pdf
+ 658. file:///Bash-project/project1/Chow93.pdf
+ 659. file:///Bash-project/project1/ChristelisEtal13.pdf
+ 660. file:///Bash-project/project1/Christiansen1984.pdf
+ 661. file:///Bash-project/project1/Clark2001.pdf
+ 662. file:///Bash-project/project1/Clark2005.pdf
+ 663. file:///Bash-project/project1/Clark2007.pdf
+ 664. file:///Bash-project/project1/ClarkJPE2005.pdf
+ 665. file:///Bash-project/project1/Clausing2011.pdf
+ 666. file:///Bash-project/project1/Clausing2012.pdf
+ 667. file:///Bash-project/project1/Claussing2012.pdf
+ 668. file:///Bash-project/project1/Claussing2013.pdf
+ 669. file:///Bash-project/project1/ClemensWilliamson2001.pdf
+ 670. file:///Bash-project/project1/CoateLoury1993.pdf
+ 671. file:///Bash-project/project1/CobbDouglas28.pdf
+ 672. file:///Bash-project/project1/CobbDouglasAER1928.pdf
+ 674. file:///Bash-project/project1/Cogneauetal2018.pdf
+ 675. file:///Bash-project/project1/CohenHarcourt03.pdf
+ 676. file:///Bash-project/project1/ColangeloInklaar12.pdf
+ 677. file:///Bash-project/project1/CollinsMargo2003.pdf
+ 678. file:///Bash-project/project1/CollinsWilliamson2001.pdf
+ 679. file:///Bash-project/project1/ColloqueEngagismeIndenture2015.pdf
+ 680. file:///Bash-project/project1/ColloqueTravailLibreTravailForceParisJuin2015.pdf
+ 681. file:///Bash-project/project1/Colquhoun1815.pdf
+ 682. file:///Bash-project/project1/Communisme.pdf
+ 685. file:///Bash-project/project1/Condorcet1794.pdf
+ 686. file:///Bash-project/project1/Conesaetal2009.pdf
+ 687. file:///Bash-project/project1/ConesaetalAER2009.pdf
+ 688. file:///Bash-project/project1/ContAssocies30092005.pdf
+ 689. file:///Bash-project/project1/Coons1960(ReviewStudenski1958).pdf
+ 690. file:///Bash-project/project1/Cooper07.pdf
+ 691. file:///Bash-project/project1/Copeland61.pdf
+ 692. file:///Bash-project/project1/Corak2011.pdf
+ 694. file:///Bash-project/project1/Corak2013.pdf
+ 695. file:///Bash-project/project1/Corcos2003.pdf
+ 696. file:///Bash-project/project1/CorradoEtal05.pdf
+ 697. file:///Bash-project/project1/Cosanday2011.pdf
+ 698. file:///Bash-project/project1/Cosandey2006.pdf
+ 699. file:///Bash-project/project1/Cosandey2009.pdf
+ 700. file:///Bash-project/project1/Costa1998.pdf
+ 701. file:///Bash-project/project1/Costa2000.pdf
+ 702. file:///Bash-project/project1/Costa2001.pdf
+ 703. file:///Bash-project/project1/CostaLahey2003.pdf
+ 704. file:///Bash-project/project1/CostinotRodriguez2013.pdf
+ 706. file:///Bash-project/project1/Cowell1998.pdf
+ 707. file:///Bash-project/project1/CowellMeasuringInequality2000.pdf
+ 708. file:///Bash-project/project1/CowellMehta1982.pdf
+ 709. file:///Bash-project/project1/CoxHirschhorn83.pdf
+ 710. file:///Bash-project/project1/CreedyRIW1999.pdf
+ 711. file:///Bash-project/project1/CremerPestieau2009.pdf
+ 712. file:///Bash-project/project1/Cremeretal2003.pdf
+ 713. file:///Bash-project/project1/CreponDesplatz2002.pdf
+ 714. file:///Bash-project/project1/CreponKramarz2001.pdf
+ 715. file:///Bash-project/project1/CullenGordon2002.pdf
+ 716. file:///Bash-project/project1/CurcuruQJE2008.pdf
+ 717. file:///Bash-project/project1/CutlerGlaeser1997.pdf
+ 718. file:///Bash-project/project1/DBGNORMALMSNRA.pdf
+ 722. file:///Bash-project/project1/DPFETA1.pdf
+ 724. file:///Bash-project/project1/Dagorret2019.pdf
+ 725. file:///Bash-project/project1/DahlMoretti2004.pdf
+ 726. file:///Bash-project/project1/Daietal2006.pdf
+ 727. file:///Bash-project/project1/Daire1843.pdf
+ 728. file:///Bash-project/project1/Dasgupta2016.pdf
+ 734. file:///Bash-project/project1/Dauvergne1973ADH.pdf
+ 735. file:///Bash-project/project1/Dauvergne2012.pdf
+ 736. file:///Bash-project/project1/Davenant1698(2).pdf
+ 737. file:///Bash-project/project1/Davenant1698.pdf
+ 738. file:///Bash-project/project1/Davenport2015.pdf
+ 739. file:///Bash-project/project1/Davies2012.pdf
+ 740. file:///Bash-project/project1/DaviesEtal08.pdf
+ 741. file:///Bash-project/project1/DaviesEtal11.pdf
+ 743. file:///Bash-project/project1/DaviesShorrocks2010(CSGlobalWealthDatabook).pdf
+ 744. file:///Bash-project/project1/DaviesShorrocks2010(CSGlobalWealthReport).pdf
+ 745. file:///Bash-project/project1/Daviesetal2006.pdf
+ 746. file:///Bash-project/project1/Daviesetal2007.pdf
+ 747. file:///Bash-project/project1/Daviesetal2009.pdf
+ 748. file:///Bash-project/project1/Daviesetal2011.pdf
+ 749. file:///Bash-project/project1/Davies%20et%20al%202012_global_wealth_databook.pdf
+ 750. file:///Bash-project/project1/Davis04.pdf
+ 751. file:///Bash-project/project1/DavisRIW2008.pdf
+ 752. file:///Bash-project/project1/DeBonisetal2013.pdf
+ 753. file:///Bash-project/project1/DeLong2003.pdf
+ 754. file:///Bash-project/project1/DeMoorVanZanten2009.pdf
+ 755. file:///Bash-project/project1/DeRosa2019.pdf
+ 756. file:///Bash-project/project1/DeVries1994.pdf
+ 757. file:///Bash-project/project1/DeaBach2005.pdf
+ 758. file:///Bash-project/project1/DeaBoissinot2003.pdf
+ 759. file:///Bash-project/project1/DeaBozio2002.pdf
+ 760. file:///Bash-project/project1/DeaCarbonnier2004.pdf
+ 761. file:///Bash-project/project1/DeaDell2002.pdf
+ 762. file:///Bash-project/project1/DeaFack2002.pdf
+ 763. file:///Bash-project/project1/DeaGodefroy2003.pdf
+ 764. file:///Bash-project/project1/DeaGrenet2003.pdf
+ 765. file:///Bash-project/project1/DeaGuerre2004.pdf
+ 766. file:///Bash-project/project1/DeaJamet2005.pdf
+ 767. file:///Bash-project/project1/DeaLandais2003.pdf
+ 768. file:///Bash-project/project1/DeaMarinescu2002.pdf
+ 769. file:///Bash-project/project1/DeaMayneris2004.pdf
+ 770. file:///Bash-project/project1/DeaNekoei2004.pdf
+ 771. file:///Bash-project/project1/DeaPerona2004.pdf
+ 772. file:///Bash-project/project1/DeaRouzet2005.pdf
+ 773. file:///Bash-project/project1/DeaSmaini2002.pdf
+ 774. file:///Bash-project/project1/DeaSraer2003.pdf
+ 775. file:///Bash-project/project1/DeaValdenaire2004.pdf
+ 776. file:///Bash-project/project1/DeaZuber2003.pdf
+ 777. file:///Bash-project/project1/Deaton2003.pdf
+ 778. file:///Bash-project/project1/Deaton2003b.pdf
+ 779. file:///Bash-project/project1/DeatonDreze2002.pdf
+ 780. file:///Bash-project/project1/DeatonPaxson2001.pdf
+ 781. file:///Bash-project/project1/DebonneuilFontagne2003.pdf
+ 782. file:///Bash-project/project1/Defever2005.pdf
+ 783. file:///Bash-project/project1/Defrasne2020.pdf
+ 784. file:///Bash-project/project1/DegorreReynaud2003.pdf
+ 785. file:///Bash-project/project1/DekleSummers91.pdf
+ 786. file:///Bash-project/project1/Delbos2016.pdf
+ 787. file:///Bash-project/project1/Dell2003.pdf
+ 788. file:///Bash-project/project1/Dell2005.pdf
+ 789. file:///Bash-project/project1/Dell2010EMA.pdf
+ 790. file:///Bash-project/project1/DellBozioPiketty2006.pdf
+ 791. file:///Bash-project/project1/DellPikettySaez2003.pdf
+ 793. file:///Bash-project/project1/Demel2008.pdf
+ 794. file:///Bash-project/project1/Democracy,%20War,%20and%20Wealth.pdf
+ 795. file:///Bash-project/project1/Dennison2013.pdf
+ 796. file:///Bash-project/project1/Dennison2014.pdf
+ 797. file:///Bash-project/project1/DennisonOglivie2014.pdf
+ 798. file:///Bash-project/project1/DepecheAEF15012007.pdf
+ 799. file:///Bash-project/project1/DepecheAEF19125005.pdf
+ 800. file:///Bash-project/project1/DepecheAEF29092005.pdf
+ 801. file:///Bash-project/project1/DepecheVoila29092005.pdf
+ 802. file:///Bash-project/project1/Desaietal2007.pdf
+ 803. file:///Bash-project/project1/Desbonnetetal2004.pdf
+ 804. file:///Bash-project/project1/Deshpande2006.pdf
+ 805. file:///Bash-project/project1/Despois1956.pdf
+ 806. file:///Bash-project/project1/Devereuxetal2002.pdf
+ 807. file:///Bash-project/project1/Devereuxetal2002b.pdf
+ 808. file:///Bash-project/project1/Devereuxetal2002c.pdf
+ 809. file:///Bash-project/project1/DevisAlgeco1.pdf
+ 810. file:///Bash-project/project1/DevroyeFreeman2001.pdf
+ 811. file:///Bash-project/project1/Dewever2017.pdf
+ 812. file:///Bash-project/project1/Dherbecourt2016.pdf
+ 813. file:///Bash-project/project1/DiNardoPishke1997.pdf
+ 814. file:///Bash-project/project1/DiTellaetal2013.pdf
+ 815. file:///Bash-project/project1/Diamond65.pdf
+ 816. file:///Bash-project/project1/Diamond1965.pdf
+ 817. file:///Bash-project/project1/Diamond1998.pdf
+ 818. file:///Bash-project/project1/DiamondSaez2011.pdf
+ 819. file:///Bash-project/project1/Dincecco2015.pdf
+ 820. file:///Bash-project/project1/DippelCarvalho2014.pdf
+ 821. file:///Bash-project/project1/Dobro2004.pdf
+ 825. file:///Bash-project/project1/Doepke2006.pdf
+ 826. file:///Bash-project/project1/DoepkeSchneider2006.pdf
+ 827. file:///Bash-project/project1/Doladoetal2003.pdf
+ 828. file:///Bash-project/project1/DollarKraay05.pdf
+ 829. file:///Bash-project/project1/Domar1947.pdf
+ 830. file:///Bash-project/project1/Domar1970.pdf
+ 831. file:///Bash-project/project1/DomeijKlein1998.pdf
+ 832. file:///Bash-project/project1/DomeijKlein2002.pdf
+ 833. file:///Bash-project/project1/DonohueLevitt2001.pdf
+ 834. file:///Bash-project/project1/DorinAubron2016.pdf
+ 835. file:///Bash-project/project1/Dormontetal2001.pdf
+ 836. file:///Bash-project/project1/DoubleDiv_Garnero.pdf
+ 837. file:///Bash-project/project1/DoughertyEJ1974.pdf
+ 838. file:///Bash-project/project1/Drees2003.pdf
+ 839. file:///Bash-project/project1/Dronkers2003.pdf
+ 841. file:///Bash-project/project1/DruppFreeman2015.pdf
+ 842. file:///Bash-project/project1/Druppetal2015.pdf
+ 843. file:///Bash-project/project1/DuRietzHenrekson2015.pdf
+ 844. file:///Bash-project/project1/DuRietzetal2015.pdf
+ 845. file:///Bash-project/project1/DuWei10.pdf
+ 846. file:///Bash-project/project1/DubeKaplanNaidu2011.pdf
+ 847. file:///Bash-project/project1/Duclosetal2002.pdf
+ 848. file:///Bash-project/project1/Duflo2000.pdf
+ 849. file:///Bash-project/project1/Duflo2001.pdf
+ 850. file:///Bash-project/project1/Duflo2002.pdf
+ 851. file:///Bash-project/project1/DufloUdry2001.pdf
+ 852. file:///Bash-project/project1/Dufloetal2009QJE.pdf
+ 853. file:///Bash-project/project1/Dumas2002.pdf
+ 854. file:///Bash-project/project1/Dumezil1958.pdf
+ 855. file:///Bash-project/project1/DuncanMurnane2011WhitherOpportunityRusselSageChapter1.pdf
+ 856. file:///Bash-project/project1/DuncanMurnane2011WhitherOpportunityRusselSageExecutiveSummary.pdf
+ 857. file:///Bash-project/project1/DuncanMurnane2011WhitherOpportunityRusselSageTableofContents.pdf
+ 858. file:///Bash-project/project1/DuncanMurnane2011WhitherOpportunityRusselSageTablesFigures.pdf
+ 859. file:///Bash-project/project1/Duncanetal2003.pdf
+ 860. file:///Bash-project/project1/Durantonetal2009.pdf
+ 861. file:///Bash-project/project1/Dustmannetal2014.pdf
+ 862. file:///Bash-project/project1/Dutt2006.pdf
+ 863. file:///Bash-project/project1/Dutt2010.pdf
+ 864. file:///Bash-project/project1/Dutt2011.pdf
+ 865. file:///Bash-project/project1/Dutt2015.pdf
+ 866. file:///Bash-project/project1/Dwengeretal2011.pdf
+ 867. file:///Bash-project/project1/Dynan2004.pdf
+ 868. file:///Bash-project/project1/Dynanetal2000.pdf
+ 869. file:///Bash-project/project1/Dynanetal2002.pdf
+ 870. file:///Bash-project/project1/Dynanetal2004.pdf
+ 871. file:///Bash-project/project1/EC2013FiscalConsolidation.pdf
+ 872. file:///Bash-project/project1/ECB2003.pdf
+ 873. file:///Bash-project/project1/ECB2013.pdf
+ 874. file:///Bash-project/project1/EU2015TaxReforms.pdf
+ 875. file:///Bash-project/project1/EU%20Wealth%2023-11-2010.pdf
+ 877. file:///Bash-project/project1/EatonAER1988.pdf
+ 878. file:///Bash-project/project1/Ebke1997.pdf
+ 879. file:///Bash-project/project1/EdlundKopczuk2006.pdf
+ 880. file:///Bash-project/project1/EdlundKopczukAER2009.pdf
+ 881. file:///Bash-project/project1/EdlundPande2002.pdf
+ 882. file:///Bash-project/project1/Edlundetal2002.pdf
+ 883. file:///Bash-project/project1/Edsall2012.pdf
+ 884. file:///Bash-project/project1/Edsall2012b.pdf
+ 885. file:///Bash-project/project1/Eggertssonetal2018.pdf
+ 886. file:///Bash-project/project1/Eichengreen1990.pdf
+ 887. file:///Bash-project/project1/Eichengreen2015.pdf
+ 888. file:///Bash-project/project1/EichengreenPortes90.pdf
+ 889. file:///Bash-project/project1/Eisner1980.pdf
+ 890. file:///Bash-project/project1/EissaLiebman1996.pdf
+ 891. file:///Bash-project/project1/Ekbergetal2006.pdf
+ 892. file:///Bash-project/project1/EkelundWalkeronMill(HPE1996).pdf
+ 893. file:///Bash-project/project1/EmmaMenasce20122005.pdf
+ 894. file:///Bash-project/project1/EngermanSokoloff1997.pdf
+ 895. file:///Bash-project/project1/EngermanSokoloff2000.pdf
+ 896. file:///Bash-project/project1/EngermanSokoloff2005.pdf
+ 897. file:///Bash-project/project1/Enguehard2020.pdf
+ 898. file:///Bash-project/project1/Environmental%20Taxes.pdf
+ 899. file:///Bash-project/project1/EspingAndersen2013.pdf
+ 901. file:///Bash-project/project1/Estevez2014.pdf
+ 902. file:///Bash-project/project1/Etemad2007.pdf
+ 903. file:///Bash-project/project1/Etemad2012.pdf
+ 904. file:///Bash-project/project1/Eurostat2009(TaxTrends)(SelectedTables1).pdf
+ 905. file:///Bash-project/project1/Eurostat2009(TaxTrends)(SelectedTables2).pdf
+ 906. file:///Bash-project/project1/Eurostat2009(TaxTrends).pdf
+ 907. file:///Bash-project/project1/Eurostat2011(SelectedTables1).pdf
+ 908. file:///Bash-project/project1/Eurostat2011.pdf
+ 909. file:///Bash-project/project1/Eurostat2013.pdf
+ 910. file:///Bash-project/project1/Eurostat2013Bulgaria.pdf
+ 911. file:///Bash-project/project1/Eurostat2013Contents.pdf
+ 912. file:///Bash-project/project1/Eurostat2013Denmark.pdf
+ 913. file:///Bash-project/project1/Eurostat2013EU27.pdf
+ 914. file:///Bash-project/project1/Eurostat2013France.pdf
+ 915. file:///Bash-project/project1/Eurostat2013Germany.pdf
+ 916. file:///Bash-project/project1/Eurostat2013Luxembourg.pdf
+ 917. file:///Bash-project/project1/Eurostat2013Norway.pdf
+ 918. file:///Bash-project/project1/Eurostat2013Sweden.pdf
+ 919. file:///Bash-project/project1/Eurostat2014.pdf
+ 920. file:///Bash-project/project1/Eurostat2014Summary.pdf
+ 921. file:///Bash-project/project1/Everett2011.pdf
+ 927. file:///Bash-project/project1/Expilly1780.pdf
+ 932. file:///Bash-project/project1/FB1.pdf
+ 933. file:///Bash-project/project1/FB2.pdf
+ 934. file:///Bash-project/project1/Fabre2016.pdf
+ 935. file:///Bash-project/project1/FabreMoullet2002.pdf
+ 936. file:///Bash-project/project1/Fack2003.pdf
+ 937. file:///Bash-project/project1/Fack2006.pdf
+ 938. file:///Bash-project/project1/Fack2006Graphs.pdf
+ 939. file:///Bash-project/project1/FackGrenet2007.pdf
+ 940. file:///Bash-project/project1/FackLandais2011.pdf
+ 941. file:///Bash-project/project1/FactorShares(Piketty2010).pdf
+ 942. file:///Bash-project/project1/FalkIchino2003.pdf
+ 943. file:///Bash-project/project1/Fall2004.pdf
+ 944. file:///Bash-project/project1/Fanetal2010.pdf
+ 945. file:///Bash-project/project1/FanoEtal08.pdf
+ 946. file:///Bash-project/project1/Farber2003.pdf
+ 947. file:///Bash-project/project1/FarhiWarning2006.pdf
+ 948. file:///Bash-project/project1/FarhiWarning2007.pdf
+ 949. file:///Bash-project/project1/FarhiWarning2008.pdf
+ 950. file:///Bash-project/project1/FarhiWerning2014.pdf
+ 951. file:///Bash-project/project1/Farhietal2011.pdf
+ 952. file:///Bash-project/project1/Farhietal2012.pdf
+ 953. file:///Bash-project/project1/FehrEtal05.pdf
+ 954. file:///Bash-project/project1/Feinstein1978(CEH%20of%20EuropeVol7).pdf
+ 955. file:///Bash-project/project1/Feinstein1978(CEHofEuropeVol7).pdf
+ 956. file:///Bash-project/project1/Feinstein1990.pdf
+ 957. file:///Bash-project/project1/Feinstein1998.pdf
+ 958. file:///Bash-project/project1/Feinstein2006(OxfordArchives).pdf
+ 959. file:///Bash-project/project1/Feldstein1995.pdf
+ 960. file:///Bash-project/project1/Feldstein1995HC.pdf
+ 961. file:///Bash-project/project1/FeldsteinHorioka.pdf
+ 962. file:///Bash-project/project1/FeldsteinHorioka1980.pdf
+ 963. file:///Bash-project/project1/FeldsteinSamwick1992.pdf
+ 964. file:///Bash-project/project1/Fenske2013.pdf
+ 965. file:///Bash-project/project1/Fergusonetal2015.pdf
+ 967. file:///Bash-project/project1/FernandezRogerson2001.pdf
+ 968. file:///Bash-project/project1/Fernandezetal2001.pdf
+ 969. file:///Bash-project/project1/FertigSchmidt2002.pdf
+ 970. file:///Bash-project/project1/FiaschiMarsili2009.pdf
+ 971. file:///Bash-project/project1/Fichen2012MasterThesis.pdf
+ 972. file:///Bash-project/project1/Financial_Transparency_WorldInequalityLab.pdf
+ 974. file:///Bash-project/project1/Finley1979.pdf
+ 975. file:///Bash-project/project1/Finleyetal2017.pdf
+ 976. file:///Bash-project/project1/FioleRoger2002.pdf
+ 977. file:///Bash-project/project1/Fioleetal2000.pdf
+ 978. file:///Bash-project/project1/Fisher1919.pdf
+ 979. file:///Bash-project/project1/FisherPost2018.pdf
+ 980. file:///Bash-project/project1/Fismanetal2016.pdf
+ 981. file:///Bash-project/project1/Fixler09.pdf
+ 982. file:///Bash-project/project1/Flandreau2012.pdf
+ 983. file:///Bash-project/project1/FlandreauZummer2004.pdf
+ 984. file:///Bash-project/project1/Fleurbaey2006.pdf
+ 985. file:///Bash-project/project1/FleurbaeyManiquet2011.pdf
+ 986. file:///Bash-project/project1/Forse2006.pdf
+ 987. file:///Bash-project/project1/ForseParodi2007.pdf
+ 988. file:///Bash-project/project1/Fougereetal2003.pdf
+ 989. file:///Bash-project/project1/Fouquet1982.pdf
+ 990. file:///Bash-project/project1/Fournier2015.pdf
+ 992. file:///Bash-project/project1/Fournier2015_inc_pc.pdf
+ 993. file:///Bash-project/project1/Fournier2015_inc_pc_fin.pdf
+ 994. file:///Bash-project/project1/Fournier2015_inc_pc_fin_top01.pdf
+ 995. file:///Bash-project/project1/Fournier2015_inc_pc_fin_top1.pdf
+ 996. file:///Bash-project/project1/Fournier2015_inc_pc_fin_top10.pdf
+ 997. file:///Bash-project/project1/Fournier2015_inc_pc_top01.pdf
+ 998. file:///Bash-project/project1/Fournier2015_inc_pc_top1.pdf
+ 999. file:///Bash-project/project1/Fournier2015_inc_pc_top10.pdf
+1000. file:///Bash-project/project1/Fournier2015_inc_q.pdf
+1001. file:///Bash-project/project1/Fournier2015_inc_q_top01.pdf
+1002. file:///Bash-project/project1/Fournier2015_inc_q_top1.pdf
+1003. file:///Bash-project/project1/Fournier2015_inc_q_top10.pdf
+1004. file:///Bash-project/project1/Fournier2015_inh_pc.pdf
+1005. file:///Bash-project/project1/Fournier2015_inh_pc_fin.pdf
+1006. file:///Bash-project/project1/Fournier2015_inh_pc_fin_top1.pdf
+1007. file:///Bash-project/project1/Fournier2015_inh_pc_fin_top10.pdf
+1008. file:///Bash-project/project1/Fournier2015_inh_pc_top01.pdf
+1009. file:///Bash-project/project1/Fournier2015_inh_pc_top1.pdf
+1010. file:///Bash-project/project1/Fournier2015_inh_pc_top10.pdf
+1011. file:///Bash-project/project1/Fournier2015_inh_q.pdf
+1012. file:///Bash-project/project1/Fournier2015_inh_q_top01.pdf
+1013. file:///Bash-project/project1/Fournier2015_inh_q_top1.pdf
+1014. file:///Bash-project/project1/Fournier2015_inh_q_top10.pdf
+1015. file:///Bash-project/project1/Foville1893.pdf
+1017. file:///Bash-project/project1/FranceRecensement2021.pdf
+1018. file:///Bash-project/project1/Freeman1996.pdf
+1019. file:///Bash-project/project1/Freeman2003.pdf
+1020. file:///Bash-project/project1/Fremeaux2013These.pdf
+1021. file:///Bash-project/project1/FremeauxLeturcq2013.pdf
+1022. file:///Bash-project/project1/FremeauxPiketty2013.pdf
+1023. file:///Bash-project/project1/FremeauxPiketty2013short.pdf
+1024. file:///Bash-project/project1/FrenchIncomeTaxData1919-1920(BSLC1923).pdf
+1029. file:///Bash-project/project1/French%20national%20accounts%20(2007).pdf
+1030. file:///Bash-project/project1/FreyKucher00.pdf
+1031. file:///Bash-project/project1/FrydmanMolloy2009.pdf
+1032. file:///Bash-project/project1/FurceriLoungani2015.pdf
+1033. file:///Bash-project/project1/GGP2016DINA.pdf
+1034. file:///Bash-project/project1/GGP2016DINASlides.pdf
+1035. file:///Bash-project/project1/GGP2016DINAslides.pdf
+1036. file:///Bash-project/project1/GGP2016Wealth.pdf
+1038. file:///Bash-project/project1/GGP2016WealthAppendix.pdf
+1039. file:///Bash-project/project1/GGP2016WealthAppendix_WIDWP201606.pdf
+1040. file:///Bash-project/project1/GGP2016WealthSlides.pdf
+1041. file:///Bash-project/project1/GGP2016Wealth_WIDWP201605.pdf
+1043. file:///Bash-project/project1/GGP2017DINAAppendix_WIDWP201705.pdf
+1044. file:///Bash-project/project1/GGP2017DINASlides.pdf
+1045. file:///Bash-project/project1/GGP2017DINA_WIDWP201704.pdf
+1046. file:///Bash-project/project1/GGP2017DINAslides.pdf
+1047. file:///Bash-project/project1/GGP2018DINAJPubE.pdf
+1048. file:///Bash-project/project1/GGP2021JEEA.pdf
+1049. file:///Bash-project/project1/GMP2021Cover.pdf
+1050. file:///Bash-project/project1/GMP2021HUPExtracts.pdf
+1051. file:///Bash-project/project1/GMP2021SeuilExtraits.pdf
+1052. file:///Bash-project/project1/Gabaix2008.pdf
+1053. file:///Bash-project/project1/Gabaix2010.pdf
+1054. file:///Bash-project/project1/GabaixLandier2006.pdf
+1055. file:///Bash-project/project1/GabaixLandier2008.pdf
+1056. file:///Bash-project/project1/GabaixLandier2008%20HC.pdf
+1057. file:///Bash-project/project1/Gabay2003.pdf
+1058. file:///Bash-project/project1/Gadenne2012PhDThesis.pdf
+1059. file:///Bash-project/project1/Gagnants%20(09-03-2011).pdf
+1061. file:///Bash-project/project1/Galbraith2012.pdf
+1062. file:///Bash-project/project1/GaleSabelhaus99.pdf
+1063. file:///Bash-project/project1/GaleScholz1994.pdf
+1064. file:///Bash-project/project1/Galiana2016.pdf
+1065. file:///Bash-project/project1/Gallman1969.pdf
+1066. file:///Bash-project/project1/GalofreVila2018EREH.pdf
+1067. file:///Bash-project/project1/GalorMoavRES2004.pdf
+1068. file:///Bash-project/project1/GalorMoavRES2006.pdf
+1069. file:///Bash-project/project1/GalorWeil2000.pdf
+1070. file:///Bash-project/project1/Garbinti2016.pdf
+1071. file:///Bash-project/project1/Garcette2003.pdf
+1072. file:///Bash-project/project1/Garibaldietal2006.pdf
+1073. file:///Bash-project/project1/GaryBoboTrannoy2003.pdf
+1074. file:///Bash-project/project1/GaryBoboTrannoy2006.pdf
+1075. file:///Bash-project/project1/Geerolf13.pdf
+1076. file:///Bash-project/project1/GennaioliEtal13.pdf
+1077. file:///Bash-project/project1/GennaioliVoth2017RES.pdf
+1078. file:///Bash-project/project1/Gethin2018.pdf
+1079. file:///Bash-project/project1/GethinMartinezMorgan2019.pdf
+1080. file:///Bash-project/project1/GethinMartinezPiketty2019.pdf
+1081. file:///Bash-project/project1/GethinMartinezPiketty2019Slides.pdf
+1082. file:///Bash-project/project1/Giffen1889.pdf
+1083. file:///Bash-project/project1/Giffen1902.pdf
+1084. file:///Bash-project/project1/Giglioetal2013.pdf
+1085. file:///Bash-project/project1/Giglioetal2015.pdf
+1086. file:///Bash-project/project1/GilbertVarangis2003.pdf
+1087. file:///Bash-project/project1/Gilboy1936.pdf
+1088. file:///Bash-project/project1/GilchristWilliams04.pdf
+1089. file:///Bash-project/project1/GilensPage2014.pdf
+1090. file:///Bash-project/project1/GimpelsonTreisman2015.pdf
+1091. file:///Bash-project/project1/GintherPollak2003.pdf
+1092. file:///Bash-project/project1/Glaeser2004.pdf
+1093. file:///Bash-project/project1/GlaeserShleifer2001.pdf
+1094. file:///Bash-project/project1/Glennerster2011.pdf
+1095. file:///Bash-project/project1/Glewweetal2003.pdf
+1096. file:///Bash-project/project1/Godechot2011.pdf
+1097. file:///Bash-project/project1/GokhaleKotlikoffAER2002.pdf
+1098. file:///Bash-project/project1/GokhaleKotlikoffJPubEc2001.pdf
+1099. file:///Bash-project/project1/Goldin1995.pdf
+1100. file:///Bash-project/project1/Goldin2001JEH.pdf
+1101. file:///Bash-project/project1/GoldinKatz2000.pdf
+1102. file:///Bash-project/project1/GoldinKatz2002.pdf
+1103. file:///Bash-project/project1/GoldinKatz2009.pdf
+1104. file:///Bash-project/project1/GoldinKatz2012.pdf
+1105. file:///Bash-project/project1/Goldsmith51.pdf
+1106. file:///Bash-project/project1/Goldsmith1952.pdf
+1107. file:///Bash-project/project1/Goldsmith1955.pdf
+1108. file:///Bash-project/project1/Goldsmith1962.pdf
+1109. file:///Bash-project/project1/Goldsmith1982.pdf
+1111. file:///Bash-project/project1/GoldsmithLipsey1963a.pdf
+1112. file:///Bash-project/project1/GoldsmithLipsey1963b.pdf
+1113. file:///Bash-project/project1/GoldsmithRIW1989.pdf
+1114. file:///Bash-project/project1/GoldsmithROIW1984.pdf
+1115. file:///Bash-project/project1/GoldsteinUdry2003.pdf
+1116. file:///Bash-project/project1/Golosovetal2011.pdf
+1117. file:///Bash-project/project1/Gonzales2003.pdf
+1118. file:///Bash-project/project1/Goolsbee2000.pdf
+1119. file:///Bash-project/project1/Gordon90.pdf
+1120. file:///Bash-project/project1/Gordon1959.pdf
+1121. file:///Bash-project/project1/Gordon1985.pdf
+1122. file:///Bash-project/project1/Gordon2003.pdf
+1123. file:///Bash-project/project1/Gordon2009.pdf
+1124. file:///Bash-project/project1/Gordon2012.pdf
+1125. file:///Bash-project/project1/Gordon2014.pdf
+1126. file:///Bash-project/project1/Gordon2015.pdf
+1127. file:///Bash-project/project1/GordonDietz2006.pdf
+1128. file:///Bash-project/project1/GordonDividendTax.pdf
+1129. file:///Bash-project/project1/GordonKopczuk2009.pdf
+1130. file:///Bash-project/project1/GordonMandelkern01.pdf
+1131. file:///Bash-project/project1/GordonSlemrod2000.pdf
+1132. file:///Bash-project/project1/Gordonetal2003.pdf
+1133. file:///Bash-project/project1/GormanJEL1987(ReviewGodsmith1985).pdf
+1134. file:///Bash-project/project1/Gosling2003.pdf
+1135. file:///Bash-project/project1/Gotman1995.pdf
+1136. file:///Bash-project/project1/Goubert1970.pdf
+1137. file:///Bash-project/project1/GouldLavyPaserman2003.pdf
+1138. file:///Bash-project/project1/Goupille2016.pdf
+1139. file:///Bash-project/project1/GourinchasRey2007.pdf
+1140. file:///Bash-project/project1/GourinchasRey2010.pdf
+1141. file:///Bash-project/project1/GourinchasReyJPE2007.pdf
+1142. file:///Bash-project/project1/Gourinchasetal2011.pdf
+1143. file:///Bash-project/project1/Gourinchasetal2012.pdf
+1144. file:///Bash-project/project1/GouxMaurin2001.pdf
+1145. file:///Bash-project/project1/GouxMaurin2003.pdf
+1146. file:///Bash-project/project1/Govind2017.pdf
+1147. file:///Bash-project/project1/Govind2018.pdf
+1148. file:///Bash-project/project1/Govind2021.pdf
+1149. file:///Bash-project/project1/Grabka2015.pdf
+1150. file:///Bash-project/project1/GraddyStevens2003.pdf
+1151. file:///Bash-project/project1/Graigie1902.pdf
+1153. file:///Bash-project/project1/Graslin1767.pdf
+1154. file:///Bash-project/project1/Grawe2001.pdf
+1155. file:///Bash-project/project1/GreenSEJ1980.pdf
+1156. file:///Bash-project/project1/GreenwoodEtal97.pdf
+1157. file:///Bash-project/project1/GreenwoodJovanovic1999.pdf
+1158. file:///Bash-project/project1/GreenwoodJovanovicJPE1990.pdf
+1159. file:///Bash-project/project1/GreenwoodWolff92.pdf
+1160. file:///Bash-project/project1/GreifTabellini.pdf
+1161. file:///Bash-project/project1/Grenet2004.pdf
+1162. file:///Bash-project/project1/Grenet2016.pdf
+1163. file:///Bash-project/project1/Grochulski2008.pdf
+1164. file:///Bash-project/project1/Gross1993.pdf
+1165. file:///Bash-project/project1/Grossman2008.pdf
+1166. file:///Bash-project/project1/GrossmanMeissner2010.pdf
+1167. file:///Bash-project/project1/GrossmanSteger2016.pdf
+1168. file:///Bash-project/project1/GrossmannSteger2016.pdf
+1169. file:///Bash-project/project1/Gruber1994.pdf
+1170. file:///Bash-project/project1/Gruber2000.pdf
+1171. file:///Bash-project/project1/GruberKoszegi2002.pdf
+1172. file:///Bash-project/project1/GruberMullainathan2002.pdf
+1173. file:///Bash-project/project1/GruberSaez2002.pdf
+1174. file:///Bash-project/project1/Gruberetal1999.pdf
+1175. file:///Bash-project/project1/Gruberetal2003.pdf
+1176. file:///Bash-project/project1/Guerriero2012.pdf
+1177. file:///Bash-project/project1/GuerrieroSen2012.pdf
+1178. file:///Bash-project/project1/Guesnerie2009.pdf
+1179. file:///Bash-project/project1/Guesnerie2010.pdf
+1180. file:///Bash-project/project1/GuesnerieRE2004.pdf
+1182. file:///Bash-project/project1/GuidolinJeunesse07.pdf
+1183. file:///Bash-project/project1/Guillot2018.pdf
+1184. file:///Bash-project/project1/Guinnane2011.pdf
+1185. file:///Bash-project/project1/Guisoetal2002.pdf
+1186. file:///Bash-project/project1/GurievRachinsky05.pdf
+1187. file:///Bash-project/project1/GurievRachinsky2005.pdf
+1188. file:///Bash-project/project1/GurievRachinsky2006.pdf
+1189. file:///Bash-project/project1/Guvenen2012.pdf
+1190. file:///Bash-project/project1/Guvenenetal2016.pdf
+1191. file:///Bash-project/project1/Guvenenetal2017.pdf
+1192. file:///Bash-project/project1/Guvenenetal2019.pdf
+1193. file:///Bash-project/project1/Gyourkoetal2013AEJPol.pdf
+1194. file:///Bash-project/project1/HPSV2017.pdf
+1195. file:///Bash-project/project1/HPSV2017couv.pdf
+1196. file:///Bash-project/project1/HallJorgenson67.pdf
+1197. file:///Bash-project/project1/HallReis13.pdf
+1198. file:///Bash-project/project1/HallSargent11.pdf
+1199. file:///Bash-project/project1/HallSargent11Appendix.pdf
+1200. file:///Bash-project/project1/HallSargent1997.pdf
+1201. file:///Bash-project/project1/HallSoskice2001.pdf
+1202. file:///Bash-project/project1/Hansen417(ZhuDiscussion).pdf
+1203. file:///Bash-project/project1/Hansenetal2003.pdf
+1204. file:///Bash-project/project1/Hanusheketal2001.pdf
+1205. file:///Bash-project/project1/Harberger1962.pdf
+1206. file:///Bash-project/project1/Harrison2012.pdf
+1207. file:///Bash-project/project1/Harrod1939.pdf
+1208. file:///Bash-project/project1/Harrod1960.pdf
+1209. file:///Bash-project/project1/Harsanyi1975.pdf
+1210. file:///Bash-project/project1/Harvard%2003-11-2011.pdf
+1212. file:///Bash-project/project1/HassetMathur2006.pdf
+1213. file:///Bash-project/project1/HautcoeurPetit2004.pdf
+1214. file:///Bash-project/project1/HavensSchervish2003.pdf
+1216. file:///Bash-project/project1/Hayashi86.pdf
+1217. file:///Bash-project/project1/HeckmanLi2003.pdf
+1218. file:///Bash-project/project1/HeimMirowski87.pdf
+1219. file:///Bash-project/project1/Hein2011.pdf
+1220. file:///Bash-project/project1/HeinVogelRPE2009.pdf
+1221. file:///Bash-project/project1/Henochsberg2016.pdf
+1222. file:///Bash-project/project1/Henry2004.pdf
+1223. file:///Bash-project/project1/HenryTJN2012.pdf
+1224. file:///Bash-project/project1/HenryTJN2012Appendix.pdf
+1225. file:///Bash-project/project1/HenryTJN2012AppendixPart2.pdf
+1226. file:///Bash-project/project1/Heywood2009JAH.pdf
+1227. file:///Bash-project/project1/HibbertRIW1981.pdf
+1228. file:///Bash-project/project1/Hidalgoetal2010.pdf
+1229. file:///Bash-project/project1/Hilger2015.pdf
+1230. file:///Bash-project/project1/HillsEtal10.pdf
+1231. file:///Bash-project/project1/Hist-mod.pdf
+1233. file:///Bash-project/project1/Historical%20evolution%20of%20income%20tax%20(Arthur%20Jatteau).pdf
+1234. file:///Bash-project/project1/Hnatkovskaetal2012.pdf
+1235. file:///Bash-project/project1/Hoenack1964.pdf
+1236. file:///Bash-project/project1/HoffPandey2003.pdf
+1237. file:///Bash-project/project1/Hoffman2011.pdf
+1238. file:///Bash-project/project1/Hoffman2012.pdf
+1239. file:///Bash-project/project1/HoffmanetalJEH2002.pdf
+1240. file:///Bash-project/project1/Holmesetal2003.pdf
+1241. file:///Bash-project/project1/HolstonLaubachWilliams2016.pdf
+1242. file:///Bash-project/project1/Holtz-EakinMarples2001.pdf
+1243. file:///Bash-project/project1/Holtz-Eakinetal1993.pdf
+1244. file:///Bash-project/project1/Horioka90.pdf
+1245. file:///Bash-project/project1/HoriokaTerrada2011.pdf
+1246. file:///Bash-project/project1/Hornbeck2010.pdf
+1247. file:///Bash-project/project1/HorowitzSitkoff2014.pdf
+1248. file:///Bash-project/project1/HorrellHumphries1995EHR.pdf
+1249. file:///Bash-project/project1/Hoxby1994.pdf
+1250. file:///Bash-project/project1/Hoxby1996.pdf
+1251. file:///Bash-project/project1/Hoxby1998.pdf
+1252. file:///Bash-project/project1/Hoxby2000.pdf
+1253. file:///Bash-project/project1/Hoxby2000a.pdf
+1254. file:///Bash-project/project1/Hoxby2000c.pdf
+1255. file:///Bash-project/project1/Hoxby2001.pdf
+1256. file:///Bash-project/project1/Hoxby2002.pdf
+1257. file:///Bash-project/project1/Hoxby2009.pdf
+1258. file:///Bash-project/project1/HoxbyAvery2012.pdf
+1259. file:///Bash-project/project1/HoxbyLong1999.pdf
+1260. file:///Bash-project/project1/HoynesUCDavisSyllabu2009-2010.pdf
+1261. file:///Bash-project/project1/HsiehUrquiola2003.pdf
+1262. file:///Bash-project/project1/Huberman2012.pdf
+1263. file:///Bash-project/project1/HueyLong1934.pdf
+1264. file:///Bash-project/project1/Huilery2013JEH.pdf
+1265. file:///Bash-project/project1/Huizingaetal2003.pdf
+1266. file:///Bash-project/project1/Hulten06.pdf
+1267. file:///Bash-project/project1/HultenHao12.pdf
+1268. file:///Bash-project/project1/Humphries1990JEH.pdf
+1269. file:///Bash-project/project1/Hung2018.pdf
+1270. file:///Bash-project/project1/Hyppolite2015.pdf
+1271. file:///Bash-project/project1/Hyppolite2016.pdf
+1272. file:///Bash-project/project1/IEA%20Beijing%2006-07-2011.pdf
+1275. file:///Bash-project/project1/IFC%20Conference%202006.pdf
+1276. file:///Bash-project/project1/ILO2012(GlobalWageReport).pdf
+1277. file:///Bash-project/project1/ILO2014.pdf
+1278. file:///Bash-project/project1/IMFFiscalMonitor2013.pdf
+1279. file:///Bash-project/project1/INSEE2006.pdf
+1280. file:///Bash-project/project1/ITR_European_national_accounts.pdf
+1281. file:///Bash-project/project1/IncomeTaxFigures.pdf
+1282. file:///Bash-project/project1/Inegalites2010.pdf
+1283. file:///Bash-project/project1/Inequality%20External%20June%2027.pdf
+1284. file:///Bash-project/project1/InglehartWelzel2006.pdf
+1285. file:///Bash-project/project1/InglehartWelzel2011.pdf
+1286. file:///Bash-project/project1/InklaarTimmer13.pdf
+1288. file:///Bash-project/project1/J%c3%bcrges2005.pdf
+1290. file:///Bash-project/project1/JEP2015BailoutsSymposium.pdf
+1291. file:///Bash-project/project1/Jacksonetal2013.pdf
+1292. file:///Bash-project/project1/Jacksonetal2015.pdf
+1293. file:///Bash-project/project1/Jacksonetal2020.pdf
+1294. file:///Bash-project/project1/JanssenEtal02.pdf
+1295. file:///Bash-project/project1/JanttiJenkins2013(HIDVol2Chap11).pdf
+1296. file:///Bash-project/project1/JappelliRIH1999.pdf
+1297. file:///Bash-project/project1/JayachandranPande2015.pdf
+1298. file:///Bash-project/project1/Jenmana2018.pdf
+1299. file:///Bash-project/project1/Jensen2016.pdf
+1300. file:///Bash-project/project1/Jensenetal2012.pdf
+1301. file:///Bash-project/project1/JohannesenZucman2014.pdf
+1302. file:///Bash-project/project1/Johnsonetal2000.pdf
+1303. file:///Bash-project/project1/Jones94.pdf
+1304. file:///Bash-project/project1/JonesObsfeld2001.pdf
+1305. file:///Bash-project/project1/JonesRomer2010.pdf
+1306. file:///Bash-project/project1/JonhsonSchreiber2006.pdf
+1307. file:///Bash-project/project1/Jorgenson01.pdf
+1308. file:///Bash-project/project1/Jorgenson09.pdf
+1309. file:///Bash-project/project1/Jorgenson63.pdf
+1310. file:///Bash-project/project1/JorgensonLandefeld06.pdf
+1311. file:///Bash-project/project1/JovanovicRousseau2001.pdf
+1312. file:///Bash-project/project1/Joyce2001.pdf
+1313. file:///Bash-project/project1/KageyamaRIW2003.pdf
+1314. file:///Bash-project/project1/Kahn2017.pdf
+1315. file:///Bash-project/project1/Kaldor1955.pdf
+1316. file:///Bash-project/project1/Kaldor1955ExpenditureTaxDebate.pdf
+1317. file:///Bash-project/project1/Kaldor1966.pdf
+1318. file:///Bash-project/project1/Kane2003.pdf
+1319. file:///Bash-project/project1/Kapczynski2008.pdf
+1320. file:///Bash-project/project1/Kapczynski2012.pdf
+1321. file:///Bash-project/project1/Kapczynski2015.pdf
+1322. file:///Bash-project/project1/Kapeller2014.pdf
+1323. file:///Bash-project/project1/Kapeller2015.pdf
+1324. file:///Bash-project/project1/Kapicka12.pdf
+1325. file:///Bash-project/project1/KaplanRauh2009.pdf
+1326. file:///Bash-project/project1/KaplanRauh2012.pdf
+1327. file:///Bash-project/project1/Kaplow2008.pdf
+1328. file:///Bash-project/project1/KarabarbounisNeiman12.pdf
+1329. file:///Bash-project/project1/KarabarbounisNeiman13.pdf
+1330. file:///Bash-project/project1/KarabarbounisNeiman2012.pdf
+1331. file:///Bash-project/project1/KarabarbounisNeiman2014.pdf
+1332. file:///Bash-project/project1/Karagiannaki2011a.pdf
+1333. file:///Bash-project/project1/Karagiannaki2011b.pdf
+1334. file:///Bash-project/project1/Karagiannaki2011c.pdf
+1335. file:///Bash-project/project1/KaramanPamuk2010.pdf
+1336. file:///Bash-project/project1/KaticLeigh2013.pdf
+1337. file:///Bash-project/project1/KearlPopeJEH1983.pdf
+1338. file:///Bash-project/project1/Kearney2002.pdf
+1339. file:///Bash-project/project1/Kendrick1964.pdf
+1340. file:///Bash-project/project1/Kennickell2009.pdf
+1341. file:///Bash-project/project1/Kennickell2009b.pdf
+1342. file:///Bash-project/project1/Kennickell2011.pdf
+1343. file:///Bash-project/project1/Kennickelletal2012.pdf
+1344. file:///Bash-project/project1/KesslerMasson1988.pdf
+1345. file:///Bash-project/project1/KesslerMasson1989.pdf
+1346. file:///Bash-project/project1/KesslerMassonJEP1989.pdf
+1347. file:///Bash-project/project1/KesslerMassonStraussKahn1982.pdf
+1348. file:///Bash-project/project1/KesslerRIW1993.pdf
+1349. file:///Bash-project/project1/KesslerWolffRIW1991.pdf
+1350. file:///Bash-project/project1/Keynes1939.pdf
+1351. file:///Bash-project/project1/Kharroubi2006.pdf
+1352. file:///Bash-project/project1/King1696.pdf
+1353. file:///Bash-project/project1/King1915.pdf
+1354. file:///Bash-project/project1/King1980.pdf
+1355. file:///Bash-project/project1/KirschBraun2016.pdf
+1356. file:///Bash-project/project1/Klein1956(ReviewGoldsmith1955).pdf
+1357. file:///Bash-project/project1/Kleven2014JEP.pdf
+1358. file:///Bash-project/project1/KlevenKreinerSaez2009.pdf
+1359. file:///Bash-project/project1/KlevenLandais2017.pdf
+1360. file:///Bash-project/project1/KlevenLandaisSogaard2015.pdf
+1361. file:///Bash-project/project1/Kleven%20et%20al%202012.pdf
+1362. file:///Bash-project/project1/KlumpGrandville00.pdf
+1363. file:///Bash-project/project1/KnollSchularickSteger2015.pdf
+1364. file:///Bash-project/project1/Kocherlakota2005.pdf
+1365. file:///Bash-project/project1/Kohetal2015.pdf
+1366. file:///Bash-project/project1/Kondor2003.pdf
+1367. file:///Bash-project/project1/KopcukQJE2007.pdf
+1368. file:///Bash-project/project1/Kopczuk2001.pdf
+1369. file:///Bash-project/project1/Kopczuk2007.pdf
+1370. file:///Bash-project/project1/Kopczuk2012.pdf
+1371. file:///Bash-project/project1/KopczukLuptonRES2007.pdf
+1372. file:///Bash-project/project1/KopczukSaez2003.pdf
+1373. file:///Bash-project/project1/KopczukSaez2003HC.pdf
+1374. file:///Bash-project/project1/KopczukSaez2004.pdf
+1375. file:///Bash-project/project1/KopczukSlemrod2001.pdf
+1376. file:///Bash-project/project1/KopczukSlemrod2006.pdf
+1377. file:///Bash-project/project1/KopczukTaxLawReview2009.pdf
+1378. file:///Bash-project/project1/Kopczuketal2005.pdf
+1379. file:///Bash-project/project1/Korenman2000(inArrowBowlesDurlauf).pdf
+1380. file:///Bash-project/project1/KossePiketty2019.pdf
+1381. file:///Bash-project/project1/KotlikofSummers1981.pdf
+1382. file:///Bash-project/project1/KotlikofSummersJPE1981(WPNBER1980).pdf
+1383. file:///Bash-project/project1/Kotlikoff1979.pdf
+1384. file:///Bash-project/project1/Kotlikoff1988.pdf
+1385. file:///Bash-project/project1/KotlikoffAER2002.pdf
+1386. file:///Bash-project/project1/KraayEtal05.pdf
+1387. file:///Bash-project/project1/KraayVentura00.pdf
+1388. file:///Bash-project/project1/KraayVentura02.pdf
+1389. file:///Bash-project/project1/Kramarz2003.pdf
+1390. file:///Bash-project/project1/KramarzPhilippon2001.pdf
+1391. file:///Bash-project/project1/Kremer1993.pdf
+1392. file:///Bash-project/project1/Kremer1997.pdf
+1393. file:///Bash-project/project1/KremerLevy2003.pdf
+1394. file:///Bash-project/project1/KremerMaskin2003.pdf
+1395. file:///Bash-project/project1/Krenecketal2017.pdf
+1396. file:///Bash-project/project1/Kriesi1998.pdf
+1397. file:///Bash-project/project1/KrikorianKapczynski2010.pdf
+1398. file:///Bash-project/project1/KristensenBjerkedal2007.pdf
+1399. file:///Bash-project/project1/Krueger1999.pdf
+1400. file:///Bash-project/project1/Krueger2012.pdf
+1401. file:///Bash-project/project1/Krueger2012a.pdf
+1402. file:///Bash-project/project1/KruegerJPE1986(ReviewGodsmith1985).pdf
+1403. file:///Bash-project/project1/KruegerLudwig2006.pdf
+1404. file:///Bash-project/project1/KruegerMeyer2002.pdf
+1405. file:///Bash-project/project1/KrugmanVenables1995.pdf
+1406. file:///Bash-project/project1/KrusellEtal00.pdf
+1407. file:///Bash-project/project1/Kugler2003.pdf
+1408. file:///Bash-project/project1/Kuh1956(ReviewGoldsmith1955).pdf
+1409. file:///Bash-project/project1/KumhofRanciereWinant2013.pdf
+1410. file:///Bash-project/project1/Kumhofetal2012.pdf
+1411. file:///Bash-project/project1/KumhoffRanciere2010.pdf
+1412. file:///Bash-project/project1/KuziemkoLevitt2002.pdf
+1413. file:///Bash-project/project1/KuziemkoWashington2016.pdf
+1414. file:///Bash-project/project1/Kuziemkoetal2015.pdf
+1415. file:///Bash-project/project1/Kuznets1952.pdf
+1416. file:///Bash-project/project1/Kuznets1955.pdf
+1417. file:///Bash-project/project1/Kuznets1959.pdf
+1418. file:///Bash-project/project1/Kuznets1960.pdf
+1419. file:///Bash-project/project1/Kuznets1961.pdf
+1420. file:///Bash-project/project1/Kuznets1963.pdf
+1421. file:///Bash-project/project1/Kuznets1973.pdf
+1422. file:///Bash-project/project1/KuznetsRIW1952.pdf
+1423. file:///Bash-project/project1/LIBERATION_110623.pdf
+1424. file:///Bash-project/project1/LPR18042006(JO19042006).pdf
+1425. file:///Bash-project/project1/LSE%20Foundation%20-%202004%20Form%20990.pdf
+1426. file:///Bash-project/project1/LaCroix10102005.pdf
+1427. file:///Bash-project/project1/LaPortaetal1997.pdf
+1428. file:///Bash-project/project1/LaPortaetal1998.pdf
+1429. file:///Bash-project/project1/LaPortaetal1999.pdf
+1430. file:///Bash-project/project1/Lacoste1792.pdf
+1431. file:///Bash-project/project1/Laffont030504.pdf
+1432. file:///Bash-project/project1/LaitnerOhlsson2001.pdf
+1433. file:///Bash-project/project1/LaknerMilanovic2013.pdf
+1434. file:///Bash-project/project1/Laliberte02.pdf
+1435. file:///Bash-project/project1/Lamont1997.pdf
+1436. file:///Bash-project/project1/Landais2003.pdf
+1437. file:///Bash-project/project1/Landais2007.pdf
+1438. file:///Bash-project/project1/Landais2007HC.pdf
+1439. file:///Bash-project/project1/Landais2014.pdf
+1440. file:///Bash-project/project1/LandersoHeckman2016Appendix.pdf
+1441. file:///Bash-project/project1/LandersoHeckman2017.pdf
+1442. file:///Bash-project/project1/LaneMilesiFerrettiJIE2007.pdf
+1443. file:///Bash-project/project1/LaneSchmukler07.pdf
+1444. file:///Bash-project/project1/Lang2003.pdf
+1445. file:///Bash-project/project1/Langeetal2018.pdf
+1446. file:///Bash-project/project1/LaroqueSalanie2000.pdf
+1447. file:///Bash-project/project1/Laubier2018.pdf
+1448. file:///Bash-project/project1/Lavoisier1791.pdf
+1449. file:///Bash-project/project1/Lavy2003.pdf
+1450. file:///Bash-project/project1/Lavy2003b.pdf
+1451. file:///Bash-project/project1/LeBris2015.pdf
+1453. file:///Bash-project/project1/LeBris2016.pdf
+1454. file:///Bash-project/project1/LeBrisetal2014.pdf
+1455. file:///Bash-project/project1/LeFigaro01112005(ENS)(2).pdf
+1456. file:///Bash-project/project1/LeFigaro01112005(ENS).pdf
+1457. file:///Bash-project/project1/LeFigaro09112005(Zep).pdf
+1458. file:///Bash-project/project1/LeMonde04072015.pdf
+1459. file:///Bash-project/project1/LeMonde100116.pdf
+1460. file:///Bash-project/project1/LeMonde18022014.pdf
+1462. file:///Bash-project/project1/LeMonde21022006.pdf
+1463. file:///Bash-project/project1/LePoint06102005.pdf
+1464. file:///Bash-project/project1/LePoint27102005(ENS)(2).pdf
+1465. file:///Bash-project/project1/LePoint27102005(ENS).pdf
+1466. file:///Bash-project/project1/LeRoyLadurie1968.pdf
+1467. file:///Bash-project/project1/Lechevalier2003.pdf
+1468. file:///Bash-project/project1/Lee1999.pdf
+1469. file:///Bash-project/project1/LeeLee2016.pdf
+1471. file:///Bash-project/project1/LeeRIW2001.pdf
+1472. file:///Bash-project/project1/LeeRoemer2006.pdf
+1473. file:///Bash-project/project1/LeeRoemerVanderstraeten2006.pdf
+1474. file:///Bash-project/project1/Lefranc2011.pdf
+1475. file:///Bash-project/project1/Legoyt1860.pdf
+1476. file:///Bash-project/project1/Legrand2006.pdf
+1477. file:///Bash-project/project1/Legrand2012.pdf
+1478. file:///Bash-project/project1/Leigh2003.pdf
+1480. file:///Bash-project/project1/Leonard2014.pdf
+1481. file:///Bash-project/project1/Leridon2015.pdf
+1482. file:///Bash-project/project1/LeroyBeaulieu1895-1914(tome1).pdf
+1483. file:///Bash-project/project1/LeroyBeaulieu1895-1914(tome2).pdf
+1484. file:///Bash-project/project1/LesEchos06102005.pdf
+1485. file:///Bash-project/project1/LesEchos07102005.pdf
+1486. file:///Bash-project/project1/LesEchos07112005.pdf
+1487. file:///Bash-project/project1/LesEchos21102005.pdf
+1488. file:///Bash-project/project1/LesEchos28102005.pdf
+1489. file:///Bash-project/project1/LevchenkoZhang2012.pdf
+1490. file:///Bash-project/project1/Levitt1996.pdf
+1491. file:///Bash-project/project1/Levitt1997.pdf
+1492. file:///Bash-project/project1/Levitt1998.pdf
+1493. file:///Bash-project/project1/LevyDeLeire2003.pdf
+1494. file:///Bash-project/project1/LiShi2013.pdf
+1495. file:///Bash-project/project1/Liberation_090227.pdf
+1496. file:///Bash-project/project1/Liebman2001.pdf
+1497. file:///Bash-project/project1/Liesenmeieretal2003.pdf
+1498. file:///Bash-project/project1/Lilti2015.pdf
+1499. file:///Bash-project/project1/Lindert86.pdf
+1500. file:///Bash-project/project1/Lindert1986.pdf
+1501. file:///Bash-project/project1/Lindert2000.pdf
+1502. file:///Bash-project/project1/Lindert2000b.pdf
+1503. file:///Bash-project/project1/Lindert2003.pdf
+1505. file:///Bash-project/project1/Lindert2014.pdf
+1506. file:///Bash-project/project1/Lindert2017.pdf
+1507. file:///Bash-project/project1/LindertCommentsNov2003.pdf
+1508. file:///Bash-project/project1/LindertWilliamson1982.pdf
+1509. file:///Bash-project/project1/LindertWilliamson1983.pdf
+1510. file:///Bash-project/project1/LindertWilliamson2011.pdf
+1511. file:///Bash-project/project1/LindnerNovokmetPikettyZawisza2019.pdf
+1512. file:///Bash-project/project1/Lindsey1987.pdf
+1513. file:///Bash-project/project1/List_AdG09_SH.pdf
+1514. file:///Bash-project/project1/LlerasMuney2002.pdf
+1515. file:///Bash-project/project1/Loisel2004.pdf
+1516. file:///Bash-project/project1/LondonoVelez2012MasterThesis.pdf
+1517. file:///Bash-project/project1/LongFerrie2005.pdf
+1518. file:///Bash-project/project1/LongRunInheritance%2001-10-2010.pdf
+1521. file:///Bash-project/project1/Lordemus2013.pdf
+1522. file:///Bash-project/project1/LoveetalRIW2008.pdf
+1523. file:///Bash-project/project1/Lucas1990.pdf
+1524. file:///Bash-project/project1/Lucas2000.pdf
+1525. file:///Bash-project/project1/Lustigetal2012.pdf
+1530. file:///Bash-project/project1/M%c3%a9moire2011Sotura.pdf
+1531. file:///Bash-project/project1/MIT-YALE%20seminar%20October%202010.pdf
+1532. file:///Bash-project/project1/Macchiavello2005.pdf
+1534. file:///Bash-project/project1/Machover2012MasterThesis.pdf
+1535. file:///Bash-project/project1/Maddison07.pdf
+1536. file:///Bash-project/project1/Maddison98.pdf
+1537. file:///Bash-project/project1/Maddison2001Data.pdf
+1538. file:///Bash-project/project1/Maddisson2001.pdf
+1539. file:///Bash-project/project1/Madsen2016.pdf
+1540. file:///Bash-project/project1/MainTablesFigures.pdf
+1542. file:///Bash-project/project1/MainwaringZoco2007.pdf
+1543. file:///Bash-project/project1/Malinvaud1953.pdf
+1544. file:///Bash-project/project1/Mallet1908.pdf
+1545. file:///Bash-project/project1/MalletStrutt1915.pdf
+1546. file:///Bash-project/project1/ManciniStoffels12.pdf
+1547. file:///Bash-project/project1/MankiwEtal92.pdf
+1548. file:///Bash-project/project1/Manning2001.pdf
+1549. file:///Bash-project/project1/ManuelsDots1887-1905%20(JLR%2030-03-2010).pdf
+1550. file:///Bash-project/project1/Marcus1973.pdf
+1551. file:///Bash-project/project1/MarkevitchZhuravskaya2016.pdf
+1552. file:///Bash-project/project1/Martin09.pdf
+1554. file:///Bash-project/project1/MartinPhilippon2015.pdf
+1555. file:///Bash-project/project1/MartinezToledano2015.pdf
+1556. file:///Bash-project/project1/MartinezToledano2020.pdf
+1557. file:///Bash-project/project1/Marx1850.pdf
+1558. file:///Bash-project/project1/Mary2018.pdf
+1559. file:///Bash-project/project1/Masson1988.pdf
+1560. file:///Bash-project/project1/MassonEJ1986.pdf
+1561. file:///Bash-project/project1/MassonStraussKahn78.pdf
+1562. file:///Bash-project/project1/Master2007CohenSetton.pdf
+1563. file:///Bash-project/project1/Master2007Paladines.pdf
+1564. file:///Bash-project/project1/Master2007Perigord.pdf
+1565. file:///Bash-project/project1/Master2008Gadenne.pdf
+1566. file:///Bash-project/project1/Master2008Zucman.pdf
+1567. file:///Bash-project/project1/Master2009Antonin.pdf
+1568. file:///Bash-project/project1/Master2009Saint_Jacques.pdf
+1569. file:///Bash-project/project1/MasterPaladines2007.pdf
+1570. file:///Bash-project/project1/MatlackVigdor2006.pdf
+1572. file:///Bash-project/project1/Maurin2005.pdf
+1573. file:///Bash-project/project1/MayerLopoo2001.pdf
+1574. file:///Bash-project/project1/McCall2016.pdf
+1575. file:///Bash-project/project1/McGaughey2015.pdf
+1576. file:///Bash-project/project1/McGaughey2015b.pdf
+1577. file:///Bash-project/project1/McGrattanPrescott2001.pdf
+1578. file:///Bash-project/project1/McKenzieMookherjee2002.pdf
+1579. file:///Bash-project/project1/Meade1978.pdf
+1580. file:///Bash-project/project1/MeerRosen2009.pdf
+1581. file:///Bash-project/project1/Memoire2010Fremeaux.pdf
+1582. file:///Bash-project/project1/Memoire2010Matray.pdf
+1583. file:///Bash-project/project1/Memoire2011Garbinti.pdf
+1584. file:///Bash-project/project1/Memoire2011Goupille.PPD.pdf
+1585. file:///Bash-project/project1/Memoire2011GregoireMarchand.pdf
+1586. file:///Bash-project/project1/Memoire2011Morival.pdf
+1587. file:///Bash-project/project1/Memoire2011Van_Effenterre.pdf
+1588. file:///Bash-project/project1/MendosaTesar2003.pdf
+1589. file:///Bash-project/project1/MendosaTesar2003a.pdf
+1590. file:///Bash-project/project1/MeyerRosenbaulm2001.pdf
+1591. file:///Bash-project/project1/MeyerRosenbaum2001.pdf
+1593. file:///Bash-project/project1/Mignot2015.pdf
+1594. file:///Bash-project/project1/Miguel2003.pdf
+1595. file:///Bash-project/project1/Milanovic2002.pdf
+1596. file:///Bash-project/project1/Milanovic2003.pdf
+1597. file:///Bash-project/project1/Milanovic2009.pdf
+1598. file:///Bash-project/project1/MilanovicLindertWilliamson2007.pdf
+1599. file:///Bash-project/project1/MilanovicLindertWilliamson2011.pdf
+1600. file:///Bash-project/project1/MilesiFerrettiARC2010.pdf
+1601. file:///Bash-project/project1/MilesiRoubinJMCB1998.pdf
+1602. file:///Bash-project/project1/Milgram73.pdf
+1603. file:///Bash-project/project1/Milhaud2018These.pdf
+1604. file:///Bash-project/project1/Milligan2002.pdf
+1605. file:///Bash-project/project1/MillimetetalRIH2003.pdf
+1606. file:///Bash-project/project1/Mirrlees2011.pdf
+1607. file:///Bash-project/project1/Missing%20Wealth%20of%20Nations.pdf
+1608. file:///Bash-project/project1/Modigliani86.pdf
+1609. file:///Bash-project/project1/Modigliani1988.pdf
+1610. file:///Bash-project/project1/ModiglianiCao04.pdf
+1611. file:///Bash-project/project1/ModiglianiNobelLecture1985(AER1986).pdf
+1612. file:///Bash-project/project1/ModiglianiSamuelson1966.pdf
+1613. file:///Bash-project/project1/ModiglianiSamuelson1966b.pdf
+1614. file:///Bash-project/project1/Moffitt2002.pdf
+1615. file:///Bash-project/project1/Monnet12.pdf
+1616. file:///Bash-project/project1/Monnet2012.pdf
+1617. file:///Bash-project/project1/MooreKasten2009.pdf
+1618. file:///Bash-project/project1/Morck2003.pdf
+1619. file:///Bash-project/project1/MorckYeungJEP2005.pdf
+1620. file:///Bash-project/project1/Morcketal2000.pdf
+1621. file:///Bash-project/project1/Moreau1842.pdf
+1622. file:///Bash-project/project1/Moreau2013InheritanceSwitzerland.pdf
+1623. file:///Bash-project/project1/Moreno2003.pdf
+1624. file:///Bash-project/project1/Morgan2018Thesis.pdf
+1625. file:///Bash-project/project1/MorganMila2015.pdf
+1626. file:///Bash-project/project1/MorrissonSnyder2000.pdf
+1627. file:///Bash-project/project1/Mouhoub2012.pdf
+1628. file:///Bash-project/project1/MukandRodrik2017.pdf
+1629. file:///Bash-project/project1/Mulhall1881.pdf
+1630. file:///Bash-project/project1/Mulhall1896.pdf
+1631. file:///Bash-project/project1/Mulligan2002.pdf
+1632. file:///Bash-project/project1/Mulligan2003.pdf
+1633. file:///Bash-project/project1/Murphy1999.pdf
+1634. file:///Bash-project/project1/Murphy2003.pdf
+1635. file:///Bash-project/project1/Murphy2015.pdf
+1636. file:///Bash-project/project1/Murtin2003.pdf
+1637. file:///Bash-project/project1/Murtin2005.pdf
+1638. file:///Bash-project/project1/Myczkowski2018.pdf
+1639. file:///Bash-project/project1/N6-juin2011-LettrePSE.pdf
+1640. file:///Bash-project/project1/NPYZ2018.pdf
+1642. file:///Bash-project/project1/NPZ2017AppendixWIDworld.pdf
+1643. file:///Bash-project/project1/NPZ2017WIDworld.pdf
+1644. file:///Bash-project/project1/NPZ2018JEI.pdf
+1645. file:///Bash-project/project1/Naidu2010.pdf
+1646. file:///Bash-project/project1/NaiduYuchtman2013.pdf
+1647. file:///Bash-project/project1/Naiduetal2015.pdf
+1648. file:///Bash-project/project1/Nakamura08.pdf
+1649. file:///Bash-project/project1/Nassiet1999.pdf
+1650. file:///Bash-project/project1/NattichioniPaningo2004.pdf
+1653. file:///Bash-project/project1/Neumann96.pdf
+1654. file:///Bash-project/project1/NeumarkWascher2000.pdf
+1655. file:///Bash-project/project1/NicholasSteckel1991.pdf
+1656. file:///Bash-project/project1/Nicodeme2009.pdf
+1657. file:///Bash-project/project1/Nirei2007.pdf
+1658. file:///Bash-project/project1/Nirei2009.pdf
+1659. file:///Bash-project/project1/NireiSoumaRIW2007.pdf
+1660. file:///Bash-project/project1/Noah2010Slate.pdf
+1661. file:///Bash-project/project1/Noah2012Response.pdf
+1662. file:///Bash-project/project1/Noah2012Review.pdf
+1663. file:///Bash-project/project1/NoguesMarco2020.pdf
+1664. file:///Bash-project/project1/Nordhaus00.pdf
+1665. file:///Bash-project/project1/Nordhaus2007.pdf
+1666. file:///Bash-project/project1/Nordhaus2007a.pdf
+1667. file:///Bash-project/project1/Nordhaus2007b.pdf
+1668. file:///Bash-project/project1/NordhausKokkelenberg99.pdf
+1669. file:///Bash-project/project1/NorthWeingast1989.pdf
+1670. file:///Bash-project/project1/Nougayrede2014.pdf
+1671. file:///Bash-project/project1/Nougayrede2015.pdf
+1672. file:///Bash-project/project1/Nougayrede2015NJILB.pdf
+1673. file:///Bash-project/project1/NouvelObs20102005(EEP).pdf
+1674. file:///Bash-project/project1/NouvelObs20102005(ENS).pdf
+1675. file:///Bash-project/project1/Novokmet2017.pdf
+1677. file:///Bash-project/project1/Nunn2008.pdf
+1678. file:///Bash-project/project1/Nunn2008QJE.pdf
+1679. file:///Bash-project/project1/NunnQian2010.pdf
+1680. file:///Bash-project/project1/NunnQian2011.pdf
+1681. file:///Bash-project/project1/NunnWantchekon2011AER.pdf
+1682. file:///Bash-project/project1/OECD2009MeasuringCapital.pdf
+1684. file:///Bash-project/project1/OMahonyTimmer09.pdf
+1685. file:///Bash-project/project1/ORourke2001.pdf
+1686. file:///Bash-project/project1/ORourkeWilliamson2005.pdf
+1687. file:///Bash-project/project1/ORourkeetal1999.pdf
+1688. file:///Bash-project/project1/ORourkeetal2002.pdf
+1689. file:///Bash-project/project1/Obstfeld13.pdf
+1690. file:///Bash-project/project1/Officer2011.pdf
+1691. file:///Bash-project/project1/OhlssonRoineWaldenstrom2008.pdf
+1692. file:///Bash-project/project1/OhlssonRoineWaldenstrom2013.pdf
+1693. file:///Bash-project/project1/OnaranCJE2010.pdf
+1694. file:///Bash-project/project1/Oreopoulos2003.pdf
+1695. file:///Bash-project/project1/Origins%20of%20State%20Capacity%20-%20Derivations%20of%20Formulas%20-%20Theu%20Dinh.pdf
+1697. file:///Bash-project/project1/PES%2025-11-2011.pdf
+1699. file:///Bash-project/project1/PIK2008DYNalvaredo.pdf
+1700. file:///Bash-project/project1/POLITIS_100205.pdf
+1702. file:///Bash-project/project1/PPVR.2005.pdf
+1703. file:///Bash-project/project1/PPVR2011DataAppendix.pdf
+1705. file:///Bash-project/project1/PPVR2011Slides.pdf
+1707. file:///Bash-project/project1/PPVR2011WP.pdf
+1708. file:///Bash-project/project1/PPVR2013EEH.pdf
+1709. file:///Bash-project/project1/PPVR2014EEH.pdf
+1712. file:///Bash-project/project1/PSE-CELSA-18-01-2010.pdf
+1713. file:///Bash-project/project1/PSZ2016.pdf
+1714. file:///Bash-project/project1/PSZ2016DataAppendix.pdf
+1715. file:///Bash-project/project1/PSZ2016Slides.pdf
+1716. file:///Bash-project/project1/PSZ2018QJE.pdf
+1717. file:///Bash-project/project1/PSZ2019.pdf
+1718. file:///Bash-project/project1/PYZ2016.pdf
+1720. file:///Bash-project/project1/PYZ2017Appendix_WIDWP201707.pdf
+1722. file:///Bash-project/project1/PYZ2017Slides.pdf
+1723. file:///Bash-project/project1/PYZ2017_WIDWP201706.pdf
+1724. file:///Bash-project/project1/Pages%20de%202-246-61651-4-2.pdf
+1725. file:///Bash-project/project1/Pages%20de%20tax-redistribution_slides.pdf
+1726. file:///Bash-project/project1/Paine1795.pdf
+1727. file:///Bash-project/project1/Paish1956(ReviewGoldsmith1955).pdf
+1728. file:///Bash-project/project1/PalumboParker09.pdf
+1729. file:///Bash-project/project1/Pammer2000.pdf
+1730. file:///Bash-project/project1/Panigoetal2004.pdf
+1733. file:///Bash-project/project1/PaperKTax.pdf
+1740. file:///Bash-project/project1/PaperRentierSociety0.pdf
+1744. file:///Bash-project/project1/ParetoShapesIncomeFrance1997vs2006.pdf
+1745. file:///Bash-project/project1/Parketetal2009.pdf
+1746. file:///Bash-project/project1/Pasinetti1962.pdf
+1747. file:///Bash-project/project1/Pasteau2018.pdf
+1748. file:///Bash-project/project1/Pellet2012.pdf
+1749. file:///Bash-project/project1/Perez-Gonzales2001.pdf
+1750. file:///Bash-project/project1/Perez-Gonzales2006.pdf
+1751. file:///Bash-project/project1/Persky1992.pdf
+1752. file:///Bash-project/project1/Petty1664.pdf
+1753. file:///Bash-project/project1/Petty1691.pdf
+1754. file:///Bash-project/project1/Phelps1961.pdf
+1755. file:///Bash-project/project1/PhelpsAER1965.pdf
+1756. file:///Bash-project/project1/Philippon2015.pdf
+1757. file:///Bash-project/project1/PhilipponResheff2012.pdf
+1758. file:///Bash-project/project1/Piketty-Saez2001.pdf
+1759. file:///Bash-project/project1/Piketty1993.pdf
+1760. file:///Bash-project/project1/Piketty1994REP.pdf
+1761. file:///Bash-project/project1/Piketty1994a.pdf
+1762. file:///Bash-project/project1/Piketty1994c.pdf
+1763. file:///Bash-project/project1/Piketty1995.pdf
+1764. file:///Bash-project/project1/Piketty1996a.pdf
+1765. file:///Bash-project/project1/Piketty1996b.pdf
+1766. file:///Bash-project/project1/Piketty1996c.pdf
+1767. file:///Bash-project/project1/Piketty1997.pdf
+1768. file:///Bash-project/project1/Piketty1997HUP2015.pdf
+1769. file:///Bash-project/project1/Piketty1997b.pdf
+1770. file:///Bash-project/project1/Piketty1997bGraphs.pdf
+1771. file:///Bash-project/project1/Piketty1997c.pdf
+1772. file:///Bash-project/project1/Piketty1997d.pdf
+1773. file:///Bash-project/project1/Piketty1998ES.pdf
+1774. file:///Bash-project/project1/Piketty1998a.pdf
+1775. file:///Bash-project/project1/Piketty1998b.pdf
+1776. file:///Bash-project/project1/Piketty1998c.pdf
+1777. file:///Bash-project/project1/Piketty1998d.pdf
+1778. file:///Bash-project/project1/Piketty1998e.pdf
+1779. file:///Bash-project/project1/Piketty1999a.pdf
+1780. file:///Bash-project/project1/Piketty1999b.pdf
+1781. file:///Bash-project/project1/Piketty1999c.pdf
+1782. file:///Bash-project/project1/Piketty1999d.pdf
+1783. file:///Bash-project/project1/Piketty1999e.pdf
+1784. file:///Bash-project/project1/Piketty1999f.pdf
+1785. file:///Bash-project/project1/Piketty1999g.pdf
+1786. file:///Bash-project/project1/Piketty2000.pdf
+1787. file:///Bash-project/project1/Piketty2000HID.pdf
+1788. file:///Bash-project/project1/Piketty2000b.pdf
+1789. file:///Bash-project/project1/Piketty2001Chapitre4.pdf
+1790. file:///Bash-project/project1/Piketty2001Couv2014.pdf
+1791. file:///Bash-project/project1/Piketty2001Grasset.pdf
+1792. file:///Bash-project/project1/Piketty2001GrassetCouv.pdf
+1793. file:///Bash-project/project1/Piketty2001HUP2018.pdf
+1794. file:///Bash-project/project1/Piketty2001Introduction.pdf
+1795. file:///Bash-project/project1/Piketty2001Poche2016Couv.pdf
+1796. file:///Bash-project/project1/Piketty2001a.pdf
+1797. file:///Bash-project/project1/Piketty2001b.pdf
+1798. file:///Bash-project/project1/Piketty2002.pdf
+1799. file:///Bash-project/project1/Piketty2003.pdf
+1801. file:///Bash-project/project1/Piketty2003Annales.pdf
+1802. file:///Bash-project/project1/Piketty2003a.pdf
+1803. file:///Bash-project/project1/Piketty2003b.pdf
+1804. file:///Bash-project/project1/Piketty2003bHC.pdf
+1805. file:///Bash-project/project1/Piketty2003c.pdf
+1806. file:///Bash-project/project1/Piketty2003d.pdf
+1807. file:///Bash-project/project1/Piketty2004a.pdf
+1808. file:///Bash-project/project1/Piketty2004b.pdf
+1809. file:///Bash-project/project1/Piketty2005.pdf
+1810. file:///Bash-project/project1/Piketty2005b.pdf
+1811. file:///Bash-project/project1/Piketty2005c.pdf
+1812. file:///Bash-project/project1/Piketty2005e.pdf
+1813. file:///Bash-project/project1/Piketty2005eHC.pdf
+1814. file:///Bash-project/project1/Piketty2008.pdf
+1815. file:///Bash-project/project1/Piketty2008HC.pdf
+1816. file:///Bash-project/project1/Piketty2009.pdf
+1817. file:///Bash-project/project1/Piketty2009_pref_fam.pdf
+1818. file:///Bash-project/project1/Piketty2010(HighQ).pdf
+1819. file:///Bash-project/project1/Piketty2010.pdf
+1820. file:///Bash-project/project1/Piketty2010DataAppendix.pdf
+1823. file:///Bash-project/project1/Piketty2010DataAppendixPart1.pdf
+1824. file:///Bash-project/project1/Piketty2010DataAppendixPart2.pdf
+1825. file:///Bash-project/project1/Piketty2010May16th.pdf
+1826. file:///Bash-project/project1/Piketty2010PSE.pdf
+1827. file:///Bash-project/project1/Piketty2010QJE.pdf
+1828. file:///Bash-project/project1/Piketty2010Rev2QJE.pdf
+1829. file:///Bash-project/project1/Piketty2010RevQJE(HighQ).pdf
+1830. file:///Bash-project/project1/Piketty2010RevQJE.pdf
+1831. file:///Bash-project/project1/Piketty2010Slides.pdf
+1833. file:///Bash-project/project1/Piketty2010WP.pdf
+1834. file:///Bash-project/project1/Piketty2011QJE.pdf
+1835. file:///Bash-project/project1/Piketty2011QJE_20110914.pdf
+1836. file:///Bash-project/project1/Piketty2012.pdf
+1837. file:///Bash-project/project1/Piketty2012Brussels.pdf
+1838. file:///Bash-project/project1/Piketty2012LIS.pdf
+1840. file:///Bash-project/project1/Piketty2012TrentoFestival.pdf
+1842. file:///Bash-project/project1/Piketty2012couv.pdf
+1843. file:///Bash-project/project1/Piketty2013BerlinSlides.pdf
+1845. file:///Bash-project/project1/Piketty2013BrusselsPE.pdf
+1847. file:///Bash-project/project1/Piketty2013Bruxelles.pdf
+1849. file:///Bash-project/project1/Piketty2013CEPN.pdf
+1851. file:///Bash-project/project1/Piketty2013Capital21c.pdf
+1853. file:///Bash-project/project1/Piketty2013Charleroi.pdf
+1855. file:///Bash-project/project1/Piketty2013Cologne.pdf
+1857. file:///Bash-project/project1/Piketty2013ENSLyon.pdf
+1859. file:///Bash-project/project1/Piketty2013H4.pdf
+1861. file:///Bash-project/project1/Piketty2013HIDSlides.pdf
+1863. file:///Bash-project/project1/Piketty2013HK.pdf
+1865. file:///Bash-project/project1/Piketty2013Helsinki.pdf
+1867. file:///Bash-project/project1/Piketty2013IntroChap1.pdf
+1868. file:///Bash-project/project1/Piketty2013LindhalSlides.pdf
+1870. file:///Bash-project/project1/Piketty2013Marseille.pdf
+1872. file:///Bash-project/project1/Piketty2013MaxPo.pdf
+1874. file:///Bash-project/project1/Piketty2013OECD.pdf
+1876. file:///Bash-project/project1/Piketty2013Poche2019Couv.pdf
+1877. file:///Bash-project/project1/Piketty2013SciencesPo.pdf
+1879. file:///Bash-project/project1/Piketty2013Toulouse.pdf
+1881. file:///Bash-project/project1/Piketty2014BJS.pdf
+1882. file:///Bash-project/project1/Piketty2014Cachan.pdf
+1884. file:///Bash-project/project1/Piketty2014Capital21c.pdf
+1886. file:///Bash-project/project1/Piketty2014Capital21cArgentina1.pdf
+1888. file:///Bash-project/project1/Piketty2014Capital21cArgentina2.pdf
+1890. file:///Bash-project/project1/Piketty2014Capital21cBarcelona.pdf
+1892. file:///Bash-project/project1/Piketty2014Capital21cBeijing1.pdf
+1894. file:///Bash-project/project1/Piketty2014Capital21cBeijing2.pdf
+1896. file:///Bash-project/project1/Piketty2014Capital21cBeijing3.pdf
+1898. file:///Bash-project/project1/Piketty2014Capital21cBrussels.pdf
+1900. file:///Bash-project/project1/Piketty2014Capital21cChile1.pdf
+1902. file:///Bash-project/project1/Piketty2014Capital21cChile2.pdf
+1904. file:///Bash-project/project1/Piketty2014Capital21cChile3.pdf
+1906. file:///Bash-project/project1/Piketty2014Capital21cDublin.pdf
+1908. file:///Bash-project/project1/Piketty2014Capital21cEpog.pdf
+1910. file:///Bash-project/project1/Piketty2014Capital21cFrankfurt.pdf
+1912. file:///Bash-project/project1/Piketty2014Capital21cHelsinki.pdf
+1914. file:///Bash-project/project1/Piketty2014Capital21cIstambul.pdf
+1916. file:///Bash-project/project1/Piketty2014Capital21cKorea.pdf
+1918. file:///Bash-project/project1/Piketty2014Capital21cLBS.pdf
+1920. file:///Bash-project/project1/Piketty2014Capital21cLSE.pdf
+1922. file:///Bash-project/project1/Piketty2014Capital21cMadrid.pdf
+1924. file:///Bash-project/project1/Piketty2014Capital21cMannheim.pdf
+1926. file:///Bash-project/project1/Piketty2014Capital21cMexico1.pdf
+1928. file:///Bash-project/project1/Piketty2014Capital21cMexico2.pdf
+1930. file:///Bash-project/project1/Piketty2014Capital21cMilano.pdf
+1932. file:///Bash-project/project1/Piketty2014Capital21cNewSchool.pdf
+1934. file:///Bash-project/project1/Piketty2014Capital21cOECD.pdf
+1936. file:///Bash-project/project1/Piketty2014Capital21cOslo.pdf
+1938. file:///Bash-project/project1/Piketty2014Capital21cPSE.pdf
+1940. file:///Bash-project/project1/Piketty2014Capital21cRoma.pdf
+1942. file:///Bash-project/project1/Piketty2014Capital21cSaoPaulo1.pdf
+1944. file:///Bash-project/project1/Piketty2014Capital21cSaoPaulo2.pdf
+1946. file:///Bash-project/project1/Piketty2014Capital21cSaoPaulo3.pdf
+1948. file:///Bash-project/project1/Piketty2014Capital21cShanghai.pdf
+1950. file:///Bash-project/project1/Piketty2014Capital21cTED.pdf
+1953. file:///Bash-project/project1/Piketty2014Capital21cTaipei1.pdf
+1955. file:///Bash-project/project1/Piketty2014Capital21cTaipei2.pdf
+1957. file:///Bash-project/project1/Piketty2014Capital21cTheHague.pdf
+1959. file:///Bash-project/project1/Piketty2014Capital21cUMass.pdf
+1961. file:///Bash-project/project1/Piketty2014Capital21cUS.pdf
+1963. file:///Bash-project/project1/Piketty2014Capital21cVienna.pdf
+1965. file:///Bash-project/project1/Piketty2014Capital21cVisby.pdf
+1967. file:///Bash-project/project1/Piketty2014Chap12.pdf
+1968. file:///Bash-project/project1/Piketty2014Chap36.pdf
+1969. file:///Bash-project/project1/Piketty2014Chap712.pdf
+1970. file:///Bash-project/project1/Piketty2014Chap1316.pdf
+1971. file:///Bash-project/project1/Piketty2014ENS.pdf
+1973. file:///Bash-project/project1/Piketty2014HLEG.pdf
+1975. file:///Bash-project/project1/Piketty2014Insee.pdf
+1977. file:///Bash-project/project1/Piketty2014IntroChap1.pdf
+1978. file:///Bash-project/project1/Piketty2014Montpellier.pdf
+1980. file:///Bash-project/project1/Piketty2014NLR.pdf
+1981. file:///Bash-project/project1/Piketty2014OECDGrowthDialogue.pdf
+1983. file:///Bash-project/project1/Piketty2014P1.pdf
+1985. file:///Bash-project/project1/Piketty2014Petrarque.pdf
+1986. file:///Bash-project/project1/Piketty2014TechnicalAppendix.pdf
+1987. file:///Bash-project/project1/Piketty2015AER.pdf
+1989. file:///Bash-project/project1/Piketty2015Annales.pdf
+1990. file:///Bash-project/project1/Piketty2015AnnalesCouv.pdf
+1991. file:///Bash-project/project1/Piketty2015AnnalesEN.pdf
+1992. file:///Bash-project/project1/Piketty2015AnnalesR%c3%a9sum%c3%a9s.pdf
+1993. file:///Bash-project/project1/Piketty2015AnnalesSommaire.pdf
+1994. file:///Bash-project/project1/Piketty2015BIS.pdf
+1995. file:///Bash-project/project1/Piketty2015BrusselsSED.pdf
+1997. file:///Bash-project/project1/Piketty2015Capital21cBHC.pdf
+1999. file:///Bash-project/project1/Piketty2015Capital21cChicago.pdf
+2000. file:///Bash-project/project1/Piketty2015Capital21cECB.pdf
+2002. file:///Bash-project/project1/Piketty2015Capital21cEUI.pdf
+2004. file:///Bash-project/project1/Piketty2015Capital21cHarvard.pdf
+2006. file:///Bash-project/project1/Piketty2015Capital21cINET.pdf
+2008. file:///Bash-project/project1/Piketty2015Capital21cLeuven.pdf
+2009. file:///Bash-project/project1/Piketty2015Capital21cLisbon.pdf
+2011. file:///Bash-project/project1/Piketty2015Capital21cMoscow.pdf
+2012. file:///Bash-project/project1/Piketty2015Capital21cParis.pdf
+2014. file:///Bash-project/project1/Piketty2015Capital21cPrinceton.pdf
+2016. file:///Bash-project/project1/Piketty2015Capital21cSA1.pdf
+2018. file:///Bash-project/project1/Piketty2015Capital21cSA2.pdf
+2020. file:///Bash-project/project1/Piketty2015Capital21cSA3.pdf
+2022. file:///Bash-project/project1/Piketty2015Capital21cStanford.pdf
+2023. file:///Bash-project/project1/Piketty2015Capital21cTokyo1.pdf
+2025. file:///Bash-project/project1/Piketty2015Capital21cTokyo2.pdf
+2027. file:///Bash-project/project1/Piketty2015Capital21cTokyo3.pdf
+2028. file:///Bash-project/project1/Piketty2015Capital21cTrento.pdf
+2030. file:///Bash-project/project1/Piketty2015Capital21cUCL.pdf
+2031. file:///Bash-project/project1/Piketty2015Capital21cYale.pdf
+2033. file:///Bash-project/project1/Piketty2015Capital21cZagreb.pdf
+2035. file:///Bash-project/project1/Piketty2015CesIfo.pdf
+2036. file:///Bash-project/project1/Piketty2015Cites.pdf
+2037. file:///Bash-project/project1/Piketty2015EUSA.pdf
+2039. file:///Bash-project/project1/Piketty2015HAU.pdf
+2040. file:///Bash-project/project1/Piketty2015JEP.pdf
+2041. file:///Bash-project/project1/Piketty2015LLG.pdf
+2043. file:///Bash-project/project1/Piketty2015LSE2810.pdf
+2044. file:///Bash-project/project1/Piketty2015NTJ.pdf
+2045. file:///Bash-project/project1/Piketty2015OFCE.pdf
+2046. file:///Bash-project/project1/Piketty2015ParisCES.pdf
+2048. file:///Bash-project/project1/Piketty2015ProgressiveEconomy.pdf
+2049. file:///Bash-project/project1/Piketty2015TLR.pdf
+2050. file:///Bash-project/project1/Piketty2016Archicube.pdf
+2051. file:///Bash-project/project1/Piketty2016Capital21cBeirut.pdf
+2052. file:///Bash-project/project1/Piketty2016Capital21cBogota.pdf
+2054. file:///Bash-project/project1/Piketty2016Capital21cCairo.pdf
+2056. file:///Bash-project/project1/Piketty2016Capital21cDelhi.pdf
+2057. file:///Bash-project/project1/Piketty2016Capital21cLSE.pdf
+2059. file:///Bash-project/project1/Piketty2016Capital21cMelbourne.pdf
+2061. file:///Bash-project/project1/Piketty2016Capital21cSydney.pdf
+2063. file:///Bash-project/project1/Piketty2016HUPBook.pdf
+2064. file:///Bash-project/project1/Piketty2016LLL.pdf
+2065. file:///Bash-project/project1/Piketty2016LSE.pdf
+2067. file:///Bash-project/project1/Piketty2016PSE.pdf
+2068. file:///Bash-project/project1/Piketty2016TR.pdf
+2069. file:///Bash-project/project1/Piketty2017BdF.pdf
+2070. file:///Bash-project/project1/Piketty2017Cambridge.pdf
+2071. file:///Bash-project/project1/Piketty2017PSE.pdf
+2072. file:///Bash-project/project1/Piketty2017PSEGlobal.pdf
+2073. file:///Bash-project/project1/Piketty2017PSESummerSchool.pdf
+2074. file:///Bash-project/project1/Piketty2017PortoAlegre.pdf
+2075. file:///Bash-project/project1/Piketty2017Princeton.pdf
+2076. file:///Bash-project/project1/Piketty2017SaoPaulo.pdf
+2077. file:///Bash-project/project1/Piketty2018.pdf
+2080. file:///Bash-project/project1/Piketty2018Bonn.pdf
+2081. file:///Bash-project/project1/Piketty2018BonnPoliticalConflict.pdf
+2082. file:///Bash-project/project1/Piketty2018Budapest.pdf
+2083. file:///Bash-project/project1/Piketty2018CEPR.pdf
+2084. file:///Bash-project/project1/Piketty2018FiguresTables.pdf
+2085. file:///Bash-project/project1/Piketty2018Groningen.pdf
+2086. file:///Bash-project/project1/Piketty2018HK.pdf
+2087. file:///Bash-project/project1/Piketty2018Hamburg.pdf
+2088. file:///Bash-project/project1/Piketty2018Harvard.pdf
+2089. file:///Bash-project/project1/Piketty2018Oxford.pdf
+2090. file:///Bash-project/project1/Piketty2018PSEHE.pdf
+2091. file:///Bash-project/project1/Piketty2018PSEPoliticalConflict.pdf
+2092. file:///Bash-project/project1/Piketty2018PSESummerSchool.pdf
+2093. file:///Bash-project/project1/Piketty2018PoliticalConflict.pdf
+2094. file:///Bash-project/project1/Piketty2018Seoul.pdf
+2095. file:///Bash-project/project1/Piketty2018Utrecht.pdf
+2096. file:///Bash-project/project1/Piketty2018WEHC.pdf
+2097. file:///Bash-project/project1/Piketty2018WILWorkshop.pdf
+2098. file:///Bash-project/project1/Piketty2019.pdf
+2099. file:///Bash-project/project1/Piketty2019Blois.pdf
+2100. file:///Bash-project/project1/Piketty2019Bordeaux.pdf
+2101. file:///Bash-project/project1/Piketty2019Challenges.pdf
+2102. file:///Bash-project/project1/Piketty2019Columbia.pdf
+2103. file:///Bash-project/project1/Piketty2019Condorcet.pdf
+2104. file:///Bash-project/project1/Piketty2019Couv.pdf
+2105. file:///Bash-project/project1/Piketty2019Dauphine.pdf
+2106. file:///Bash-project/project1/Piketty2019ENS.pdf
+2107. file:///Bash-project/project1/Piketty2019ENSAE.pdf
+2108. file:///Bash-project/project1/Piketty2019ENSGEG.pdf
+2109. file:///Bash-project/project1/Piketty2019Ecineq.pdf
+2110. file:///Bash-project/project1/Piketty2019Extraits.pdf
+2111. file:///Bash-project/project1/Piketty2019GC.pdf
+2112. file:///Bash-project/project1/Piketty2019Geneve.pdf
+2113. file:///Bash-project/project1/Piketty2019GraphiquesTableaux.pdf
+2115. file:///Bash-project/project1/Piketty2019GraphiquesTableauxLiens.pdf
+2116. file:///Bash-project/project1/Piketty2019GraphiquesTableauxSupp.pdf
+2117. file:///Bash-project/project1/Piketty2019GraphiquesTableauxSuppLiens.pdf
+2118. file:///Bash-project/project1/Piketty2019Grenoble.pdf
+2119. file:///Bash-project/project1/Piketty2019GrenobleU.pdf
+2120. file:///Bash-project/project1/Piketty2019H4.pdf
+2121. file:///Bash-project/project1/Piketty2019HE.pdf
+2122. file:///Bash-project/project1/Piketty2019IEEP8.pdf
+2124. file:///Bash-project/project1/Piketty2019Lakanal.pdf
+2125. file:///Bash-project/project1/Piketty2019Lille.pdf
+2126. file:///Bash-project/project1/Piketty2019Lyon.pdf
+2127. file:///Bash-project/project1/Piketty2019Lyon2.pdf
+2128. file:///Bash-project/project1/Piketty2019Madrid.pdf
+2129. file:///Bash-project/project1/Piketty2019Madrid2.pdf
+2130. file:///Bash-project/project1/Piketty2019MaxPo.pdf
+2131. file:///Bash-project/project1/Piketty2019Michel.pdf
+2132. file:///Bash-project/project1/Piketty2019Northwestern.pdf
+2133. file:///Bash-project/project1/Piketty2019OFCE.pdf
+2134. file:///Bash-project/project1/Piketty2019PSE.pdf
+2135. file:///Bash-project/project1/Piketty2019PSEFFJ.pdf
+2136. file:///Bash-project/project1/Piketty2019PSEPublic.pdf
+2137. file:///Bash-project/project1/Piketty2019Rennes.pdf
+2138. file:///Bash-project/project1/Piketty2019Rotterdam.pdf
+2139. file:///Bash-project/project1/Piketty2019SP.pdf
+2140. file:///Bash-project/project1/Piketty2019SciencesPo.pdf
+2141. file:///Bash-project/project1/Piketty2019SlidesVersionCourte.pdf
+2143. file:///Bash-project/project1/Piketty2019SlidesVersionLongue(SN).pdf
+2144. file:///Bash-project/project1/Piketty2019SlidesVersionLongue.pdf
+2145. file:///Bash-project/project1/Piketty2019Strasbourg.pdf
+2146. file:///Bash-project/project1/Piketty2019Toulouse.pdf
+2147. file:///Bash-project/project1/Piketty2020Amsterdam.pdf
+2148. file:///Bash-project/project1/Piketty2020Amsterdam2.pdf
+2149. file:///Bash-project/project1/Piketty2020Bamako.pdf
+2150. file:///Bash-project/project1/Piketty2020Bamako2.pdf
+2151. file:///Bash-project/project1/Piketty2020Barcelona.pdf
+2152. file:///Bash-project/project1/Piketty2020BeauxArts.pdf
+2153. file:///Bash-project/project1/Piketty2020Berkeley.pdf
+2154. file:///Bash-project/project1/Piketty2020Berlin.pdf
+2155. file:///Bash-project/project1/Piketty2020Bocconi.pdf
+2156. file:///Bash-project/project1/Piketty2020Branly.pdf
+2157. file:///Bash-project/project1/Piketty2020Casablanca.pdf
+2158. file:///Bash-project/project1/Piketty2020Chicago.pdf
+2159. file:///Bash-project/project1/Piketty2020Cologne.pdf
+2160. file:///Bash-project/project1/Piketty2020HUPCover.pdf
+2161. file:///Bash-project/project1/Piketty2020HUPExtracts.pdf
+2162. file:///Bash-project/project1/Piketty2020HUPJacket.pdf
+2164. file:///Bash-project/project1/Piketty2020HarvardCES.pdf
+2165. file:///Bash-project/project1/Piketty2020IEDES.pdf
+2166. file:///Bash-project/project1/Piketty2020IMF.pdf
+2168. file:///Bash-project/project1/Piketty2020LSE.pdf
+2169. file:///Bash-project/project1/Piketty2020LVH.pdf
+2171. file:///Bash-project/project1/Piketty2020Laval.pdf
+2172. file:///Bash-project/project1/Piketty2020P1.pdf
+2173. file:///Bash-project/project1/Piketty2020Pantheon.pdf
+2174. file:///Bash-project/project1/Piketty2020QMU.pdf
+2175. file:///Bash-project/project1/Piketty2020Rabat.pdf
+2176. file:///Bash-project/project1/Piketty2020SciencesPo.pdf
+2177. file:///Bash-project/project1/Piketty2020SlidesLongVersion.pdf
+2179. file:///Bash-project/project1/Piketty2020SlidesShortVersion.pdf
+2180. file:///Bash-project/project1/Piketty2020Sorbonne.pdf
+2181. file:///Bash-project/project1/Piketty2020TablesFigures.pdf
+2183. file:///Bash-project/project1/Piketty2020TablesFiguresLinks.pdf
+2184. file:///Bash-project/project1/Piketty2020TablesFiguresNN.pdf
+2185. file:///Bash-project/project1/Piketty2020TablesFiguresSupp.pdf
+2186. file:///Bash-project/project1/Piketty2020TablesFiguresSuppLinks.pdf
+2187. file:///Bash-project/project1/Piketty2020Vienna.pdf
+2188. file:///Bash-project/project1/Piketty2020Zurich.pdf
+2190. file:///Bash-project/project1/Piketty2021AEA.pdf
+2191. file:///Bash-project/project1/Piketty2021AFD.pdf
+2192. file:///Bash-project/project1/Piketty2021Berkeley.pdf
+2193. file:///Bash-project/project1/Piketty2021CEPN.pdf
+2194. file:///Bash-project/project1/Piketty2021CUNY.pdf
+2195. file:///Bash-project/project1/Piketty2021Couv.pdf
+2197. file:///Bash-project/project1/Piketty2021DIAS.pdf
+2198. file:///Bash-project/project1/Piketty2021ECB.pdf
+2199. file:///Bash-project/project1/Piketty2021EEA.pdf
+2200. file:///Bash-project/project1/Piketty2021EHESS.pdf
+2201. file:///Bash-project/project1/Piketty2021EPOG.pdf
+2202. file:///Bash-project/project1/Piketty2021Egalite.pdf
+2203. file:///Bash-project/project1/Piketty2021EgalitePSE.pdf
+2204. file:///Bash-project/project1/Piketty2021Extraits.pdf
+2205. file:///Bash-project/project1/Piketty2021GraphiquesTableaux.pdf
+2206. file:///Bash-project/project1/Piketty2021IFO.pdf
+2207. file:///Bash-project/project1/Piketty2021LSE.pdf
+2208. file:///Bash-project/project1/Piketty2021Trento.pdf
+2209. file:///Bash-project/project1/Piketty2021WB.pdf
+2210. file:///Bash-project/project1/Piketty2021Yale.pdf
+2211. file:///Bash-project/project1/PikettyAER2015.pdf
+2212. file:///Bash-project/project1/PikettyAFEP06072012.pdf
+2214. file:///Bash-project/project1/PikettyAdvEcoHist2017Lecture9.pdf
+2215. file:///Bash-project/project1/PikettyAdvEcoHist2017Lecture10.pdf
+2216. file:///Bash-project/project1/PikettyAdvEcoHist2017Syllabus.pdf
+2217. file:///Bash-project/project1/PikettyAdvEcoHist2018Lecture9.pdf
+2218. file:///Bash-project/project1/PikettyAdvEcoHist2018Lecture10.pdf
+2219. file:///Bash-project/project1/PikettyAdvEcoHist2019Lecture9.pdf
+2220. file:///Bash-project/project1/PikettyAdvEcoHist2019Lecture10.pdf
+2221. file:///Bash-project/project1/PikettyAdvEcoHist2020Lecture9.pdf
+2222. file:///Bash-project/project1/PikettyAdvEcoHist2020Lecture10.pdf
+2230. file:///Bash-project/project1/PikettyBrussels2012.pdf
+2231. file:///Bash-project/project1/PikettyBrussels18102012.pdf
+2234. file:///Bash-project/project1/PikettyColumbia27092012.pdf
+2236. file:///Bash-project/project1/PikettyEC2013.pdf
+2237. file:///Bash-project/project1/PikettyEcoHist2015CourseNotesWealthModels.pdf
+2239. file:///Bash-project/project1/PikettyEcoHist2015Lecture1.pdf
+2241. file:///Bash-project/project1/PikettyEcoHist2015Lecture2.pdf
+2243. file:///Bash-project/project1/PikettyEcoHist2015Lecture3.pdf
+2245. file:///Bash-project/project1/PikettyEcoHist2015Lecture4.pdf
+2247. file:///Bash-project/project1/PikettyEcoHist2015Lecture5.pdf
+2249. file:///Bash-project/project1/PikettyEcoHist2015Lecture6.pdf
+2251. file:///Bash-project/project1/PikettyEcoHist2015Lecture7.pdf
+2253. file:///Bash-project/project1/PikettyEcoHist2015Syllabus.pdf
+2255. file:///Bash-project/project1/PikettyEcoHist2016CourseNotesWealthModels.pdf
+2257. file:///Bash-project/project1/PikettyEcoHist2016Lecture1-2.pdf
+2259. file:///Bash-project/project1/PikettyEcoHist2016Lecture3.pdf
+2262. file:///Bash-project/project1/PikettyEcoHist2016Lecture4.pdf
+2264. file:///Bash-project/project1/PikettyEcoHist2016Lecture5.pdf
+2266. file:///Bash-project/project1/PikettyEcoHist2016Lecture6.pdf
+2269. file:///Bash-project/project1/PikettyEcoHist2016Lecture7.pdf
+2273. file:///Bash-project/project1/PikettyEcoHist2016Lecture7Fig1.pdf
+2274. file:///Bash-project/project1/PikettyEcoHist2016Lecture8.pdf
+2276. file:///Bash-project/project1/PikettyEcoHist2016Syllabus.pdf
+2279. file:///Bash-project/project1/PikettyEcoHist2017CourseNotesWealthModels.pdf
+2281. file:///Bash-project/project1/PikettyEcoHist2017Lecture1-2.pdf
+2283. file:///Bash-project/project1/PikettyEcoHist2017Lecture3.pdf
+2285. file:///Bash-project/project1/PikettyEcoHist2017Lecture4.pdf
+2287. file:///Bash-project/project1/PikettyEcoHist2017Lecture5.pdf
+2289. file:///Bash-project/project1/PikettyEcoHist2017Lecture6.pdf
+2292. file:///Bash-project/project1/PikettyEcoHist2017Lecture7.pdf
+2295. file:///Bash-project/project1/PikettyEcoHist2017Lecture7Fig1.pdf
+2296. file:///Bash-project/project1/PikettyEcoHist2017Lecture8.pdf
+2298. file:///Bash-project/project1/PikettyEcoHist2017Syllabus.pdf
+2300. file:///Bash-project/project1/PikettyEcoHist2018CourseNotesWealthModels.pdf
+2301. file:///Bash-project/project1/PikettyEcoHist2018Lecture1-2.pdf
+2302. file:///Bash-project/project1/PikettyEcoHist2018Lecture3.pdf
+2303. file:///Bash-project/project1/PikettyEcoHist2018Lecture4.pdf
+2304. file:///Bash-project/project1/PikettyEcoHist2018Lecture5.pdf
+2305. file:///Bash-project/project1/PikettyEcoHist2018Lecture6.pdf
+2306. file:///Bash-project/project1/PikettyEcoHist2018Lecture7.pdf
+2307. file:///Bash-project/project1/PikettyEcoHist2018Lecture7Fig1.pdf
+2308. file:///Bash-project/project1/PikettyEcoHist2018Lecture8.pdf
+2309. file:///Bash-project/project1/PikettyEcoHist2018Syllabus.pdf
+2310. file:///Bash-project/project1/PikettyEcoIneg2013Lecture1.pdf
+2312. file:///Bash-project/project1/PikettyEcoIneg2013Lecture2.pdf
+2314. file:///Bash-project/project1/PikettyEcoIneg2013Lecture3.pdf
+2316. file:///Bash-project/project1/PikettyEcoIneg2013Lecture4.pdf
+2318. file:///Bash-project/project1/PikettyEcoIneg2013Lecture5.pdf
+2320. file:///Bash-project/project1/PikettyEcoIneg2013Lecture6.pdf
+2322. file:///Bash-project/project1/PikettyEcoIneg2013Lecture7.pdf
+2324. file:///Bash-project/project1/PikettyEcoIneg2013Syllabus.pdf
+2326. file:///Bash-project/project1/PikettyEcoIneg2014Lecture1.pdf
+2328. file:///Bash-project/project1/PikettyEcoIneg2014Lecture2.pdf
+2330. file:///Bash-project/project1/PikettyEcoIneg2014Lecture3.pdf
+2332. file:///Bash-project/project1/PikettyEcoIneg2014Lecture4.pdf
+2334. file:///Bash-project/project1/PikettyEcoIneg2014Lecture5.pdf
+2336. file:///Bash-project/project1/PikettyEcoIneg2014Lecture6.pdf
+2338. file:///Bash-project/project1/PikettyEcoIneg2014Lecture7.pdf
+2340. file:///Bash-project/project1/PikettyEcoIneg2014Syllabus.pdf
+2342. file:///Bash-project/project1/PikettyEcoPub2013Lecture1.pdf
+2344. file:///Bash-project/project1/PikettyEcoPub2013Lecture2.pdf
+2346. file:///Bash-project/project1/PikettyEcoPub2013Lecture3.pdf
+2348. file:///Bash-project/project1/PikettyEcoPub2013Lecture4.pdf
+2350. file:///Bash-project/project1/PikettyEcoPub2013Lecture5.pdf
+2352. file:///Bash-project/project1/PikettyEcoPub2013Lecture6.pdf
+2354. file:///Bash-project/project1/PikettyEcoPub2013Lecture7.pdf
+2356. file:///Bash-project/project1/PikettyEcoPub2013Syllabus.pdf
+2358. file:///Bash-project/project1/PikettyEcoPub2014Lecture1.pdf
+2360. file:///Bash-project/project1/PikettyEcoPub2014Lecture2.pdf
+2362. file:///Bash-project/project1/PikettyEcoPub2014Lecture3.pdf
+2364. file:///Bash-project/project1/PikettyEcoPub2014Lecture4.pdf
+2366. file:///Bash-project/project1/PikettyEcoPub2014Lecture5.pdf
+2368. file:///Bash-project/project1/PikettyEcoPub2014Lecture6.pdf
+2370. file:///Bash-project/project1/PikettyEcoPub2014Lecture7.pdf
+2372. file:///Bash-project/project1/PikettyEcoPub2014Syllabus.pdf
+2374. file:///Bash-project/project1/PikettyEcoPub2015Lecture1.pdf
+2376. file:///Bash-project/project1/PikettyEcoPub2015Lecture2.pdf
+2378. file:///Bash-project/project1/PikettyEcoPub2015Lecture3.pdf
+2380. file:///Bash-project/project1/PikettyEcoPub2015Lecture4.pdf
+2382. file:///Bash-project/project1/PikettyEcoPub2015Lecture5.pdf
+2384. file:///Bash-project/project1/PikettyEcoPub2015Lecture6.pdf
+2386. file:///Bash-project/project1/PikettyEcoPub2015Lecture7.pdf
+2388. file:///Bash-project/project1/PikettyEcoPub2015Syllabus.pdf
+2390. file:///Bash-project/project1/PikettyEcoPub2016Lecture1.pdf
+2392. file:///Bash-project/project1/PikettyEcoPub2016Lecture2.pdf
+2394. file:///Bash-project/project1/PikettyEcoPub2016Lecture7.pdf
+2396. file:///Bash-project/project1/PikettyEcoPub2016Lecture8.pdf
+2398. file:///Bash-project/project1/PikettyEcoPub2016Syllabus.pdf
+2400. file:///Bash-project/project1/PikettyEcoPub2017Lecture8.pdf
+2402. file:///Bash-project/project1/PikettyEcoPub2017Lecture9.pdf
+2404. file:///Bash-project/project1/PikettyEcoPub2017Lecture10.pdf
+2406. file:///Bash-project/project1/PikettyEcoPub2017Syllabus.pdf
+2408. file:///Bash-project/project1/PikettyEcoPub2018Lecture8.pdf
+2409. file:///Bash-project/project1/PikettyEcoPub2018Lecture9.pdf
+2410. file:///Bash-project/project1/PikettyEcoPub2018Lecture10.pdf
+2411. file:///Bash-project/project1/PikettyEcoPub2019Lecture8.pdf
+2412. file:///Bash-project/project1/PikettyEcoPub2019Lecture9.pdf
+2413. file:///Bash-project/project1/PikettyEcoPub2019Lecture10.pdf
+2414. file:///Bash-project/project1/PikettyEcoPub2020Lecture8.pdf
+2415. file:///Bash-project/project1/PikettyEcoPub2020Lecture9.pdf
+2416. file:///Bash-project/project1/PikettyEcoPub2020Lecture10.pdf
+2417. file:///Bash-project/project1/PikettyEconHist2019Lecture1.pdf
+2418. file:///Bash-project/project1/PikettyEconHist2019Lecture2.pdf
+2419. file:///Bash-project/project1/PikettyEconHist2019Lecture3.pdf
+2420. file:///Bash-project/project1/PikettyEconHist2019Lecture4.pdf
+2421. file:///Bash-project/project1/PikettyEconHist2019Lecture5.pdf
+2422. file:///Bash-project/project1/PikettyEconHist2019Lecture6.pdf
+2423. file:///Bash-project/project1/PikettyEconHist2019Lecture7.pdf
+2424. file:///Bash-project/project1/PikettyEconHist2019Lecture8.pdf
+2425. file:///Bash-project/project1/PikettyEconHist2019Syllabus.pdf
+2426. file:///Bash-project/project1/PikettyEconHist2020Lecture1.pdf
+2427. file:///Bash-project/project1/PikettyEconHist2020Lecture2.pdf
+2428. file:///Bash-project/project1/PikettyEconHist2020Lecture3.pdf
+2429. file:///Bash-project/project1/PikettyEconHist2020Lecture4.pdf
+2430. file:///Bash-project/project1/PikettyEconHist2020Lecture5.pdf
+2431. file:///Bash-project/project1/PikettyEconHist2020Lecture6.pdf
+2432. file:///Bash-project/project1/PikettyEconHist2020Lecture7.pdf
+2433. file:///Bash-project/project1/PikettyEconHist2020Lecture8.pdf
+2434. file:///Bash-project/project1/PikettyEconHist2020Syllabus.pdf
+2435. file:///Bash-project/project1/PikettyEconHist2021Lecture1.pdf
+2437. file:///Bash-project/project1/PikettyEconHist2021Lecture2.pdf
+2439. file:///Bash-project/project1/PikettyEconHist2021Lecture3.pdf
+2441. file:///Bash-project/project1/PikettyEconHist2021Lecture4.pdf
+2443. file:///Bash-project/project1/PikettyEconHist2021Lecture5.pdf
+2445. file:///Bash-project/project1/PikettyEconHist2021Lecture6.pdf
+2447. file:///Bash-project/project1/PikettyEconHist2021Lecture7.pdf
+2449. file:///Bash-project/project1/PikettyEconHist2021Lecture8.pdf
+2451. file:///Bash-project/project1/PikettyEconHist2021Syllabus.pdf
+2453. file:///Bash-project/project1/PikettyIMF08112012.pdf
+2455. file:///Bash-project/project1/PikettyIMF27092012(suppl).pdf
+2457. file:///Bash-project/project1/PikettyIMF27092012.pdf
+2459. file:///Bash-project/project1/PikettyLeMonde12062016.pdf
+2460. file:///Bash-project/project1/PikettyLeMonde13032016.pdf
+2461. file:///Bash-project/project1/PikettyLeMonde14022016.pdf
+2462. file:///Bash-project/project1/PikettyLeMonde15052016.pdf
+2463. file:///Bash-project/project1/PikettyLeMonde17012016.pdf
+2464. file:///Bash-project/project1/PikettyLeMonde20122015.pdf
+2465. file:///Bash-project/project1/PikettyLeMonde22112015.pdf
+2466. file:///Bash-project/project1/PikettyLibe08062015.pdf
+2467. file:///Bash-project/project1/PikettyLille21062012.pdf
+2469. file:///Bash-project/project1/PikettyMarch2012Conf.pdf
+2472. file:///Bash-project/project1/PikettyMirrleesReview2008.pdf
+2473. file:///Bash-project/project1/PikettyNYU2020Lecture1.pdf
+2474. file:///Bash-project/project1/PikettyNYU2020Lecture2.pdf
+2475. file:///Bash-project/project1/PikettyNYU2020Lecture3.pdf
+2476. file:///Bash-project/project1/PikettyNYU2020Lecture4.pdf
+2477. file:///Bash-project/project1/PikettyNYU2020Lecture5.pdf
+2478. file:///Bash-project/project1/PikettyNYU2020Lecture6.pdf
+2479. file:///Bash-project/project1/PikettyNYU2020Lecture7.pdf
+2480. file:///Bash-project/project1/PikettyNYU2020Syllabus.pdf
+2481. file:///Bash-project/project1/PikettyPostel2006.pdf
+2482. file:///Bash-project/project1/PikettyPostel2006HC.pdf
+2483. file:///Bash-project/project1/PikettyPostelVinayRosenthal2004.pdf
+2486. file:///Bash-project/project1/PikettyPostelVinayRosenthal%202010.pdf
+2488. file:///Bash-project/project1/PikettyQian2004.pdf
+2489. file:///Bash-project/project1/PikettyQian2006.pdf
+2490. file:///Bash-project/project1/PikettyQian2009_AEJPP.pdf
+2492. file:///Bash-project/project1/PikettySaez2001.pdf
+2494. file:///Bash-project/project1/PikettySaez2002.pdf
+2495. file:///Bash-project/project1/PikettySaez2003(Swedish).pdf
+2496. file:///Bash-project/project1/PikettySaez2003.pdf
+2497. file:///Bash-project/project1/PikettySaez2003HC.pdf
+2500. file:///Bash-project/project1/PikettySaez2006.pdf
+2502. file:///Bash-project/project1/PikettySaez2006AEAPP.pdf
+2503. file:///Bash-project/project1/PikettySaez2011.pdf
+2504. file:///Bash-project/project1/PikettySaez2011old.pdf
+2505. file:///Bash-project/project1/PikettySaez2012(long).pdf
+2506. file:///Bash-project/project1/PikettySaez2012(short).pdf
+2507. file:///Bash-project/project1/PikettySaez2012.pdf
+2509. file:///Bash-project/project1/PikettySaez2012ECMA.pdf
+2510. file:///Bash-project/project1/PikettySaez2012HPE.pdf
+2511. file:///Bash-project/project1/PikettySaez2012HPETable1.pdf
+2512. file:///Bash-project/project1/PikettySaez2012Rev.pdf
+2514. file:///Bash-project/project1/PikettySaez2012RevEcma.pdf
+2515. file:///Bash-project/project1/PikettySaez2012Slides.pdf
+2517. file:///Bash-project/project1/PikettySaez2013.pdf
+2520. file:///Bash-project/project1/PikettySaez2013HPE.pdf
+2521. file:///Bash-project/project1/PikettySaez2013RKT.pdf
+2522. file:///Bash-project/project1/PikettySaez2013old.pdf
+2523. file:///Bash-project/project1/PikettySaez2013supp.pdf
+2524. file:///Bash-project/project1/PikettySaez2014RKT.pdf
+2525. file:///Bash-project/project1/PikettySaez2014Science.pdf
+2527. file:///Bash-project/project1/PikettySaez2014ScienceSM.pdf
+2528. file:///Bash-project/project1/PikettySaezAR2014.pdf
+2529. file:///Bash-project/project1/PikettySaezIMF2012.pdf
+2530. file:///Bash-project/project1/PikettySaezIMF2013.pdf
+2532. file:///Bash-project/project1/PikettySaezIMF2013o.pdf
+2533. file:///Bash-project/project1/PikettySaezJEP2006.pdf
+2534. file:///Bash-project/project1/PikettySaezJEP2006%20HC.pdf
+2536. file:///Bash-project/project1/PikettySaezJEPrevisedJuly06.pdf
+2537. file:///Bash-project/project1/PikettySaezStantcheva2011(rev2012).pdf
+2538. file:///Bash-project/project1/PikettySaezStantcheva2011.pdf
+2539. file:///Bash-project/project1/PikettySaezStantcheva2011old.pdf
+2540. file:///Bash-project/project1/PikettySaezStantcheva2012.pdf
+2541. file:///Bash-project/project1/PikettySaezStantcheva2012Slides.pdf
+2542. file:///Bash-project/project1/PikettySaezStantcheva2013.pdf
+2544. file:///Bash-project/project1/PikettySaezStantcheva2014.pdf
+2545. file:///Bash-project/project1/PikettySaezZucman2013RKT.pdf
+2546. file:///Bash-project/project1/PikettySciencesPo16102012.pdf
+2548. file:///Bash-project/project1/PikettySlides.pdf
+2549. file:///Bash-project/project1/PikettyUPenn09112012.pdf
+2551. file:///Bash-project/project1/PikettyValdenaire2006.pdf
+2552. file:///Bash-project/project1/PikettyYangZucman2019AER.pdf
+2553. file:///Bash-project/project1/PikettyZucman2012.pdf
+2554. file:///Bash-project/project1/PikettyZucman2012Slides.pdf
+2556. file:///Bash-project/project1/PikettyZucman2012Slides4044.pdf
+2558. file:///Bash-project/project1/PikettyZucman2013Appendix.pdf
+2559. file:///Bash-project/project1/PikettyZucman2013AppendixRevQJE.pdf
+2560. file:///Bash-project/project1/PikettyZucman2013AppendixV0.pdf
+2561. file:///Bash-project/project1/PikettyZucman2013Book.pdf
+2562. file:///Bash-project/project1/PikettyZucman2013BookOld.pdf
+2563. file:///Bash-project/project1/PikettyZucman2013BookRevQJE.pdf
+2564. file:///Bash-project/project1/PikettyZucman2013Chartbook.pdf
+2565. file:///Bash-project/project1/PikettyZucman2013ChartbookLinks.pdf
+2567. file:///Bash-project/project1/PikettyZucman2013Databook.pdf
+2568. file:///Bash-project/project1/PikettyZucman2013DatabookLinks.pdf
+2569. file:///Bash-project/project1/PikettyZucman2013FiguresLinks.pdf
+2570. file:///Bash-project/project1/PikettyZucman2013QJE.pdf
+2571. file:///Bash-project/project1/PikettyZucman2013QJEV0.pdf
+2572. file:///Bash-project/project1/PikettyZucman2013QJEV1.pdf
+2573. file:///Bash-project/project1/PikettyZucman2013RevQJE.pdf
+2574. file:///Bash-project/project1/PikettyZucman2013Slides.pdf
+2575. file:///Bash-project/project1/PikettyZucman2013SlidesLong.pdf
+2577. file:///Bash-project/project1/PikettyZucman2013WP.pdf
+2578. file:///Bash-project/project1/PikettyZucman2014HID.pdf
+2581. file:///Bash-project/project1/PikettyZucman2014HIDOld.pdf
+2582. file:///Bash-project/project1/PikettyZucman2014HIDRevised.pdf
+2583. file:///Bash-project/project1/PikettyZucman2014QJE.pdf
+2584. file:///Bash-project/project1/PikettyZucman2014QJEms.pdf
+2585. file:///Bash-project/project1/PikettyZucman2015.pdf
+2586. file:///Bash-project/project1/PikettyZucman2015HID.pdf
+2588. file:///Bash-project/project1/Piotrowska2008.pdf
+2589. file:///Bash-project/project1/PirtillaSelin2011.pdf
+2590. file:///Bash-project/project1/Pishke2002.pdf
+2591. file:///Bash-project/project1/Pistor2013.pdf
+2592. file:///Bash-project/project1/Pomeranz2000.pdf
+2593. file:///Bash-project/project1/Pomeranz2000Chap5-6.pdf
+2594. file:///Bash-project/project1/Pomeranz2002.pdf
+2595. file:///Bash-project/project1/PopEleches2002.pdf
+2596. file:///Bash-project/project1/PopEleches2002b.pdf
+2597. file:///Bash-project/project1/PosnerWeyl2017.pdf
+2598. file:///Bash-project/project1/Poterba98.pdf
+2599. file:///Bash-project/project1/Poterba2001(BrookingsRethinkingGift&EstateTaxation%20).pdf
+2600. file:///Bash-project/project1/PoterbaRESta2001.pdf
+2601. file:///Bash-project/project1/PoterbaVentiWise2007.pdf
+2602. file:///Bash-project/project1/PoterbaVentiWise2008.pdf
+2603. file:///Bash-project/project1/PoterbaVentiWiseTPE2008.pdf
+2604. file:///Bash-project/project1/Poterbaetal2006.pdf
+2605. file:///Bash-project/project1/Poulard1956ASR.pdf
+2606. file:///Bash-project/project1/Pour_une_revolution_fiscale.pdf
+2607. file:///Bash-project/project1/Poux2021.pdf
+2608. file:///Bash-project/project1/Presentation1.pdf
+2609. file:///Bash-project/project1/Presentation1%20final.pdf
+2610. file:///Bash-project/project1/Presentation%20Fiscal%20Policies%20-%20EU%20Savings%20Taxation%20Directive.pdf
+2611. file:///Bash-project/project1/PresentationFourgeaud05042006.pdf
+2612. file:///Bash-project/project1/Presentation%20Saez,%20Slemrod%20and%20Giertz%202009%20-%20REM.pdf
+2613. file:///Bash-project/project1/Presentation_Ranciere_Kumhof.pdf
+2615. file:///Bash-project/project1/Presentation%20of%20Saez%202001%20-%20by%20N.McSpedden-Brown.pdf
+2618. file:///Bash-project/project1/Prevot2010.pdf
+2619. file:///Bash-project/project1/Price2008.pdf
+2620. file:///Bash-project/project1/Pritchett00.pdf
+2622. file:///Bash-project/project1/Pursey2013.pdf
+2623. file:///Bash-project/project1/Puschnig2021.pdf
+2624. file:///Bash-project/project1/Qian2005.pdf
+2625. file:///Bash-project/project1/Qian2008.pdf
+2626. file:///Bash-project/project1/QinRenRIW2008.pdf
+2627. file:///Bash-project/project1/QuadriniRIH1999.pdf
+2629. file:///Bash-project/project1/Quinet2008.pdf
+2631. file:///Bash-project/project1/RachelSmith2015.pdf
+2632. file:///Bash-project/project1/Rainelli1968.pdf
+2634. file:///Bash-project/project1/RajanZingales2001.pdf
+2635. file:///Bash-project/project1/RaknerudRIW2007.pdf
+2636. file:///Bash-project/project1/Ramsey1928.pdf
+2637. file:///Bash-project/project1/Rapport%20Quinet.pdf
+2638. file:///Bash-project/project1/Rasmussen2021.pdf
+2639. file:///Bash-project/project1/Raster2019.pdf
+2640. file:///Bash-project/project1/Raster2019Slides.pdf
+2641. file:///Bash-project/project1/Rasul2003.pdf
+2642. file:///Bash-project/project1/RaubJohnsonNewcomb2010.pdf
+2643. file:///Bash-project/project1/Rayetal2017.pdf
+2644. file:///Bash-project/project1/Raynaud2002.pdf
+2646. file:///Bash-project/project1/ReadMePikettyPostelVinayRosenthal27102005.pdf
+2648. file:///Bash-project/project1/Redfern1955.pdf
+2649. file:///Bash-project/project1/Rehm2021.pdf
+2650. file:///Bash-project/project1/Reis13.pdf
+2651. file:///Bash-project/project1/RentierSociety%2022-02-2011.pdf
+2653. file:///Bash-project/project1/ReportTaxHavensDevelopment.pdf
+2655. file:///Bash-project/project1/RevelEJ1986(ReviewGodsmith1985).pdf
+2656. file:///Bash-project/project1/RevenueStatisticsLatinAmerica2012.pdf
+2657. file:///Bash-project/project1/RevenusPatrimoines2010.pdf
+2658. file:///Bash-project/project1/RicolLasteyrie_ProfilCAC40_2012.pdf
+2659. file:///Bash-project/project1/Ritschl1998.pdf
+2660. file:///Bash-project/project1/Ritschl2012.pdf
+2661. file:///Bash-project/project1/Robinson45.pdf
+2662. file:///Bash-project/project1/Rodrik2017.pdf
+2663. file:///Bash-project/project1/RoemerVanDerStraeten2006.pdf
+2664. file:///Bash-project/project1/RoemerVanderstraeten2005.pdf
+2665. file:///Bash-project/project1/Rogowski2008.pdf
+2666. file:///Bash-project/project1/RoineWaldenstrom2009SJE.pdf
+2667. file:///Bash-project/project1/RoineWaldenstrom2010.pdf
+2668. file:///Bash-project/project1/Roineetal2007.pdf
+2669. file:///Bash-project/project1/Roineetal2007HC.pdf
+2673. file:///Bash-project/project1/Romer86.pdf
+2674. file:///Bash-project/project1/Romer89.pdf
+2675. file:///Bash-project/project1/Romer1998.pdf
+2676. file:///Bash-project/project1/Romer2015.pdf
+2677. file:///Bash-project/project1/Roquigny%20-%20M2%20PPD%20-%20Kleven%20et%20al%20(2009),%20Besley%20et%20al%20(2007,%202009)%20-%20state's%20capacity%20to%20raise%20taxes.pdf
+2678. file:///Bash-project/project1/RosenthalJEH2008(ReviewClark).pdf
+2679. file:///Bash-project/project1/RosenthalWong2011.pdf
+2680. file:///Bash-project/project1/RosenthalWong2011Chap1-7.pdf
+2681. file:///Bash-project/project1/Rotemberg2000.pdf
+2682. file:///Bash-project/project1/Rotemberg2002.pdf
+2683. file:///Bash-project/project1/Rothstein2002.pdf
+2684. file:///Bash-project/project1/Rouse1998.pdf
+2685. file:///Bash-project/project1/Rousille2015.pdf
+2686. file:///Bash-project/project1/Roy2016.pdf
+2687. file:///Bash-project/project1/Rudden1994.pdf
+2688. file:///Bash-project/project1/Ruiz2013.pdf
+2689. file:///Bash-project/project1/SIE%20Roma%2015-10-2011.pdf
+2691. file:///Bash-project/project1/SNCS05102005.pdf
+2692. file:///Bash-project/project1/SNESUP11102005.pdf
+2693. file:///Bash-project/project1/SabelhausRIW1999.pdf
+2694. file:///Bash-project/project1/Sacerdote2001.pdf
+2695. file:///Bash-project/project1/Saez2000.pdf
+2696. file:///Bash-project/project1/Saez2001a.pdf
+2697. file:///Bash-project/project1/Saez2001b.pdf
+2698. file:///Bash-project/project1/Saez2002.pdf
+2699. file:///Bash-project/project1/Saez2002b.pdf
+2700. file:///Bash-project/project1/Saez2003.pdf
+2701. file:///Bash-project/project1/Saez2004.pdf
+2702. file:///Bash-project/project1/Saez2004b.pdf
+2703. file:///Bash-project/project1/SaezUCBerkeleySyllabu2009-2010.pdf
+2704. file:///Bash-project/project1/SaezVeall2002.pdf
+2705. file:///Bash-project/project1/SaezZucman2014.pdf
+2706. file:///Bash-project/project1/SaezZucman2015.pdf
+2707. file:///Bash-project/project1/SaezZucman2016.pdf
+2708. file:///Bash-project/project1/SaezZucman2019BPEA.pdf
+2709. file:///Bash-project/project1/Saezetal2009.pdf
+2710. file:///Bash-project/project1/SalaiMartin2006.pdf
+2711. file:///Bash-project/project1/Saleh2015.pdf
+2712. file:///Bash-project/project1/Saleh_RoadtoHeaven_December2015Final.pdf
+2713. file:///Bash-project/project1/Sales%20tax%20incidence.pdf
+2714. file:///Bash-project/project1/Sandoval2015.pdf
+2715. file:///Bash-project/project1/SargentVeldeJPE1995.pdf
+2716. file:///Bash-project/project1/Saunders1955.pdf
+2717. file:///Bash-project/project1/Sbano2008.pdf
+2718. file:///Bash-project/project1/Sbrancia2011.pdf
+2719. file:///Bash-project/project1/Scheidel2005.pdf
+2720. file:///Bash-project/project1/Scheidel2009.pdf
+2721. file:///Bash-project/project1/Schinke2012.pdf
+2722. file:///Bash-project/project1/Schnepf2003.pdf
+2723. file:///Bash-project/project1/Schularicketal2014.pdf
+2724. file:///Bash-project/project1/Schumpeter1938.pdf
+2725. file:///Bash-project/project1/Schuster2015.pdf
+2726. file:///Bash-project/project1/Seater81.pdf
+2727. file:///Bash-project/project1/SecoJusto2020.pdf
+2728. file:///Bash-project/project1/Sen2000(inArrowBowlesDurlauf).pdf
+2729. file:///Bash-project/project1/Sen2006.pdf
+2730. file:///Bash-project/project1/Shanahanetal2000.pdf
+2731. file:///Bash-project/project1/ShapiroSlemrod2002.pdf
+2732. file:///Bash-project/project1/Shea2000.pdf
+2733. file:///Bash-project/project1/ShleiferVishy1986.pdf
+2734. file:///Bash-project/project1/ShowalterThurston1997.pdf
+2735. file:///Bash-project/project1/SiegfriedRIW1994.pdf
+2736. file:///Bash-project/project1/Sieyes1789.pdf
+2737. file:///Bash-project/project1/Simon60.pdf
+2738. file:///Bash-project/project1/SimonJEP1990.pdf
+2739. file:///Bash-project/project1/Sims2003.pdf
+2740. file:///Bash-project/project1/SinaiWaldfogel2002.pdf
+2741. file:///Bash-project/project1/Sirugue2020.pdf
+2742. file:///Bash-project/project1/Skedinger2011.pdf
+2745. file:///Bash-project/project1/SlidesPSS2011.pdf
+2746. file:///Bash-project/project1/SlidesPikettySaez2011.pdf
+2748. file:///Bash-project/project1/SmeedingThomson2006.pdf
+2749. file:///Bash-project/project1/SngMoriguchi2014JEG.pdf
+2750. file:///Bash-project/project1/SnyderEvans2002.pdf
+2751. file:///Bash-project/project1/Sodano2020.pdf
+2752. file:///Bash-project/project1/SolomouWeale97.pdf
+2753. file:///Bash-project/project1/SolomouWealeRIW1997.pdf
+2754. file:///Bash-project/project1/Solow1956.pdf
+2755. file:///Bash-project/project1/Solow1957.pdf
+2756. file:///Bash-project/project1/SoltowJEH1984(ReviewGodsmith1982).pdf
+2757. file:///Bash-project/project1/Solutions2010.pdf
+2759. file:///Bash-project/project1/Songetal2015.pdf
+2760. file:///Bash-project/project1/SoriaEspin2021.pdf
+2761. file:///Bash-project/project1/Sotura2020.pdf
+2762. file:///Bash-project/project1/Spector2000.pdf
+2763. file:///Bash-project/project1/SpolaoreWacziarg2016.pdf
+2764. file:///Bash-project/project1/Sraer2003.pdf
+2765. file:///Bash-project/project1/Sraer2003Paper.pdf
+2766. file:///Bash-project/project1/Stamp1922(Review).pdf
+2767. file:///Bash-project/project1/Stamp1922.pdf
+2768. file:///Bash-project/project1/StampJRSS1919.pdf
+2769. file:///Bash-project/project1/Stancanelli2004.pdf
+2770. file:///Bash-project/project1/Stanziani2013.pdf
+2771. file:///Bash-project/project1/Stanziani2015Conference.pdf
+2772. file:///Bash-project/project1/Stasavadge2011.pdf
+2773. file:///Bash-project/project1/Stasavage2005.pdf
+2774. file:///Bash-project/project1/Stasavage2009.pdf
+2775. file:///Bash-project/project1/Stasavage2010.pdf
+2776. file:///Bash-project/project1/Stasavage2011.pdf
+2777. file:///Bash-project/project1/Statistics%20of%20Academic%20Ranking%20of%20World%20Universities%20-%202018.pdf
+2778. file:///Bash-project/project1/Stelzner2015.pdf
+2779. file:///Bash-project/project1/StelznerBeckert2021.pdf
+2780. file:///Bash-project/project1/Stern2010.pdf
+2781. file:///Bash-project/project1/SternReview2007Chapter2A.pdf
+2782. file:///Bash-project/project1/SternReview2007Complete.pdf
+2783. file:///Bash-project/project1/SternReview2007TableofContents.pdf
+2784. file:///Bash-project/project1/SternReviewYaleSymposium2007.pdf
+2785. file:///Bash-project/project1/Sterner2015.pdf
+2786. file:///Bash-project/project1/SternerPerssonJEP2008.pdf
+2787. file:///Bash-project/project1/StevensonWolfers2000.pdf
+2788. file:///Bash-project/project1/Stigler1946.pdf
+2789. file:///Bash-project/project1/Stiglitz1969.pdf
+2790. file:///Bash-project/project1/Stiglitz1975(onPasinetti1974).pdf
+2791. file:///Bash-project/project1/Stiglitz2015a.pdf
+2792. file:///Bash-project/project1/Stiglitz2015b.pdf
+2793. file:///Bash-project/project1/Stiglitz2015c.pdf
+2794. file:///Bash-project/project1/Stiglitz2015d.pdf
+2795. file:///Bash-project/project1/StockhammeretalCJE2008.pdf
+2796. file:///Bash-project/project1/Stone84.pdf
+2797. file:///Bash-project/project1/StoneNobelLecture1984.pdf
+2798. file:///Bash-project/project1/StraussKahn2003.pdf
+2799. file:///Bash-project/project1/StreeckNLR2011.pdf
+2800. file:///Bash-project/project1/StreeckNLR2012.pdf
+2801. file:///Bash-project/project1/StruttJRSS1910.pdf
+2802. file:///Bash-project/project1/Subramanian2015.pdf
+2804. file:///Bash-project/project1/Sulloway2007.pdf
+2805. file:///Bash-project/project1/Summers1981.pdf
+2806. file:///Bash-project/project1/Summers1984.pdf
+2807. file:///Bash-project/project1/Summers2015.pdf
+2808. file:///Bash-project/project1/SummersHeston91.pdf
+2809. file:///Bash-project/project1/Susin2002.pdf
+2810. file:///Bash-project/project1/Syll2001-2002.pdf
+2811. file:///Bash-project/project1/Syll2002-2003.pdf
+2812. file:///Bash-project/project1/Syll2003-2004.pdf
+2813. file:///Bash-project/project1/Syll2004-2005.pdf
+2814. file:///Bash-project/project1/Syll2005-2006.pdf
+2815. file:///Bash-project/project1/Syll2006-2007.pdf
+2816. file:///Bash-project/project1/Syll2007-2008.pdf
+2817. file:///Bash-project/project1/Syll2008-2009.pdf
+2818. file:///Bash-project/project1/SyllaJEL2006(ReviewRajanZingales2004).pdf
+2819. file:///Bash-project/project1/T-DEM%20-%20Final%20english%20version%209march2017.pdf
+2820. file:///Bash-project/project1/T-DEM%20-%20Version%20finale%209mars2017.pdf
+2821. file:///Bash-project/project1/T.%20Piketty%20CdF%2023-06-2011.pdf
+2823. file:///Bash-project/project1/T.%20Piketty%20LSE%2020-05-2011.pdf
+2825. file:///Bash-project/project1/TABLEAU%20RECAP.pdf
+2827. file:///Bash-project/project1/TDEM2019Seuil.pdf
+2828. file:///Bash-project/project1/TEE2007(www.insee.fr20-09-2008).pdf
+2830. file:///Bash-project/project1/TEE2010.pdf
+2833. file:///Bash-project/project1/TWZ2019Slides.pdf
+2834. file:///Bash-project/project1/TWZ2020.pdf
+2855. file:///Bash-project/project1/TabGraphs(AERMay2005)(FR).pdf
+2866. file:///Bash-project/project1/Table1bis.pdf
+2867. file:///Bash-project/project1/TableauxGraphiques(Livre2).pdf
+2869. file:///Bash-project/project1/TablesAppendixA.pdf
+2871. file:///Bash-project/project1/TablesAppendixB.pdf
+2873. file:///Bash-project/project1/TablesAppendixC.pdf
+2876. file:///Bash-project/project1/TablesFigures.pdf
+2878. file:///Bash-project/project1/Tagade2020.pdf
+2880. file:///Bash-project/project1/TaylorWilliamson94.pdf
+2881. file:///Bash-project/project1/Temin2002.pdf
+2882. file:///Bash-project/project1/Temin2012(mail).pdf
+2883. file:///Bash-project/project1/Temin2013.pdf
+2884. file:///Bash-project/project1/TengbladRIW1993.pdf
+2885. file:///Bash-project/project1/Tenner2012.pdf
+2886. file:///Bash-project/project1/Terracol2002.pdf
+2887. file:///Bash-project/project1/TerryLong2003.pdf
+2888. file:///Bash-project/project1/Tertilt2003.pdf
+2889. file:///Bash-project/project1/TervioRES2009.pdf
+2890. file:///Bash-project/project1/The%20Origins-QJE-060111-final.pdf
+2891. file:///Bash-project/project1/The%20corporate%20income%20tax%20rate-revenue%20paradox.pdf
+2892. file:///Bash-project/project1/TheseAlvaredo2008.pdf
+2893. file:///Bash-project/project1/TheseBach2009.pdf
+2894. file:///Bash-project/project1/TheseBossuroy2009.pdf
+2895. file:///Bash-project/project1/TheseBozio2006.pdf
+2896. file:///Bash-project/project1/TheseCarbonnier2006.pdf
+2897. file:///Bash-project/project1/TheseDell2008.pdf
+2898. file:///Bash-project/project1/TheseFack2007.pdf
+2899. file:///Bash-project/project1/TheseGrenet2008.pdf
+2900. file:///Bash-project/project1/TheseHuillery2008.pdf
+2901. file:///Bash-project/project1/TheseLandais2008.pdf
+2902. file:///Bash-project/project1/TheseMarinescu2005.pdf
+2903. file:///Bash-project/project1/TheseValdenaire2011.pdf
+2904. file:///Bash-project/project1/Theu_Yang_The_Origins_of_State_Capacity.pdf
+2905. file:///Bash-project/project1/Thompson2011.pdf
+2907. file:///Bash-project/project1/Tocqueville1830.pdf
+2908. file:///Bash-project/project1/ToninelliVasta10.pdf
+2909. file:///Bash-project/project1/Townsend2010.pdf
+2910. file:///Bash-project/project1/Tran2013.pdf
+2911. file:///Bash-project/project1/Trannoy2006.pdf
+2912. file:///Bash-project/project1/Tressel2006.pdf
+2913. file:///Bash-project/project1/Truong2015.pdf
+2914. file:///Bash-project/project1/Turner2005.pdf
+2915. file:///Bash-project/project1/UCL%2017-06-2010.pdf
+2917. file:///Bash-project/project1/UKCensus2021.pdf
+2918. file:///Bash-project/project1/UMR_8545.pdf
+2919. file:///Bash-project/project1/USCensus2020.pdf
+2921. file:///Bash-project/project1/Uraz2020.pdf
+2923. file:///Bash-project/project1/Usher1980.pdf
+2924. file:///Bash-project/project1/Valfort2015.pdf
+2925. file:///Bash-project/project1/VanDerStraetenetalJES2013.pdf
+2926. file:///Bash-project/project1/VanDerStraetenetalSIR2009.pdf
+2927. file:///Bash-project/project1/VanEffenterre2017.pdf
+2928. file:///Bash-project/project1/Vanoli2002.pdf
+2929. file:///Bash-project/project1/VanoliRIW1999.pdf
+2930. file:///Bash-project/project1/Vauban1707(inDaire1843).pdf
+2931. file:///Bash-project/project1/Vauban1707.pdf
+2932. file:///Bash-project/project1/Vaughan2001.pdf
+2933. file:///Bash-project/project1/VeldeJPE2009.pdf
+2934. file:///Bash-project/project1/VeldeWeirJEH1992.pdf
+2935. file:///Bash-project/project1/VentiWise2000.pdf
+2936. file:///Bash-project/project1/VentiWiseNBERVolume2001.pdf
+2937. file:///Bash-project/project1/VentiWiseNBERWP2000.pdf
+2938. file:///Bash-project/project1/Vermeulen2014.pdf
+2939. file:///Bash-project/project1/Veron2013.pdf
+2940. file:///Bash-project/project1/Vickrey1944.pdf
+2941. file:///Bash-project/project1/VickreyAER1992.pdf
+2942. file:///Bash-project/project1/Villa2010.pdf
+2943. file:///Bash-project/project1/VillepinAN05102005.pdf
+2944. file:///Bash-project/project1/Vivementlesocialisme.pdf
+2945. file:///Bash-project/project1/VivementlesocialismeCouv.pdf
+2946. file:///Bash-project/project1/VoigtlanderVoth2009.pdf
+2947. file:///Bash-project/project1/VoigtlanderVoth2013.pdf
+2948. file:///Bash-project/project1/VoigtlanderVoth2013b.pdf
+2949. file:///Bash-project/project1/VonNeumann1945.pdf
+2950. file:///Bash-project/project1/Voth1998.pdf
+2951. file:///Bash-project/project1/Voth2003.pdf
+2952. file:///Bash-project/project1/WIR2018Seuil.pdf
+2954. file:///Bash-project/project1/WTID.pdf
+2955. file:///Bash-project/project1/Waijenburg2018JEH.pdf
+2956. file:///Bash-project/project1/Waldenstrom2009.pdf
+2957. file:///Bash-project/project1/Waldenstrom2012.pdf
+2959. file:///Bash-project/project1/Wallis00.pdf
+2960. file:///Bash-project/project1/WalmsleyWorld_prison_population_list_11th_edition_0.pdf
+2961. file:///Bash-project/project1/WalraetVincent2002.pdf
+2963. file:///Bash-project/project1/Watkins1908.pdf
+2964. file:///Bash-project/project1/Weale2009.pdf
+2965. file:///Bash-project/project1/WealeNIER2008.pdf
+2966. file:///Bash-project/project1/WealeNIER2009.pdf
+2967. file:///Bash-project/project1/WeiWu2003.pdf
+2968. file:///Bash-project/project1/WeiZhang11.pdf
+2969. file:///Bash-project/project1/WeiZhang2009.pdf
+2970. file:///Bash-project/project1/Weil2010.pdf
+2971. file:///Bash-project/project1/Weil2011.pdf
+2972. file:///Bash-project/project1/WeinzierlRES2011.pdf
+2973. file:///Bash-project/project1/WeitzmanJEL2007.pdf
+2974. file:///Bash-project/project1/WestASPF1908.pdf
+2975. file:///Bash-project/project1/WeylZhang2016.pdf
+2976. file:///Bash-project/project1/WeylZhang2018.pdf
+2978. file:///Bash-project/project1/Wilhelm1996.pdf
+2979. file:///Bash-project/project1/Williamson84.pdf
+2980. file:///Bash-project/project1/Williamson1995.pdf
+2981. file:///Bash-project/project1/Williamson2003.pdf
+2982. file:///Bash-project/project1/Williamson2009.pdf
+2983. file:///Bash-project/project1/Winstonetal2003.pdf
+2984. file:///Bash-project/project1/Wolfers2003.pdf
+2985. file:///Bash-project/project1/Wolff1989.pdf
+2986. file:///Bash-project/project1/Wolff1991.pdf
+2987. file:///Bash-project/project1/Wolff1996.pdf
+2988. file:///Bash-project/project1/Wolff1999.pdf
+2989. file:///Bash-project/project1/Wolff2002.pdf
+2990. file:///Bash-project/project1/Wolff2010.pdf
+2991. file:///Bash-project/project1/WolffGittleman2011.pdf
+2992. file:///Bash-project/project1/WolffGittleman2013.pdf
+2993. file:///Bash-project/project1/WolffMarley1986.pdf
+2994. file:///Bash-project/project1/WolffRIW1989.pdf
+2995. file:///Bash-project/project1/WolffRIW1994.pdf
+2996. file:///Bash-project/project1/WolffRIW1996.pdf
+2997. file:///Bash-project/project1/WolffZacharias2009.pdf
+2998. file:///Bash-project/project1/WooMora2021.pdf
+2999. file:///Bash-project/project1/Woodward00.pdf
+3000. file:///Bash-project/project1/World%20Bank%2023-03-2012.pdf
+3002. file:///Bash-project/project1/WorldBank2006.pdf
+3003. file:///Bash-project/project1/WorldMatrimonialPropertyRegimes.pdf
+3004. file:///Bash-project/project1/WosmanWest2002.pdf
+3005. file:///Bash-project/project1/Wright04.pdf
+3006. file:///Bash-project/project1/WrightRIW2004.pdf
+3007. file:///Bash-project/project1/X%2002-05-2011.pdf
+3009. file:///Bash-project/project1/Xenigiani2004.pdf
+3010. file:///Bash-project/project1/Yang12.pdf
+3011. file:///Bash-project/project1/Yao2021.pdf
+3012. file:///Bash-project/project1/Yifei2016.pdf
+3013. file:///Bash-project/project1/You2014.pdf
+3014. file:///Bash-project/project1/Young03.pdf
+3015. file:///Bash-project/project1/ZachariasVakulabharanam2009.pdf
+3016. file:///Bash-project/project1/ZagorskyRIW1999.pdf
+3017. file:///Bash-project/project1/Zhu2009.pdf
+3018. file:///Bash-project/project1/Zhu2009a.pdf
+3019. file:///Bash-project/project1/Zighed2018.pdf
+3020. file:///Bash-project/project1/Zingales2006.pdf
+3021. file:///Bash-project/project1/Zucman2008.pdf
+3022. file:///Bash-project/project1/Zucman2010.pdf
+3023. file:///Bash-project/project1/Zucman2013.pdf
+3024. file:///Bash-project/project1/Zucman2013These.pdf
+3025. file:///Bash-project/project1/Zucman2014.pdf
+3026. file:///Bash-project/project1/Zucman2014JEP.pdf
+3027. file:///Bash-project/project1/aap-blanc-2010.pdf
+3028. file:///Bash-project/project1/b.pdf
+3029. file:///Bash-project/project1/blueprintcss-1-0-cheatsheet-4-2-gjms.pdf
+3030. file:///Bash-project/project1/burgess_wilson_lupton_eale2004(march).pdf
+3032. file:///Bash-project/project1/capitalincometax-slides.pdf
+3038. file:///Bash-project/project1/cv-en.pdf
+3040. file:///Bash-project/project1/cv-fr.pdf
+3041. file:///Bash-project/project1/cv.pdf
+3042. file:///Bash-project/project1/cvUS.pdf
+3043. file:///Bash-project/project1/d.pdf
+3045. file:///Bash-project/project1/diamond-saezJEP_v14.pdf
+3046. file:///Bash-project/project1/distributionwealth.pdf
+3047. file:///Bash-project/project1/dp2005_51.pdf
+3048. file:///Bash-project/project1/eco%20de%20la%20consanguinte.pdf
+3050. file:///Bash-project/project1/f1-12.pdf
+3051. file:///Bash-project/project1/f1.pdf
+3052. file:///Bash-project/project1/f2.pdf
+3053. file:///Bash-project/project1/f3.pdf
+3054. file:///Bash-project/project1/f6.pdf
+3055. file:///Bash-project/project1/f7.pdf
+3056. file:///Bash-project/project1/f8.pdf
+3057. file:///Bash-project/project1/f9.pdf
+3058. file:///Bash-project/project1/f10.pdf
+3062. file:///Bash-project/project1/imposition%20des%20frontaliers%20et%20des%20fonctionnaires%20internationa.pdf
+3063. file:///Bash-project/project1/intro-slides.pdf
+3064. file:///Bash-project/project1/laborsupply_slides.pdf
+3066. file:///Bash-project/project1/lisez_moi.pdf
+3070. file:///Bash-project/project1/powerlaws80-20rule.pdf
+3071. file:///Bash-project/project1/pppindustrie.pdf
+3072. file:///Bash-project/project1/presentation%20final.pdf
+3076. file:///Bash-project/project1/public_economics_lectures.pdf
+3079. file:///Bash-project/project1/stata.pdf
+3080. file:///Bash-project/project1/t1.pdf
+3081. file:///Bash-project/project1/t2.pdf
+3082. file:///Bash-project/project1/t3.pdf
+3083. file:///Bash-project/project1/t4.pdf
+3084. file:///Bash-project/project1/t5.pdf
+3085. file:///Bash-project/project1/t6.pdf
+3096. file:///Bash-project/project1/tax-redistribution_slides.pdf
+3097. file:///Bash-project/project1/taxableincome-slides.pdf
+3098. file:///Bash-project/project1/taxenforcement-slides.pdf
+3100. file:///Bash-project/project1/traite-europe-EN.pdf
+3101. file:///Bash-project/project1/traite-europe-FR.pdf
+3102. file:///Bash-project/project1/w10281.pdf

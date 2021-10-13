@@ -1,0 +1,147 @@
+   #[1]SpatialKey Support » Feed [2]SpatialKey Support » Comments Feed
+   [3]alternate [4]alternate [5]alternate
+
+   [6]SpatialKey Support
+
+     * [7]Home
+     * [8]FAQs
+     * [9]Contact Us
+
+   [-- Navigation --]
+   Have a question? Ask Search
+
+Sample CSV Data
+
+     * [10]Home/
+     * [11]Getting Started with SpatialKey /
+     * [12]Training Resources /
+     * [13]Importing & Geocoding
+
+   Jump right in and try out SpatialKey using sample data!
+
+   SpatialKey unlocks the full potential of time- and location-based
+   information like nothing else out there. In minutes, you can upload a
+   data file and create and share interactive time- and map-based analyses
+   and reports. Even if you're new to SpatialKey, it's easy to start
+   exploring the power of location intelligence. Upload your own data or
+   grab a sample file below to get started. Easy steps:
+    1. Click on one of the sample files below. It will be saved to your
+       desktop.
+    2. Log in to your SpatialKey account and follow the simple onscreen
+       instructions to upload the sample file from your desktop.
+
+Sample data files
+
+Sample insurance portfolio ([14]download .csv file)
+
+   The sample insurance file contains 36,634 records in Florida for 2012
+   from a sample company that implemented an agressive growth plan in
+   2012.  There are total insured value (TIV) columns containing TIV from
+   2011 and 2012, so this dataset is great for testing out the comparison
+   feature.  This file has address information that you can choose to
+   geocode, or you can use the existing latitude/longitude in the file.
+
+Real estate transactions ([15]download .csv file)
+
+   The Sacramento real estate transactions file is a list of 985 real
+   estate transactions in the Sacramento area reported over a five-day
+   period, as reported by the [16]Sacramento Bee. Note that this file has
+   address level information that you can choose to geocode, or you can
+   use the existing latitude/longitude in the file.
+
+Sales transactions ([17]download .csv file)
+
+   The Sales Jan 2009 file contains some "sanitized" sales transactions
+   during the month of January. Below is a sample of a report built in
+   just a couple of minutes using the Blank Canvas app. These 998
+   transactions are easily summarized and filtered by transaction date,
+   payment type, country, city, and geography. Note that these records are
+   already geocoded, so you can use the existing latitude/longitude in the
+   file.
+
+Company Funding Records ([18]download .csv file)
+
+   The TechCrunch Continental USA file is a listing of 1,460 company
+   funding records reported by [19]TechCrunch. As part of the import
+   process, geocode these records using the city and state information in
+   the file.  Try adding another map layer with the Dataset Configuration
+   Panel so you can visualize both a heatmap and graduated circles with
+   the same dataset.
+
+Crime Records ([20]download .csv file)
+
+   The Sacramento crime January 2006 file contains 7,584 crime records, as
+   made available by the Sacramento Police Department. Law enforcement
+   agencies should enjoy working with this dataset.
+
+
+   Tagged:[21]getting started
+
+Related Articles
+
+     * [22][icon-article.png] SpatialKey Training Overview
+     * [23][icon-article.png] Section 1 - First Steps
+     * [24][icon-article.png] Section 2 - All About Importing Data
+     * [25][icon-article.png] Importing Shapefiles
+
+[26]RSS [27]Recent SpatialKey Blog Posts
+
+Most Viewed Support Articles
+
+     * [28]Dataset Joins
+     * [29]Custom Shapes
+     * [30]Data Mart
+     * [31]Filtering in SpatialKey
+     * [32]Policy File Setup
+     * [33]Visual Map Layers
+     * [34]Summarize Data With the Unique Value List
+
+     * [35]Home
+     * [36]FAQs
+     * [37]Contact Us
+     * [38]Careers
+     * [39]SpatialKey.com
+
+   © Copyright 2016 SpatialKey
+
+References
+
+   1. https://support.spatialkey.com/feed/
+   2. https://support.spatialkey.com/comments/feed/
+   3. https://support.spatialkey.com/wp-json/wp/v2/posts/69
+   4. https://support.spatialkey.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsupport.spatialkey.com%2Fspatialkey-sample-csv-data%2F
+   5. https://support.spatialkey.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsupport.spatialkey.com%2Fspatialkey-sample-csv-data%2F&format=xml
+   6. https://support.spatialkey.com/
+   7. http://support.spatialkey.com/
+   8. http://support.spatialkey.com/category/faqs/
+   9. https://support.spatialkey.com/contact
+  10. https://support.spatialkey.com/
+  11. https://support.spatialkey.com/category/getting-started/
+  12. https://support.spatialkey.com/category/training-resources/
+  13. https://support.spatialkey.com/category/importing-and-geocoding/
+  14. https://support.spatialkey.com/wp-content/uploads/2021/02/FL_insurance_sample.csv.zip
+  15. https://support.spatialkey.com/wp-content/uploads/2021/02/Sacramentorealestatetransactions.csv
+  16. http://www.sacbee.com/
+  17. https://support.spatialkey.com/wp-content/uploads/2021/02/SalesJan2009.csv
+  18. https://support.spatialkey.com/wp-content/uploads/2021/02/TechCrunchcontinentalUSA.csv
+  19. http://www.techcrunch.com/
+  20. https://support.spatialkey.com/wp-content/uploads/2021/02/SacramentocrimeJanuary2006.csv
+  21. https://support.spatialkey.com/tag/getting-started/
+  22. https://support.spatialkey.com/spatialkey-training-overview/
+  23. https://support.spatialkey.com/spatialkey-training-first-steps/
+  24. https://support.spatialkey.com/spatialkey-training-all-about-importing-data/
+  25. https://support.spatialkey.com/what-is-a-shape-file/
+  26. http://blog.spatialkey.com/blog/rss.xml
+  27. file:///Bash-project/data.html
+  28. https://support.spatialkey.com/joining-datasets/
+  29. https://support.spatialkey.com/custom-shapes/
+  30. https://support.spatialkey.com/data-mart/
+  31. https://support.spatialkey.com/filtering-in-spatialkey/
+  32. https://support.spatialkey.com/policy-file-setup/
+  33. https://support.spatialkey.com/visual-map-layers/
+  34. https://support.spatialkey.com/summarize-data-with-the-unique-value-list/
+  35. http://support.spatialkey.com/
+  36. https://support.spatialkey.com/all-faqs/
+  37. https://support.spatialkey.com/contact
+  38. https://www.spatialkey.com/jobs
+  39. http://www.SpatialKey.com/

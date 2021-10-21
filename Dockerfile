@@ -8,9 +8,13 @@ RUN apt-get update && \
     curl \
     dnsutils \
     iputils-ping \
-    telnet
+    telnet \
+    git
 
 RUN mkdir New-project
+
+EXPOSE 8080:8080
+
 #RUN mkdir mount
 #RUN unminimize #include man pages in this container image
 

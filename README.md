@@ -16,6 +16,6 @@ This is where I put in and track my progress using Bash. Eventually I can better
 	Description: It lets you know how to describe a script
 	Run Information: Everytime you look up this READme
 
-[dark](https://github.com/Ayobama/Bash-Shell-Scripting/blob/master/tree.jpg)
+#####[dark](https://github.com/Ayobama/Bash-Shell-Scripting/blob/master/tree.jpg)
 
 Contact: <darkenstein.r@gmail.com>
